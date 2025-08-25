@@ -2863,7 +2863,7 @@
   },
   "1026": {
     "lang": "h",
-    "mainPoster": "https://m.media-amazon.com/images/M/MV5BN2ZjYzk5MjEtNzZhYy00NTgzLWFmNmItMGViMTc0YzA1NDQ0XkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_.jpg",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYWNhMDkwZTYtZjAxOC00ODMxLWE1NWQtYTcwNjM5Njc2NzllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "name": "Mukhbir - The Story of a Spy",
     "seasons": {
       "Mukhbir - The Story of a Spy Season 1": {
@@ -115802,6 +115802,56 @@
       }
     }
   },
+  "3649": {
+    "lang": "her",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/4/44/Bon_Appetit%2C_Your_Majesty.jpg",
+    "name": "Bon Appetit, Your Majesty (TV Series 2025)",
+    "seasons": {
+      "Bon Appetit, Your Majesty (TV Series 2025) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/EQHfUuK43uZOlzyqLjyON84BRPi7MhwsubM3NSpiQEQtZg?e=nSyndN"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Bon Appetit, Your Majesty (TV Series 2025) Season 1"
+      }
+    }
+  },
+  "3650": {
+    "lang": "hej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYTgyZDhmMTEtZDFhNi00MTc4LTg3NjUtYWJlNGE5Mzk2NzMxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Death Note (TV Series 2006–2007)",
+    "seasons": {
+      "Death Note (TV Series 2006–2007) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/EYUyxP6UZBREt8RQe0Uc1mIBtSsNP1CVXn4G22IPqX_DFQ?e=MDbmIk",
+          "https://1drv.ms/v/c/c0d06e510338ace0/EYyPxTBW0flGivOTvu7cP78BS_LjVB934vABqgmmKTTdsQ?e=lYvP1R"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Death Note (TV Series 2006–2007) Season 1"
+      }
+    }
+  },
+  "3651": {
+    "lang": "r",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/e/e7/My_Troublesome_Star_Poster.jpg",
+    "name": "My Troublesome Star (TV Series 2025)",
+    "seasons": {
+      "My Troublesome Star (TV Series 2025) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/EWG4XnB1EMFFrZJk-fguqS4BACAWQ7e8cySCni1cpmp7Cg?e=dfM8cl",
+          "https://1drv.ms/v/c/c0d06e510338ace0/EXpusWCxjJtDvpkRJxPSFxwBcMw9dJxyvkt7CTVEA062Ow?e=tcWxNu"
+        ]
+      },
+      "seasons_names": {
+        "season1": "My Troublesome Star (TV Series 2025) Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -116109,5 +116159,5 @@
       }
     }
   },
-  "header": 3648
+  "header": 3651
 }
