@@ -70626,7 +70626,8 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/EZiyY5539yZNtYYPyjhOY_EB0UbBiySt3-qu_6LG3D8xHw?e=sIbXfG",
           "https://1drv.ms/v/c/c0d06e510338ace0/EXybWXyGjedKqQhdAxm9WmMBTgKuB8C4omuHos0D1dgcMA?e=J87K9B",
           "https://1drv.ms/v/c/c0d06e510338ace0/EaYXA7mXF-xGlo2KB3YLC58BV-SpKRdyDwRg-d_oyVWxGA?e=drS9RV",
-          "https://1drv.ms/v/c/c0d06e510338ace0/EfVl8UeNHhpIlEaoACdMjz0BZyfYDs0NirvzMvolIa1iYw?e=etrbHO"
+          "https://1drv.ms/v/c/c0d06e510338ace0/EfVl8UeNHhpIlEaoACdMjz0BZyfYDs0NirvzMvolIa1iYw?e=etrbHO",
+          "https://1drv.ms/v/c/c0d06e510338ace0/EeUIH31FbKtHuFc06nais0UBFSXsUXxqx3HVOjCdZ_o1sw?e=B8g0kr"
         ]
       },
       "seasons_names": {
@@ -116680,6 +116681,40 @@
       }
     }
   },
+  "3674": {
+    "lang": "her",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/8/82/Confidence_Queen_TV_series_poster.jpg",
+    "name": "Confidence Queen (TV Mini Series 2025)",
+    "seasons": {
+      "Confidence Queen (TV Mini Series 2025) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/ESHEfacJ5zNKmndvwNq2gkMBRN9uLmRcxOQIXICeFCH2MA?e=ZJumEL"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Confidence Queen (TV Mini Series 2025) Season 1"
+      }
+    }
+  },
+  "3675": {
+    "lang": "r",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZGU1Y2VjZTctZDIwMS00Y2ZjLWE1MzctNzM2NWIxYTM0YzU1XkEyXkFqcGc@._V1_.jpg",
+    "name": "Twelve (TV Mini Series 2025)",
+    "seasons": {
+      "Twelve (TV Mini Series 2025) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/EePsqBvvNXxKnzRDQ78CyyoBrCBzplTOKOG1FTUYBCWGhg?e=eZopbp",
+          "https://1drv.ms/v/c/c0d06e510338ace0/EZBnUAMDs2NFoaqvCgik-KsBx7DwDY6bGBjvBY00Ht_Wkw?e=M4Zaco",
+          "https://1drv.ms/v/c/c0d06e510338ace0/EZKvzFuQdKZEoDwzutUuzC8BTHCRKA5oiezxhlCuZC68gw?e=KNQAg1"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Twelve (TV Mini Series 2025) Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -116987,5 +117022,5 @@
       }
     }
   },
-  "header": 3673
+  "header": 3675
 }
