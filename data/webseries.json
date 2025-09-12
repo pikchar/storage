@@ -38503,11 +38503,20 @@
           "https://1drv.ms/v/c/3c268fa0d7305d02/EV_HFj8bloRFl_Wf34AmkY4B0PWoSpaIwYSrlCTPrzjIAw?e=Uy0BIb"
         ]
       },
+      "Only Murders in the Building Season 5": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/ERVHSjKOnEVHo_M8j_AtMl0BKGpyPnpu8U-JCnCc7NI_uQ?e=jD3DWg",
+          "https://1drv.ms/v/c/c0d06e510338ace0/ES-1WqW__glIt15kznZjpbsBuMLsGfRv3HnrsUykFaXagw?e=Gvp4yY",
+          "https://1drv.ms/v/c/c0d06e510338ace0/EcuWu_w3h-FMmQnT-9fZLqcBJ54wDnjoQxl7eaykNxpt3g?e=rKWcvK"
+        ]
+      },
       "seasons_names": {
         "season1": "Only Murders in the Building Season 1",
         "season2": "Only Murders in the Building Season 2",
         "season3": "Only Murders in the Building Season 3",
-        "season4": "Only Murders in the Building Season 4"
+        "season4": "Only Murders in the Building Season 4",
+        "season5": "Only Murders in the Building Season 5"
       }
     }
   },
@@ -72208,9 +72217,16 @@
           "https://1drv.ms/v/c/3c268fa0d7305d02/EXn6DBANNCZPt0BeitXYkcEBvrUqyl_iH6IenEcNBV0kGQ?e=RYu3wu"
         ]
       },
+      "The Walking Dead Daryl Dixon Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/ERGWqCFRR7dLkev4zeyoFTABl8vqinSDHFe-HR8IBTAHeg?e=uap5h9"
+        ]
+      },
       "seasons_names": {
         "season1": "The Walking Dead Daryl Dixon Season 1",
-        "season2": "The Walking Dead Daryl Dixon Season 2"
+        "season2": "The Walking Dead Daryl Dixon Season 2",
+        "season3": "The Walking Dead Daryl Dixon Season 3"
       }
     }
   },
@@ -97978,8 +97994,22 @@
           "https://1drv.ms/v/c/8b190c334b4aeb8d/EUBBn7DXlUJAkP_kHrBC93oBrpJi3l0eO-LaDGNQ1zLrDg?e=X5JTrk"
         ]
       },
+      "Wolf King Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/f9cf32680c009a73/EfAc2pLhrBhHpo6-t6f9eJoBSSGCOBkE15Pn-tCw1blZ_Q?e=7E5q8Q",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EbP-zNO_k45Im1MZbSieez4B5td6qMi-egRVmv67RZ9E4Q?e=pmyo5h",
+          "https://1drv.ms/v/c/f9cf32680c009a73/Ed2OTIef95FNjIa53qzbJYsBvTK5rds9I63jvUfvIlPl2Q?e=Zz43CL",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EV9zK_PBzgNCsJfclcMI7xkBfVg4T3F_1XzWZF2M3DQkqw?e=yCdspp",
+          "https://1drv.ms/v/c/f9cf32680c009a73/ETCCqqVXqzNMl5_cWDi0KYgBTBaqkdX3ZUGRM-MNw5J6MQ?e=cjypow",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EYTJ09OCmVpCj_Q4WU9hiFMBDxzXycgiJ6mJ0TIi9co6JQ?e=YNsjxd",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EZVb5Z50i7hFs8QrOlNF6scBd4mucnZTbs0ipysHblh9vw?e=Aop4dX",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EehpoaBAsL9GsXARLGnIcL8B5Mxg2yM33cdfpgNYt3izQQ?e=dJVDd1"
+        ]
+      },
       "seasons_names": {
-        "season1": "Wolf King Season 1"
+        "season1": "Wolf King Season 1",
+        "season2": "Wolf King Season 2"
       }
     }
   },
@@ -115288,7 +115318,9 @@
           null,
           "https://1drv.ms/v/c/96b25bece9080c81/ESNe3780pw5MoiHMr2LOH9wBu_dzAU0dSStmIbuSr-1rdw?e=gDeOeD",
           "https://1drv.ms/v/c/96b25bece9080c81/EfW_cexDz8tIinQWtCxbA-sB7WK8R90_DNlDdepdzV4dcQ?e=UNqVDU",
-          "https://1drv.ms/v/c/96b25bece9080c81/Edf3yxESrZhJi2M7cUIWI3cBb8ERbIp58JFivoElKBtKkw?e=xuTV4F"
+          "https://1drv.ms/v/c/96b25bece9080c81/Edf3yxESrZhJi2M7cUIWI3cBb8ERbIp58JFivoElKBtKkw?e=xuTV4F",
+          "https://1drv.ms/v/c/c0d06e510338ace0/EbUsYptLdhVKj1RFlGHOJVcBihAND9iRyvbhgFUY1LKyMQ?e=dAc1Mb",
+          "https://1drv.ms/v/c/c0d06e510338ace0/EeO3bPSiz31HsrpcOU3mWa4BJ8FHP7ck5qZgEsGzQPeGVQ?e=Ne877l"
         ]
       },
       "seasons_names": {
@@ -117187,6 +117219,86 @@
       }
     }
   },
+  "3686": {
+    "lang": "e",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/6/65/Task_series_poster.jpg",
+    "name": "Task",
+    "seasons": {
+      "Task Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/ETWS1XwGYIFMupJll4tavccBpaBm8ZRZLB0YoI7tDUa3gA?e=R7lAkD"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Task Season 1"
+      }
+    }
+  },
+  "3687": {
+    "lang": "he",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BN2E1MGM3ZjEtYTQwMS00ZWUzLTk1NTctY2U4NzQzY2YwYWRmXkEyXkFqcGc@._V1_.jpg",
+    "name": "Helluva Boss",
+    "seasons": {
+      "Helluva Boss Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/96b25bece9080c81/EZf5yRWLBOtDiTrj1kFy2CMBGBUMpYJMgGwNxGDfZlqXlw?e=Q5IfTd",
+          "https://1drv.ms/v/c/96b25bece9080c81/EZlv2ifBOeVIrCxQzwd7As8BB2fUKxppQFiOIyx_htW-GQ?e=bNyS16",
+          "https://1drv.ms/v/c/96b25bece9080c81/EXA-lxl3XehCpZBN__FW-uMBJ5GQflJXbzY0L3yDLkadQA?e=4yO3AX",
+          "https://1drv.ms/v/c/96b25bece9080c81/Ee28SbMiqWNNpA5EEAMqTMwB_EyNnptaLpFb_K1-bZEYPw?e=QJcFLA",
+          "https://1drv.ms/v/c/96b25bece9080c81/EXMHSYG9VD9MrouBRdGhsa0BIvGFIo6T_is4xtAlV3R7zA?e=UjceFF",
+          "https://1drv.ms/v/c/96b25bece9080c81/ES5jHiorb7VGr5ETOmUsTYMBAekxF3bncAqRniar5NPkMQ?e=gVZ6tZ",
+          "https://1drv.ms/v/c/96b25bece9080c81/ESw3VgC-DXhNtORANpNElzgBQ0AMeAEi7PkMyhCJhf_Z2g?e=73qw3e",
+          "https://1drv.ms/v/c/96b25bece9080c81/EUdR5CDg5ENNkWQMCNReBhQB_J4S-Ts7_01wI0y7pfPAhg?e=RJrDJ6"
+        ]
+      },
+      "Helluva Boss Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EXcqplo0PbRPnaCoeLPgznwBuwb90IBWGnbMlWxzoBeq4Q?e=bVglii",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EXJ2hvuLxlFGqis9G4Hoq0sBhMLKvJ8BDrVC3NMxfoXpcA?e=tYzzkk",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EfeolB8MRpVKrGEKafsfkGQBlayQTyAfvQBiVvS4d2N7Yg?e=f3r0wS",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EfLOM44cKqpGrzrYlqw_ijUBBXCnkroqJLf1Ue1tTF8mug?e=7MAsxW",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EbaRijUbqw9NiH3x7y5pwyABJvk5n89E-Ds80QOZX5tWRw?e=M4XfXD",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EcXQazobpPFPizr2xIYZDxwBWnuEI0FJkunPR-f1bXTHqg?e=M3VvMf",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EdGmMDbz_O1CmcztaNsc6JgBAdd9vYjAg84vDTi_xXXwqw?e=9DQ5Zn",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EeJePkekPGJOmeE4GlTjFBYBdaOs6LuFVaG3VNumW_3r1Q?e=cBxgz0",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/ETyKAH0-QC1EsnUhVwThDSIBEY-u0Aag3BvmGSrRRKUuOQ?e=JtuIQK",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EWYst2-aK_ZOtmodVHSKAUYBFjycvZA8GxpAm2-CE1BNbg?e=mX10qn",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/ETR3bUaN1O5ImcPLYRJfXmcBD3nkN3a9yTLO2RccBMDdpQ?e=90cnrE",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EWDmLUKO3G1HlF6Mmb7x0H0Bi9riLZnSMizBjUhsqJqKyQ?e=kHqx38"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Helluva Boss Season 1",
+        "season2": "Helluva Boss Season 2"
+      }
+    }
+  },
+  "3688": {
+    "lang": "h",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTc1MTk1MjEtNDdhZi00ZTcyLWE0NGYtZWYyM2I4NTc1MTkzXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+    "name": "Do You Wanna Partner",
+    "seasons": {
+      "Do You Wanna Partner Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/EUXMn84H21hLk-ilClzmWP8BXpcmu9Iljp8O7R6kRAigDA?e=W4DSIN",
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/EZKZrk0rkTpGnzCQbAYQrL4Bb7XS9dSLAsMEM6t5qn20JQ?e=VT9sKM",
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/EZMdD-IhE7NIvYcduZTwKjUBEyL16Cil3XW3w2-bGxek2A?e=r7yfjH",
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/Ecm6SatRfZhNhBG8J46X7M8B19wtyRrTDKkGOdvEuytGIg?e=GzHuqp",
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/EapUMNKeC9FKiDA0GndLbPUB3jeX5RxObALW9p4x1JPaNQ?e=NQSAHv",
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/EVFsdIRHgpxEuSSLr0RGaEoBPGeS0_AI36B2EgDeBxComw?e=hJJNet",
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/EVXt05GQ8d1Aio-MQ7dDpmQBf5GslhSW-063Cp6OIeGkqg?e=gjoWVY",
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/Ec_PZxZ6J0dFhSz30hoZKuYBjEbS9Mt_Ela_F_rTHdCGJw?e=bAKm8C"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Do You Wanna Partner Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -117494,5 +117606,5 @@
       }
     }
   },
-  "header": 3685
+  "header": 3688
 }
