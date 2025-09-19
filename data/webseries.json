@@ -117849,6 +117849,28 @@
       }
     }
   },
+  "3705": {
+    "lang": "h",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BOGJlYjliMGMtYTAxOC00YWU4LWE1NTktM2NhMDdmZTcxOTk2XkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg",
+    "name": "The Bads of Bollywood",
+    "seasons": {
+      "The Bads of Bollywood Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/96b25bece9080c81/EX0AxJOysTROuew4DywsQLcBx51orMuVedE6MscAkU0egg?e=hR1LEA",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EShiKARvKt9Ml_aHDTfzNdoBx8RQZnZoI2UpqjvIaguJ6w?e=uUq7Cc",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EfH4QxiYz0BCo03_5QvM5oEB87Pn0soZrH8ZnZWiFAtcfQ?e=RG7gOT",
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/EXqj3Qoapx1Olsnrzv1KHakB5uB9vZBv5XMXretkbXaJ5g?e=6iRY5Q",
+          "https://1drv.ms/v/c/ebf8d0fb6b7e26d2/EX5UdF7L-jdHsTHEpNxbwyoBdWcK112iVxcTcAcEfZK7TA?e=hNvfch",
+          "https://1drv.ms/v/c/6554eb5eaf0dba09/ERfVdFBdp0tMhJiAaxnpImwB01JC4pb-mJSx1jYxF9cCgA?e=ayynRy",
+          "https://1drv.ms/v/c/6554eb5eaf0dba09/Ec8oUvDbG_xCu2tJkJPa4i8BP6O-yn2ACYGvBDvusFAQCw?e=nHkzrZ"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Bads of Bollywood Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -118156,5 +118178,5 @@
       }
     }
   },
-  "header": 3704
+  "header": 3705
 }
