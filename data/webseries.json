@@ -72047,8 +72047,24 @@
           "https://1drv.ms/v/c/3c268fa0d7305d02/EaPU9ui3R8JBj0C6FI6ECZwB-e0r23gVarOqYsFeb_51WA?e=U3YKSA"
         ]
       },
+      "English Teacher Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/96b25bece9080c81/EY7ENOpyJSVDjEboeqW7Qw0BDspjbx5K6xyZ8HH-JZoVcA?e=PszRcx",
+          "https://1drv.ms/v/c/96b25bece9080c81/EUUEGKBPSxNGjAkYeiPBD9kBeXwvyqCBTC2G6O1wsbb5Ng?e=WHBNVJ",
+          "https://1drv.ms/v/c/96b25bece9080c81/EVegtHMeo5BMmNXYrOTTn9ABRBVog_HJck_OZLUu2qLBmw?e=SnlnAV",
+          "https://1drv.ms/v/c/96b25bece9080c81/ETOrhS9tyyJHgJ8W_F2t1hkB8Ww7gVSfJWfjx1MMPEeCAQ?e=OYZ8Ev",
+          "https://1drv.ms/v/c/96b25bece9080c81/EWSvOy5VailLloO-ONisU58By9C9BE408eht_DwcuvsyDw?e=nrvmP6",
+          "https://1drv.ms/v/c/96b25bece9080c81/EVEWipOgS55EodDUBPBmmnsBS7_Io0RGoYYZnlvFouj_Eg?e=qKESeO",
+          "https://1drv.ms/v/c/96b25bece9080c81/EYujWUY0T2tOpQOZWKaAlQIBpcOtIChsNqxR8XNfg1uEUw?e=srnHKf",
+          "https://1drv.ms/v/c/96b25bece9080c81/ERpIFH6YwyFNlVvxuQmDzNIBEOZx4mkjhADw9KmFKLxB3A?e=WpXVVk",
+          "https://1drv.ms/v/c/96b25bece9080c81/EcQxIW9TyGdDqyNVIPhCcCwBNpNvMU3sEfsNVFKs7KlW5A?e=g3qFuG",
+          "https://1drv.ms/v/c/96b25bece9080c81/EQCa1b1ZQABJrf9xH2mQgTcBT4sHgNSmGELyHOjuJKXpFA?e=qvNDG9"
+        ]
+      },
       "seasons_names": {
-        "season1": "English Teacher Season 1"
+        "season1": "English Teacher Season 1",
+        "season2": "English Teacher Season 2"
       }
     }
   },
@@ -118566,6 +118582,77 @@
       }
     }
   },
+  "3727": {
+    "lang": "e",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/2/26/Hotel_Costiera_Teaser.jpeg",
+    "name": "Hotel Costiera",
+    "seasons": {
+      "Hotel Costiera Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EZMswWemz9tGmL-YkQySxl4BvPz9byr5n9hqw8ZQ5gjk1Q?e=Ct4wYJ",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EY5snt3lK7pJukQXghYLs50BKuqqEphljwsxoLHe0iz2ew?e=vMOeMn",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/ETTIUmJq51xHp_KOXyIg6E4B0HVTmvjrXKRZM3mm17eJzQ?e=5PAUix",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EfRdxPsOQHFHgVlql4f9AP0BM4boPK9IKA6cm9JJTcKu5g?e=fnlaIn",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/EXevMYC-a4lMiQLaHwtYLSkBa1JBfWWiZoAG19TzS-isMQ?e=D9sGOe",
+          "https://1drv.ms/v/c/41ade5ea98ce7d3c/ESDzsfppQKRPnOFbLgzGHjMBQCk-QAbVWP9YyFm3N5ZIiA?e=UOqN5T"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Hotel Costiera Season 1"
+      }
+    }
+  },
+  "3728": {
+    "lang": "hc",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMWFiMWE5ZWEtMDc2ZS00MTM4LTgyZmMtNzgxZDFjZGNmNWJkXkEyXkFqcGc@._V1_.jpg",
+    "name": "Love of Replica (TV Series 2023)",
+    "seasons": {
+      "Love of Replica (TV Series 2023) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/f9cf32680c009a73/EdovjJTl6rtMo_9om4nk0tkBfFUXR1DaavvNsG8uHlJ5zA?e=vq4LEe",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EYNBkLix_lRPoeWnGe7yY3MBCmyD62Wyas-evhn3lHgBgg?e=1GzcTb",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EXOQK6Zq1XRPjUcAPfPpmhUBhfnrXMHpVf7wfEukqX1vQQ?e=hOOtYY",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EQCRILRr3p9Jh-3Bt7pxT0ABKm1peyPWRscueM7AeJkp4A?e=eu0iv2",
+          "https://1drv.ms/v/c/f9cf32680c009a73/ESCGni192SJFm1S_ttAuYc4BICVHnhA5oqN5RUAaJRM2lA?e=c5IdOp",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EVHuj76uj-5Ll6T7Y1mCP0IBdann4x3ho7wMfIrkqBwzJw?e=nf6dmf",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EW3gwmmXeRlMqm_wHmAE8noBsYfGQ1sfHkavNZmF6IWybQ?e=n4sPTy",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EQLsN4xOdqxIkIVUcf6G5sIBCMZEsSf8flkPQ0d2RCeaNg?e=mCuI44",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EXCmukCqzWdFsmEW1mdc8bEBMgw4m0LS8qddWgVhGlYrdQ?e=MOXbE9",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EQ9X9EjZFFBFoSavWQuBGGkBoeSu0wxMp3zE353VX5rseA?e=btfkvZ",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EZGq9hqFuDJKqZxj4Q_ml-IBjJ3h2JxHWTzZe3z35AYGfQ?e=eW0MNr",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EfushWTxfRhNgOCOJRuT_oEB0DewkxqOdmJbL4kyAWGg4w?e=IbPFuj",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EbdolH5iPvlKmX4-On4uk_IBFHoWxrSZPDu6XyMEL6bR9w?e=GpnaXr",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EYKElotfkDJDj5rPR9X2SIgB2KUZ_DMZwVfiVmJ_T1VerA?e=1f5cqT",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EXjlOoNoFapNtfX8N-_8lNoB00fg0Euhigifh6iDaEjezw?e=WKZOD6",
+          "https://1drv.ms/v/c/f9cf32680c009a73/EQEaeRMuyJhJvw8xz3rEsl8BMGnV-E_KST-MB5m_lw9WIw?e=AIIxsB"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Love of Replica (TV Series 2023) Season 1"
+      }
+    }
+  },
+  "3729": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNGNkYjI3ZWUtN2MzMS00NDg5LWE5MmYtZGE4Zjc0OGVhODM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Marvel Zombies (TV Mini Series 2025)",
+    "seasons": {
+      "Marvel Zombies (TV Mini Series 2025) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/EdhooqDphzFEsB-2Fbh3nEMBo3dZzt6UjGejUdJlx0vNZA?e=5HwhbQ",
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/EYlsxQAgixlIhdQ8SOZ6zBUBOeYxrq8LnmRB_2Sq6iyYqA?e=KXrH8y",
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/ETH8p4gnYupGhWfZhy_StrMBC2XFX645wKIvNTnzS8Bu0w?e=kmhoCs",
+          "https://1drv.ms/v/c/63d68a3bd47bd2cb/EdW8zTvbGbBLgGjfVzzDD78BLBX18oaT0RdnAp_mTIfEBQ?e=EMPSNV"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Marvel Zombies (TV Mini Series 2025) Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -118873,5 +118960,5 @@
       }
     }
   },
-  "header": 3726
+  "header": 3729
 }
