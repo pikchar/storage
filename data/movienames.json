@@ -11380,7 +11380,7 @@
   "z15005": "The Chill Factor (1993)",
   "z15006": "The Crying Game (1992)",
   "z15007": "The Cutting Edge (1992)",
-  "z15008": "The Hand That Rocks the Cradle (1992)",
+  "z15008": "The Hand That Rocks the Cradle (2025)",
   "z15009": "The Lover (1992)",
   "z1501": "Nartanasala (2018)",
   "z15010": "The Mighty Ducks (1992)",
@@ -11941,7 +11941,13 @@
   "z15515": "Bomb (2025)",
   "z15516": "Kishkindhapuri (2025)",
   "z15517": "They Call Him OG (2025)",
+  "z15518": "Trees, and Other Entanglements (2023)",
+  "z15519": "The Tripper (2006)",
   "z1552": "Se7en (1995)",
+  "z15520": "The Mission (2023)",
+  "z15521": "MaXXXine (2024)",
+  "z15522": "Lokah Chapter One Chandra (2025)",
+  "z15523": "Idly Kadai (2025)",
   "z1553": "Seven (2019)",
   "z1554": "The Mask (1994)",
   "z1555": "The Menu (2022)",
@@ -20379,5 +20385,5 @@
   "z9997": "Meet the Fockers (2004) ",
   "z9998": "Mirrors (2008) ",
   "z9999": "Mojin The Lost Legend (2015) ",
-  "zlast": "15517"
+  "zlast": "15523"
 }
