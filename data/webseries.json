@@ -10248,7 +10248,7 @@
   },
   "1182": {
     "lang": "h",
-    "mainPoster": "https://m.media-amazon.com/images/M/MV5BODg1MTYyZjYtMzJhZi00ZjI3LWI3MTItZTFhZDNhZmYwMjYwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg\\",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZmI3ZTI3NmEtNjNkYS00YjEwLTkxZjUtYTE0OTE5OTBkY2ZkXkEyXkFqcGc@._V1_.jpg",
     "name": "Delhi Crime",
     "seasons": {
       "Delhi Crime Season 1": {
@@ -10273,9 +10273,21 @@
           "https://1drv.ms/v/c/3c9d61c212811588/EYgVgRLCYZ0ggDzACAAAAAABxZ13-OM_-syJE1mCmZeEZA?e=Ngi8dR"
         ]
       },
+      "Delhi Crime Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EeftZ17iujlNoE_WSq8czT8Bhp4vkwH5YieL9GzkGSRtQQ?e=IyHfVu",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EQ6Cngzidq1OhcbCFWug-_EBIo7mr6_T5QZTPKJfHHuhUw?e=IhWMng",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EdYs3xQbd5dFqe5ED6GkqnkBwk1frRcD_ued8pSxlfybRg?e=sbkxUL",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EUEV4HrmbdhMrIbpKPFC0GYBWacdJdDgAEcgeg9zimtmLA?e=zoaO5i",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/ET8J_Sexb_pEjHHna6KmCXkB6aOR5f8TpfqrlzyeOrZWIA?e=HXGztm",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EcRd6Y5ExhdOn0Fhz5j79gQB_kog5mFSvTHtGz2cEN7miw?e=hBoaGO"
+        ]
+      },
       "seasons_names": {
         "season1": "Delhi Crime Season 1",
-        "season2": "Delhi Crime Season 2"
+        "season2": "Delhi Crime Season 2",
+        "season3": "Delhi Crime Season 3"
       }
     }
   },
