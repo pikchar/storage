@@ -9587,11 +9587,21 @@
           "https://1drv.ms/v/c/3c9d61c212811588/EYgVgRLCYZ0ggDwsAwAAAAABvJ2aAOnfdY_o9zvVpHJEBQ?e=UdINj3"
         ]
       },
+      "Stranger Things Season 5": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EdBC3Vz3ZSZPvZ0kgXWn4xMBUz-bkXm2Z5zElItW6d8kWA?e=SH0ha0",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/Ed_8zFttQeVIvyJ-VCu65goBFjRuNMSfolUcY8tlgRSIow?e=JsecZF",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EYmAdnLSeoROjI3hEdPXo4AB_XBpNRF4dAusB7ZnNHdEQg?e=QrWL6g",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EVnkv2p1c61CsDWMoMtdsZgBErjfoEpDGzw4VwW9fLtgog?e=Ko2YaQ"
+        ]
+      },
       "seasons_names": {
         "season1": "Stranger Things Season 1",
         "season2": "Stranger Things Season 2",
         "season3": "Stranger Things Season 3",
-        "season4": "Stranger Things Season 4"
+        "season4": "Stranger Things Season 4",
+        "season5": "Stranger Things Season 5"
       }
     }
   },
@@ -126301,6 +126311,39 @@
       }
     }
   },
+  "3922": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNWRjMTAxYWQtODk5NC00YzcyLTgyNjEtMjg0MmFkOWRhMTg4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Blue Lights",
+    "seasons": {
+      "Blue Lights Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EWN0ZZV7M9FBpImyU9ndB6wB32UnBEusfyR8fuCicFiA1w?e=NRHq10",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EdFzcP78VrZIhwLjxZ8eGQUBFU_yd-CBuxR1j3uaKDPJBw?e=W5F8SX",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/ETJ017qrw3RNrA-at_ZEqL0B8vKdh6j5Q1s8KzYYNKIIFA?e=5iEez3",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EfLKlCJ-VtVBggJvrw_hkmkBtoGUjE2w8Kus5jLQ3vP1uQ?e=7SkDWr",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EVD_f6-OoVRMlcBwr0dU3koBG_Hh0sRKSijCfa2yLIRKWw?e=0FcNpa",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/Ea5yI_3sXfNNguRU6ZYIsSgBZnddmg5bUzHK6BGdTRKcjg?e=XWBS5g"
+        ]
+      },
+      "Blue Lights Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/4BE81B5312E361C0/Ea-SUSUz0w9LuT8UY6J-NpMB1fYNsdboFkQXelLdtJ-mvw?e=Eolq4f",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/Eb_qu71w8clAmBUciNz-L3kB2Om_S8PJsy633cdQQgus_w?e=4iC1nR",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EVfkzib_DyNHmwq5SDPH638BJOBuXNRrt_ORocRsiDiMAA?e=eVo8j3",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EQHZZLD5d9RKrY1GZxQ6QnwBN21u5c4fXeDu6ueOyiUtmg?e=rdz8a6",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EbYqELanYQtJpuX2bI8qiPsBqCsC_FAdX9bGIbTqX1T2sw?e=cLsTSA",
+          "https://1drv.ms/v/c/4BE81B5312E361C0/EYi8R8glkWZLhJO4BY6IC0oBZygt2O2V_9PtbQLielD_Hg?e=b6p7ge"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Blue Lights Season 1",
+        "season2": "Blue Lights Season 2"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -126608,5 +126651,5 @@
       }
     }
   },
-  "header": 3921
+  "header": 3922
 }
