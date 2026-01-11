@@ -49129,7 +49129,13 @@
           "https://1drv.ms/v/c/9bf254ea63ebbb71/EXG762PqVPIggJvxAAAAAAAB4cL7LwG437BVDAMq7IuFxA",
           "https://1drv.ms/v/c/9bf254ea63ebbb71/EXG762PqVPIggJvyAAAAAAAB3u7gSTglX_DMmd6FUE31oA",
           "https://1drv.ms/v/c/9bf254ea63ebbb71/EXG762PqVPIggJvzAAAAAAABN_MHjP4py4vENTN_zD7JlA",
-          "https://1drv.ms/v/c/9bf254ea63ebbb71/EXG762PqVPIggJv0AAAAAAABT_-JlOg-SavrCPi4Xj1-bQ"
+          "https://1drv.ms/v/c/9bf254ea63ebbb71/EXG762PqVPIggJv0AAAAAAABT_-JlOg-SavrCPi4Xj1-bQ",
+          "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQBWAhssRQ_PQqlE20bwb_KSATa0SGLHqHJpBwusZ8NsUhw?e=DcAHxj",
+          "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQBYMnJA9e2tTq9TO26N62IzAfJyUlc_1PsFgWDQSmlbTTY?e=VtJvQI",
+          "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQAcg3wtgGYRQaSOY2GVIZtOAdE5iS2qYM0jZ68Nj252qVc?e=X7Hd19",
+          "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQBzTgHPvrvKTbartFZSE5x4AV5nd3W-O-MvdmKD5CBNwcE?e=5MfWbw",
+          "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQDkyetvsFg3Rp7jM4S_KS0sAXu5y__R9B5xAvNtJXXDIg8?e=j3cQov",
+          "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQByOT7o_EoXR4Pa7gIpL5QqAcmoStrUZloMYSOl0rtm9q0?e=Ucukx8"
         ]
       },
       "Jujutsu Kaisen Season 3": {
@@ -71332,7 +71338,8 @@
           null,
           "https://1drv.ms/v/c/c0d06e510338ace0/IQBuLfish3PNT7SQxwtIUdyBAfgfvKp9IXNmvduL9jPScOU?e=qq1lse",
           "https://1drv.ms/v/c/c0d06e510338ace0/IQAminnX4T7HQqqAALXdMPr5AfvW0xtb7KGLreg0cmcJ6hs?e=RxmI6g",
-          "https://1drv.ms/v/c/c0d06e510338ace0/IQB9UxRnObDLSq34TFCRXWaqAfB4gLinwJryldkbXakJXYs?e=PEm2DM"
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQB9UxRnObDLSq34TFCRXWaqAfB4gLinwJryldkbXakJXYs?e=PEm2DM",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQDukCshlvmyQJPrD1-yBiYtAWzQaqI1caxU21l1ujs1kpg?e=ANAEXL"
         ]
       },
       "seasons_names": {
@@ -84937,8 +84944,21 @@
           "https://1drv.ms/v/c/1013a730eb8253ad/EYPheZqAqwZOtGh0NSA_goQBRQ8BF37cuQfc7Q3TZDzMxg?e=GGGFHI"
         ]
       },
+      "Freedom at Midnight Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/30e95eec1861649c/IQD5aYo1s4hbTKBrcPoS1ktRAVzkkHjoJ80UEIF9Y3h633I?e=wk1yNw",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQCsKhskbE4wR4ftI71vMuqYASI_MlQCUaAV_O0hEsE84IM?e=uOrgNw",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQCEw2nCs9-JTK9TtlfH9ZE_AZlU1paFl4orjp9poqxrcTE?e=7NS06d",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQAawFqyNTYuSrCUAZ0ZYBJjAawm1tF0UWEJl8h7H93qw2g?e=egjwGE",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQDrHkliU3VfRa3lweQhfq4LASe81ZdzFrJyHAUUrXzl_dg?e=lwnaaf",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQBraBRolPFvRrUf6SUGLrbNAVvhOKXmNWmITnkcOux449U?e=UHd5nj",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQBe6pQWzjPTRb67cIMnSPVKAd5n1QcbnbCpcJUmtPlagHM?e=E3g0gY"
+        ]
+      },
       "seasons_names": {
-        "season1": "Freedom at Midnight Season 1"
+        "season1": "Freedom at Midnight Season 1",
+        "season2": "Freedom at Midnight Season 2"
       }
     }
   },
@@ -132215,6 +132235,143 @@
       }
     }
   },
+  "4054": {
+    "lang": "her",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/a/a6/The_Bequeathed_poster.jpg",
+    "name": "The Bequeathed (TV Series 2024)",
+    "seasons": {
+      "The Bequeathed (TV Series 2024) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQCEZLfEql0RSKFAdZNiqm09Af1Z5mtw5IeAHZOQ3WWq_-I?e=kW6aqT",
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQAqp0UwyAdxTaAL2ngdq5ffAX-FJ12r6RuuqMN2zZXtMKI?e=1faqMp",
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQAywI5NtcARSYqWNo27ym3BAV7iruB31ZoABZ9-lFtXMCo?e=SB1q9g",
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQDfMvKDm0PnSqbVRCVWSTK5AT-XWzroRO7WHwwvkpRbQDc?e=B8kWAm",
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQBUh7QbBDM8SZLCyEjJp-4mAe3Piyid9_MWUqiK3cZcK7w?e=uFCceq",
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQCeKQLpqgnMSb0Rx8fF2IpmAapLyg64jYrgI9aESj_Lqjc?e=RwMS99"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Bequeathed (TV Series 2024) Season 1"
+      }
+    }
+  },
+  "4055": {
+    "lang": "e",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/b/b5/The_Copenhagen_Test.jpg",
+    "name": "The Copenhagen Test",
+    "seasons": {
+      "The Copenhagen Test Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQCqWpnG3nx0T519WEYammdzAa0-aM5sbQI_I1EHcqQescQ?e=0bM821",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQCCAmDDpLa4R5EQldkgv_IsAaH9XQ1Xgu-dFB-o4mPSkeM?e=fjMIwS",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQAU8IRYW1bCTIhAyBSwzrLIAcVblDhR53kN0g3P26cw72c?e=EddMUd",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQD2gRA-S5CPTJMzLyZzZDyyAd-6XbsSnVDlrjVGvrEI-cc?e=zbrJ9q",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQCpu91l1rK1RL3aPh7nFLkvAdm8OXeE_xzEryldSULwU7Q?e=WmbxxL",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQAiPFgJfKfTQbIqX7UUPfHWAecH4gyYkC2wYWTdZwtqNtw?e=PfjNSO",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQDYURDH3P54QKkAMGQ-bh1SAedk4cWp0p2uQQbXanYo7Ns?e=n8D9E4",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQBTL26B9neQQZiO-Wi3O4llAe9URjEEdLpzbVTxxtZwZEU?e=uRbVXl"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Copenhagen Test Season 1"
+      }
+    }
+  },
+  "4056": {
+    "lang": "her",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Fabulous.jpg",
+    "name": "The Fabulous (TV Series 2022)",
+    "seasons": {
+      "The Fabulous (TV Series 2022) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/30e95eec1861649c/IQAYNy__qUPhSL7XqhfCdUF6AYBPDtFWfMczZtcQiJ9lgR0?e=xkycuT",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQAaVVewUWQUTb7Xy9fqph_GAbqigkXG_uoLpSh4lzvIUbA?e=kU92EP",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQAwaKO_cE72R7LHJYBL0unMARErMMKDPD4SLkLn30MkftE?e=qYOmcj",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQDQpXzUrP8-SoyxGedRFmduAVNxTcHLdfLIDH_O0iWJVgg?e=6pLK2b",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQC21cPs1CkyTIYLy5DkHxOhATdXo14dfsgsyoBzyCLe4LI?e=hJxcCF",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQBedqO3KSX0Q5OlsISJk-DPAcsrjA4Hp1mdCNt7KkY7j_w?e=Wgdf2h",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQCpPfJIGx3iTppaY28TE7O0AQxB1nymbEFXhrDMeeoh-FM?e=bAxaar",
+          "https://1drv.ms/v/c/30e95eec1861649c/IQDVN64jzhtpTKDXyoVvxn7iARqVdaU5VU3miBJMW6U8yLU?e=FOfu9d"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Fabulous (TV Series 2022) Season 1"
+      }
+    }
+  },
+  "4057": {
+    "lang": "h",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNzFmOGIxZGUtMTg4NS00YTAwLWI1MDQtN2YwMTkyZDA2ZWIxXkEyXkFqcGc@._V1_QL75_UX190_CR0,28,190,281_.jpg",
+    "name": "Honeymoon Se Hatya",
+    "seasons": {
+      "Honeymoon Se Hatya Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQC1tDpGdnTRRLjhZTfT-saoAbedNueimWyxBDZOh2RDsUA?e=m8OA0L",
+          "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQAhVO2I8V7jQKG4eUS0YdaQAfnfvyxNGFhGefSbF9RrnCQ?e=Zc5dsW",
+          "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQDnc8a1qaCmT4rJZHuur438AX1_GFUKVTEeMA5iT-ogDXM?e=AgG6L1",
+          "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQBTSgSPCoAITYQC5Kwj5yM1AUq6ngtb62PZ20RciLI9IOc?e=esgl9y",
+          "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQDwlMudLLICTJVLlTgvp7QFAVzQ655PUELyR0qM2qXDgYM?e=WEchDY"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Honeymoon Se Hatya Season 1"
+      }
+    }
+  },
+  "4058": {
+    "lang": "htul",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/c/c4/Kuttram_Purindhavan_Official_Poster.jpg",
+    "name": "Kuttram Purindhavan The Guilty One",
+    "seasons": {
+      "Kuttram Purindhavan The Guilty One Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQATmoBd1tGFR7xnoj3BS8eDAULcMkf8X15-U6Bv21YfYfc?e=EeRpKc",
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQBh_dAVmL5uSa8reDyT4S1CAQZfbSNhaDQdEyQuors2wKw?e=5bjpS8",
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQBp4l0QOgj0QIAHHH86JYE5AXriSDVRQSk-WO3kEBQCpsY?e=UGUBgl",
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQCWYpKucQChT78QGEufavMkAYeNatsJblvWj8oWxqVZ4PY?e=hYqUw5",
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQA555Bt2_XeQJnaPuTcawqUASXjennA7c-dWWZGUlzyi84?e=Nh8a7U",
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQCkJUZvEbrsS6pm2d4nMbGUATBNwpLpfEzf5j2XsDU8dDk?e=Njehr3",
+          "https://1drv.ms/v/c/1eb904a1cb1b11bc/IQAB7cl8uYtmQJ3Tjam4iVZLAYJfrID_XONewlwUmd_9T6w?e=vRxK9M"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Kuttram Purindhavan The Guilty One Season 1"
+      }
+    }
+  },
+  "4059": {
+    "lang": "j",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNzM5ODFlMTItMWIxYy00YTFmLTk1ZTQtODJmYzRkYWJkZDJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "School Babysitters (TV Series 2018)",
+    "seasons": {
+      "School Babysitters (TV Series 2018) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQBGleFNTJWXQogZzZXm21LkAZ18GJvv0LLfChbioV5H5I0?e=BCX5iw",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQDojEGuWGlxTK7dMUlWaU8NAaYOtknwbZ6Dbo5lLYOnxtc?e=YLlkyx",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQDvelbwbRnwRLFRDSrO3MreAeKVbpY16A1zbRP12peFUX4?e=vcgtRX",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQDkGirdDb4bRYpPpbpQgVsFAf-ivuNmYLeb3W31mzsM3Nw?e=KUXdsd",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQDQKuGXop-dRYwUEMw1lp2nAdxshuetumYw1ixAlFHZK8o?e=NS4nqf",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQDVugaBSM6mRaw9XkeigzJMAcMYb1dEF_fjZuC0bGOPpC8?e=ZeORjs",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQDokoLCzPCYQ5qyyc7hW9XTAb05xEjN49OLEQq-l0o8R6E?e=54HQJz",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQDivCPuEpIQSIIdM1EJHyJyAavUTip3isEMMhZRzaLBqSQ?e=tibFDW",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQDnEiewQaX3SqRuFu0C1YikASoRw2AFtbmscAFn2Lg4jsQ?e=KKnHl8",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQCPj909W2JRRJS-Xnm_W1tYAX5TyfnwHIlZ6OeI3o0M5NU?e=kqoZmH",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQDVsFEpfuYoSopT3FSiV1n8Aat_bz2mUFc0epbWbHzhiHk?e=r0bpxZ",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQDun70h3zjhQaCdeIFAum4OAc-a3RAF277yfTOg0N8CMO8?e=RDbUuH",
+          "https://1drv.ms/v/c/ab8647342fa0af30/IQB6SRuG164CRZHIsHiGtVAkARiIeRzmwxe03Ge9fTjXxyQ?e=2X5GMA"
+        ]
+      },
+      "seasons_names": {
+        "season1": "School Babysitters (TV Series 2018) Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -132522,5 +132679,5 @@
       }
     }
   },
-  "header": 4053
+  "header": 4059
 }
