@@ -38246,6 +38246,12 @@
           "https://1drv.ms/v/c/3c268fa0d7305d02/EUuQnAvIkjpBmRkMZQWMXdwBkocATADtjDn5CK8aFzR7XQ?e=gbbtrj"
         ]
       },
+      "The Rookie Season 8": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQB9bwK74_O8T5QAHHnKKpfHAXy373AyfHhAzoiEw6PUVi8?e=pz9tTY"
+        ]
+      },
       "seasons_names": {
         "season1": "The Rookie Season 1",
         "season2": "The Rookie Season 2",
@@ -38253,7 +38259,8 @@
         "season4": "The Rookie Season 4",
         "season5": "The Rookie Season 5",
         "season6": "The Rookie Season 6",
-        "season7": "The Rookie Season 7"
+        "season7": "The Rookie Season 7",
+        "season8": "The Rookie Season 8"
       }
     }
   },
@@ -45288,7 +45295,7 @@
   },
   "1928": {
     "lang": "he",
-    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNzFhN2Y1OTktYmQ0Mi00ZmI3LThlNGUtOTk1YjliZGJjYzkxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/c/c3/Daily_Dose_of_Sunshine.jpg",
     "name": "Daily Dose of Sunshine",
     "seasons": {
       "Daily Dose of Sunshine Season 1": {
@@ -49070,7 +49077,7 @@
     }
   },
   "2038": {
-    "lang": "",
+    "lang": "j",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
     "name": "Jujutsu Kaisen",
     "seasons": {
@@ -49125,9 +49132,17 @@
           "https://1drv.ms/v/c/9bf254ea63ebbb71/EXG762PqVPIggJv0AAAAAAABT_-JlOg-SavrCPi4Xj1-bQ"
         ]
       },
+      "Jujutsu Kaisen Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQAehODC9522RY1Dm9OZFjafAe18fPQNkSnpOX-tSk6xRZk?e=6ujQsu",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQCN_Hea23eRTrroEmGaveAXAcOJt1vXZFRYjsqNXkHCMzI?e=4l2KpN"
+        ]
+      },
       "seasons_names": {
         "season1": "Jujutsu Kaisen Season 1",
-        "season2": "Jujutsu Kaisen Season 2"
+        "season2": "Jujutsu Kaisen Season 2",
+        "season3": "Jujutsu Kaisen Season 3"
       }
     }
   },
@@ -84907,7 +84922,7 @@
   },
   "2751": {
     "lang": "htulk",
-    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYTQzMjkwMmEtNjgwMC00ZGE0LWEwMjUtYjcwYzRhODc3MjQ4XkEyXkFqcGc@._V1_.jpg",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYTlkYjUzMmMtNzVlNS00MzE5LTg4MWEtOWI5ZjI4ZWNkNmQ3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "name": "Freedom at Midnight",
     "seasons": {
       "Freedom at Midnight Season 1": {
@@ -88801,8 +88816,17 @@
           "https://1drv.ms/v/c/3c268fa0d7305d02/EazZGMGHGklOm532r9axAfoBBtyCAMlVk4UugYNyFEElcA?e=hUw4EX"
         ]
       },
+      "Beast Games Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQBitVpqx0rVTpwsk8Aq6AwFAd7rPr4gJXckXyYl63hM9TU?e=dvmcOP",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQACe31r9uDnTqQE__Bn6QOOAfJ8NV4a8ySbOEXiJ0rHzPI?e=gRQNfs",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQCezo0Q9SMGRZnCvEpMi2oUASnJmRES2LfHruWxbGpGZ5M?e=bN92RQ"
+        ]
+      },
       "seasons_names": {
-        "season1": "Beast Games Season 1"
+        "season1": "Beast Games Season 1",
+        "season2": "Beast Games Season 2"
       }
     }
   },
@@ -91547,8 +91571,15 @@
           "https://1drv.ms/v/c/3c268fa0d7305d02/EcS1VpmMCwFLn9eR2Br9wkABr4olv_9Bjux9VWjqyVObKQ?e=Q3hWKr"
         ]
       },
+      "The Pitt Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQDaUyZOVaWlS6o7VJiKDEHVAXUkBe1tktYEMdWXKURlhzI?e=tOTZdl"
+        ]
+      },
       "seasons_names": {
-        "season1": "The Pitt Season 1"
+        "season1": "The Pitt Season 1",
+        "season2": "The Pitt Season 2"
       }
     }
   },
@@ -92197,8 +92228,15 @@
           "https://1drv.ms/v/c/3c268fa0d7305d02/Ec1SMjDdQKRHsJONOx09CQYBnJLomTNfE0GLPBd4U0V98w?e=U7zylv"
         ]
       },
+      "The Hunting Party Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQAjMHpkGuIVSIt89IDiZeJzARJS1SJ2sSsRWL6pbWAmFu4?e=YyegLe"
+        ]
+      },
       "seasons_names": {
-        "season1": "The Hunting Party Season 1"
+        "season1": "The Hunting Party Season 1",
+        "season2": "The Hunting Party Season 2"
       }
     }
   },
@@ -131709,9 +131747,19 @@
           "https://1drv.ms/v/c/bc2a9a9f1d2232df/IQBmmaSDg300SoZfpCDckWg8ARgP8B3CX1xy2ndoAhgsjrQ?e=rchEsS"
         ]
       },
+      "One Punch Man Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQCk47Fp8xqkQJreX5tFYV1VAflozaKcgargXauIeTVmas0?e=brCQAz",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQAl4shghAEOQqvzE7ApnP-xAdebeqSiTOIwLH3bDX2qlbo?e=IvntRc",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQDR10aWW4afSL5U0wvBfzT5AdnGVRHoS58d3f2r29972Mg?e=cq6OHg",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQC9g_uxLcmkR4meqX_JeR3-AVLpGzoZH4NI2x9T_IclZ9c?e=lWg3GK"
+        ]
+      },
       "seasons_names": {
         "season1": "One Punch Man Season 1",
-        "season2": "One Punch Man Season 2"
+        "season2": "One Punch Man Season 2",
+        "season3": "One Punch Man Season 3"
       }
     }
   },
@@ -131890,6 +131938,280 @@
         "season3": "Fringe (TV Series 2008–2013) Season 3",
         "season4": "Fringe (TV Series 2008–2013) Season 4",
         "season5": "Fringe (TV Series 2008–2013) Season 5"
+      }
+    }
+  },
+  "4042": {
+    "lang": "hk",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/9/99/Itaewon_Class.jpg",
+    "name": "Itaewon Class (TV Series 2020)",
+    "seasons": {
+      "Itaewon Class (TV Series 2020) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBdxomZOWKaQJdcKb31rkLqAYodxuvydXiD6S1p6pg8008?e=jzqQyp",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDH56Sjfsx-RZOcrkbhFboaAXtK8pCc5n3hG-8Na-FGZ88?e=0x8khf",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQB82upFEn2pSL9XyQy5XL2WAUKqvY1XqdRgomyhPwkauUc?e=deAmqq",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQASjutJeSyXQKpLKsXdBr7bAVFoLl_FOZJZziMmX8awbOo?e=AbaTtN",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQB0OgM0CDMDRpb0ybACPo8nAVQon2TSku1BHAd2nTP94Jw?e=y5tcvN",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBRqGzsFxblToVmsDJtEwF3AS0cRgz7KgtL7dPTgn5hykA?e=p7WR5O",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBE7UDQi_-ETrf5HMWbmMRSAaLLqFnAHI0QoB8wYkawwBE?e=WJQCuc",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDCuf35VZ3DS6g4-pLZZCDnAQFJXMPeJ9j5dn8kEmw57PY?e=1zNFiL",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQAcBcR4R-CWSodQenaBq1HPAaNWuWa3g4dRt1F7wLayBJQ?e=SZOT1G",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDhnoblISrRRo9-qXZVpwROAY4SwUz5CnjGf6qXz95uL4Y?e=tUGsZI",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDkUod8Wx2CSIij8okgxUAxAacOJzbxgbCjfHLHsK750d0?e=vQNK8k",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDC4DlBjnGRSrQbQx17iHFiAZ7V6eJ-sSiiIpzXOZn6sKE?e=2Wj3rL",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCHddycFmz7RZRQzaKTBGhNAezpc_1AHVBU8p6ZbouO9Q0?e=J4uLyI",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBou9sqEdwKSJRrIjC0bqR2AVU6alK551iRMNFlD37yQWY?e=lh626P",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDL4oAa2bqfR6Oo-tA7jDv4ATSGdyV3hoGQGi9QsqJZgjg?e=o5Du9C",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQB5KhheruNdT6fET7EWh3FzAYh1Jb1MB05QQE5nXVQtaIs?e=ecAPkL"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Itaewon Class (TV Series 2020) Season 1"
+      }
+    }
+  },
+  "4043": {
+    "lang": "hk",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/3/39/Cheer_Up_%282022_TV_series%29.jpg",
+    "name": "Cheer Up (TV Series 2022)",
+    "seasons": {
+      "Cheer Up (TV Series 2022) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDPh8IwJOSpRJ4suTLRrLtQAZOCiU_8x4aqTKoY1pzP9oU?e=CkeqCV",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCZKt_Ic3YlRoxmIlbqyN5SAaB38zAyoD5wUAahxeB1fZY?e=AFFx9b",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQAAUfqozEI4Q68wcwtOyjkxAVx0veFCUPRfkx9jOX1Vho8?e=fffK3i",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQAbpgKMFdNfSJG5f5V9m9n0AW-r-UypL6ExQC9B43voCBQ?e=loYiZd",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDjWnAJd-kgR7hsHcEmzWLIAU5x5V4fvOoZVYxV7aAN97U?e=qugTsA",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQD6kDxHjlQMRJAOSbWVyrzDAVde239Y91X0eAVUVcdAmjY?e=LqxopU",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCY1y178SqcT6MWhS67QK7RAS4aHFU3ykhz3mv3xAwBe0w?e=1PYz5e",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBq1WYCEfsCTqa5JhiZXFhrAapliFf9In7NPiIxn4bTiV8?e=qVdWA4",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBwpqLEkAYpQKaAgwknlx5iAQ7MuvFMu-ul4i21hyG5TMg?e=4nolIL",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDpVHrM_JDHQpnGKNT4rE4GAV-tweMhfaE2Sr1gsq-XIYM?e=ThH3O1",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDqiKdBbrwgRqPp8070ZzelAeljLxv9GRXwsHhI3-pOWiw?e=cg8gxw",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBRQOEU0eLbRalA6Tjmu3v2AW8KnPIxUEAf2xaNU6gC-Lw?e=g8z9PU",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBdKdVBS9mCRLg6tZQtbMqGAXTKAGb5eGsRnOw6fjoc1ZA?e=EVl0wr",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBrvab_NLBPRo9EhYu-7Qp-AY34bpQD7lpx4Nu9WB_bTp8?e=E3U93k",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQAsDQUUMcfZRrDNeY6XXPsPAUEn1W3pPFxU5kHkcR6mfrs?e=C7tgLz",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBMg-H60x79SqnMH35Ij6YyAaMj8UqrBf-EwmUPzLcyLws?e=kXtPIg"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Cheer Up (TV Series 2022) Season 1"
+      }
+    }
+  },
+  "4044": {
+    "lang": "hek",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/c/c3/Daily_Dose_of_Sunshine.jpg",
+    "name": "Daily Dose of Sunshine (TV Series 2023)",
+    "seasons": {
+      "Daily Dose of Sunshine (TV Series 2023) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCtED_Weg51R7HP_V-fi96RAVfG5cCy674I8V3yce3V7FU?e=SGPoVG",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBPUcdcjwPUTb_VMhh-dtHpAeagx1Nw8rnjt8IgCv09ZFo?e=Ix8rQf",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQB1_xUmmKBvRoIDEJSYuDzUAbJusys8W2As-d9qGN1PRyM?e=OhPXaT",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQD2ziIF5rN8T6YgAV5-eJuwAf1dNzOIdFbIZ-27x0SVRtw?e=kGkLua",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQD70JfcBdcGRIKygFvVmOsPAX6V101x1CZgPZbg39Pv3DM?e=1mVSO7",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCrlMWfAwW6Q7TgQiaDuQgJASbKAG_qnZ0dvP5eGxrlBF0?e=rsG9Da",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDt-50zoeKJRrBfSBbdYX1XASDJsarsias5cGfXbqRbkd4?e=bB5lZb",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDDAyqa9eiyQJmzbod7LQv-AV3QTrJUq_HVJRfGSvX2F-c?e=XKFPc9",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDPD1NrR5F0Qqmbfg6oaUpbAdnIOFsAhT1-BqR5qMPZDYU?e=IuS0Kq",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBGTetkYP6HSLM8k9cvIvuwAW7LRjZMj9dx63zGfDvlcts?e=tehlBa",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCWC98lcFT4QIutrZ2FTIYBAWRdUmkC4bbY0pwEP2WSBzs?e=D7eVnI",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBev7ptwNLiQ46Qsy2BKgHOAXdvtbh6VpAhd4Ul9m6ySr8?e=UyucaQ"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Daily Dose of Sunshine (TV Series 2023) Season 1"
+      }
+    }
+  },
+  "4045": {
+    "lang": "hek",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/d/dd/A_Time_Called_You.jpg",
+    "name": "A Time Called You (TV Series 2023)",
+    "seasons": {
+      "A Time Called You (TV Series 2023) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCBZXcBl1TCTL6XIZK_mcAiAYYZ1ANw9aC9U8sAFsEb7yk?e=aJF6Ux",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCGnjyhQyx9Qq9iilmxykpiAdDlZthbH8rQ1HNFe9hwcw8?e=gCMa3n",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQChc9GLhzmxSIwX3xeEtAWkAXz9apMN1Z7gFhR1zYHvLUE?e=vwBcie",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQByEtS-sKvtTbQyzmYY42lfAQc-DR8ubDoYdvUr5vzQ35Y?e=Swe6BJ",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBzFa3-u6L3TLs9xhLVbFYCAVBgLqg00pSxqqbi5iJVCnk?e=U9ir1i",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQAbbd5JG_lbT6QOReoXanaXAbdyhVkESRI0o66pm1ieOTE?e=2AKsUz",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQAqDCgQAdpAS6zPJc9_GnKTAQ2sBRE4CPH9eNGOWRYoDyE?e=hTNhlg",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQAhv08QAAV4QZ5JlU2rWWg2AZZKrOzN2zNqP3183JU5ohw?e=IeKScL",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQAGQUtnKFLXQL7i-2RxFDHzAdCL9YEfFUzrKnw1cV43TjU?e=ZG3lnH",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCDCUQpJiRPRbElJxbrtfcZAS7WeXj5PeWNM7DTg7AMQwE?e=TigPQh",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCaj0ZjLqtXTppgv0azNIhdAas0tZqqlvhGLfT62AaPDrA?e=eg20YN",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDGU5HUi15ZTpzpkZIC5p0oARoloLlVrcxlMRTEuyFOzBk?e=2oGgWK"
+        ]
+      },
+      "seasons_names": {
+        "season1": "A Time Called You (TV Series 2023) Season 1"
+      }
+    }
+  },
+  "4046": {
+    "lang": "hk",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/5/57/See_You_in_My_19th_Life.png",
+    "name": "See You in My 19th Life (TV Series 2023)",
+    "seasons": {
+      "See You in My 19th Life (TV Series 2023) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCR4h1okm7SSY10dm_4pvelAYvVGgmrcSUQdT22Qktqd5s?e=cNpexg",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDcfy7uiRTmRLtiY883dbfPAbhfDTM4sV9dbnBuOVDQFWs?e=6QXuYh",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQAqnKJcUf3NTa79QH3tOPV4AWubYhDiYXuzuV85kJIPFVc?e=qyR1gd",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBfB7rtQmPuSIXPYlOuFQ5GAalyfTxoEABvOo_7MhAo5aQ?e=89wZVm",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCcVPh7855nSZYJZ78ztgYEAa4FxyOhMu7p-toOm-PHttc?e=GdCyXc",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQA8pALgzLmFRI_T46mbOrxtAQFAozQC3vvA6f8P0nyf-OU?e=sLEohs",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBB5ttXzOk2SJlkwolajZpPAfZ822UOfcRkxKKIaRXm5DE?e=CctP5v",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQD_ah_dfpcFQpqZ_mH3eU4jAaHci3yxLFjoIGlalbx1NHA?e=bss5BI",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQDL0s_0dJhDRblAmWymf9twAXt0BxosYrY2GmOzs-Yi7uQ?e=3Ga5LB",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQA3wgKW50BSS6ayyaXCINWVAcXlloFybZG5tM8zWJ29Zro?e=lIhiFF",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQAt20QK68GCTpAhP7Y2vlFMAWxrnqqMhbeYq2l3XR6BN1s?e=4x3jHY",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCd20LGk9DURINSA8ygxol3AZFUUd92z5vP-wCv7cO0mtg?e=d6Z9sE"
+        ]
+      },
+      "seasons_names": {
+        "season1": "See You in My 19th Life (TV Series 2023) Season 1"
+      }
+    }
+  },
+  "4047": {
+    "lang": "r",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Unframed_poster.webp/264px-Unframed_poster.webp.png",
+    "name": "Unframed",
+    "seasons": {
+      "Unframed Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/db022577eb27cadd/IQAaDAklFzgsTqCZhdsFgwgqAfyFWjEE_N8gl_OQmFJvJNA?e=UMKPgg",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQByaPrv7q4zTaVQRCPBLpK2AUK2iJOVKTfP_P13QYLfVbM?e=pIDSSC",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQBhDn2s4EWYS50caPVctRSGAdAIV2x1xIvOTHpHcvF9JQ4?e=3g25hp",
+          "https://1drv.ms/v/c/db022577eb27cadd/IQCLT-mbk3JXTo07cENym2EfATzyypAL0pWGvic1g11Lf-8?e=kNwQEz"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Unframed Season 1"
+      }
+    }
+  },
+  "4048": {
+    "lang": "hejtu",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMGMwNWEwNWQtYmQ2YS00ZTIzLTlmNmUtOTljZGMwMmMwOTMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "A Gatherer's Adventure in Isekai (TV Series 2025)",
+    "seasons": {
+      "A Gatherer's Adventure in Isekai (TV Series 2025) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQBi04ENt67wS4G5lvSwogYrARjf-6Wqwc8eAPImmDnEliU?e=aFiNpT",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQB4SA6sZtZPQr7kcMYFzqABATOTXA8oHQKC_8qqx6s_8Rk?e=XTo78Z",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQCaf0Yp84VnRbTTOhDOJI7vAVZ8iORye-V8wEhlL357CTc?e=0DjJ9K",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQActW-dyH99Ro_djBsMna2ZAf97y9r4bTU1mBdEY72UZXs?e=1uWMAu"
+        ]
+      },
+      "seasons_names": {
+        "season1": "A Gatherer's Adventure in Isekai (TV Series 2025) Season 1"
+      }
+    }
+  },
+  "4049": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BOWJhNTY2NzYtZDk2Yy00OTQzLWExZDUtNTYzMGNmNzZjNjkwXkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+    "name": "Best Medicine",
+    "seasons": {
+      "Best Medicine Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQB_I2BLK0vSRIx3BEM-cCpOAU7PeCdLgGs0KjhFb_F0fEI?e=CXGFdk"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Best Medicine Season 1"
+      }
+    }
+  },
+  "4050": {
+    "lang": "hej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMzk2MDk5YjAtOTkzMy00MzlhLWExZWQtN2VhYzc1OTNkNDZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Bofuri I Don't Want to Get Hurt, So I'll Max Out My Defense (TV Series 2020–2023)",
+    "seasons": {
+      "Bofuri I Don't Want to Get Hurt, So I'll Max Out My Defense (TV Series 2020–2023) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQCw8PLQszCqRYWEInItONlfAeAwU8c7ERNmoB6nLtBlH5Q?e=Z6iFv7",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQB1AY1Np2v2TbTKRlDeUPWZAeNyR2DwgPe_RxmTlNXowMw?e=rAG7Cn",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQCM5jgcTaSeSpwqMmPJ9a_TAYEJ-Bt6eDmNRWtrzAWyokw?e=LI6xV4",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQARvhMoodKpSpnb42ScnMdbASTS3taVvtg44uLyruvvRNs?e=mJaC9I"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Bofuri I Don't Want to Get Hurt, So I'll Max Out My Defense (TV Series 2020–2023) Season 1"
+      }
+    }
+  },
+  "4051": {
+    "lang": "r",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNjRkMmU4Y2QtOTVkNS00Mjg2LWEzYjItNzVhZjllM2Q5OTI2XkEyXkFqcGc@._V1_.jpg",
+    "name": "The Judge Returns (TV Series 2026)",
+    "seasons": {
+      "The Judge Returns (TV Series 2026) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQA-GS0mrgGDTb1chlzz2ZInAfHYHiW_P1_eYtSHmdD_WY0?e=yB43rX",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQDp-ibA2j3TQoYgkbnCR6WJAf6Aab-dAFAkAOZGUBGEct8?e=aT122x",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQBoKAC8Yy86SZT1pumM_ugtAbFFGPV5mN9Qj1RbMrO84QA?e=Sr9KdZ",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQBX7NzqU16HQq5ZqUvJJSQZAWhSXha19UfWH7G8Vbhu1uA?e=fCsPRH"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Judge Returns (TV Series 2026) Season 1"
+      }
+    }
+  },
+  "4052": {
+    "lang": "r",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZDU4ZWNjN2UtM2QyOS00NTA0LWIwOWUtYzMyOTU3MDQ0YzU4XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "name": "To My Beloved Thief",
+    "seasons": {
+      "To My Beloved Thief Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQCOYpzZ7-FdSItxBzEqsXLAAcPsN-lfRT8WY6Bqc3-0yOw?e=U8Y1k5",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQCBABqJIU0CTJL2Bnq9bwvYAYS0dwq6pO_iNyWVnrXN7T8?e=C9PrWf",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQAExTZpaFaLQJAeuQbtYmTSAVHJcLtdTeRGZFntI2Dg1pc?e=23uDP1"
+        ]
+      },
+      "seasons_names": {
+        "season1": "To My Beloved Thief Season 1"
+      }
+    }
+  },
+  "4053": {
+    "lang": "hej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZWI2NzZhMTItOTM3OS00NjcyLThmN2EtZGZjMjlhYWMwODMzXkEyXkFqcGc@._V1_.jpg",
+    "name": "Tokyo Ghoul (TV Mini Series 2014)",
+    "seasons": {
+      "Tokyo Ghoul (TV Mini Series 2014) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQAk1XEKmZdXRa9Orjz_6nOAAVKW46Zyon4v4sthwtLQzAw?e=SjlVpj",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQAS80d7-H8fRoc9sGgLoszuAaPU_Xjs3L3GTvdW6N7-1pA?e=4rVTv0",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQB-3vnY557hTaZLDGkdhPQEAejRBJdU0xu_m4Ny9SH_dZQ?e=mJs0Qs",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQBcHx8oKaVwSa5KOf_HvuchAabMnUWyi3hL19CtO3XIxno?e=akmlAD",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQBbTDf1G_ORSpdJro-uEOizAaPnIBGWsvur2FDMTIVW9sA?e=2OK72H",
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQDK3kO9P8qYQZaXCWbhgkTLARX7RrdIGWJuUUPXX9AWxQ0?e=lKaMj1"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Tokyo Ghoul (TV Mini Series 2014) Season 1"
       }
     }
   },
@@ -132200,5 +132522,5 @@
       }
     }
   },
-  "header": 4041
+  "header": 4053
 }
