@@ -105906,7 +105906,7 @@
     }
   },
   "3311": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://upload.wikimedia.org/wikipedia/en/c/cc/Cinderella_and_Four_Knights_-_Promotional_poster.jpg",
     "name": "Cinderella and the Four Knights (TV Series 2016)",
     "seasons": {
@@ -106042,7 +106042,7 @@
     }
   },
   "3316": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTkyYTE1MWQtNzI4ZS00NzIwLWI5NTktYTBjYzBhYTc1ZjdjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "name": "Extremely Inappropriate! (TV Series 2024)",
     "seasons": {
@@ -106235,7 +106235,7 @@
     }
   },
   "3319": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BY2U0MzNhZTgtNGQwYi00NWFiLWFhMjAtNGRlN2I1YjkzN2JlXkEyXkFqcGc@._V1_.jpg",
     "name": "Kiss Goblin (TV Mini Series 2020)",
     "seasons": {
@@ -106262,7 +106262,7 @@
     }
   },
   "3320": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://upload.wikimedia.org/wikipedia/en/e/e7/Poster_of_the_Love_Rain.jpg",
     "name": "Love Rain (TV Series 2012)",
     "seasons": {
@@ -106345,7 +106345,7 @@
     }
   },
   "3323": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BMGM2MzE3NmItZmU2OS00Njg0LWFlYWItZGM0NzNkZDRmNmI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "name": "ONE High School Heroes",
     "seasons": {
@@ -106389,7 +106389,7 @@
     }
   },
   "3325": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BYjczYjdmY2UtZmM3Ny00OGI1LWFjNGEtZjRhN2IwZTA1YmFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "name": "Shark The Storm",
     "seasons": {
@@ -106410,7 +106410,7 @@
     }
   },
   "3326": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BOTMxNTM0YzMtNzk5Mi00OWE5LWE1MDktYWY1ZWYwNDhhMzRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "name": "So I Married My Anti-Fan (TV Series 2021)",
     "seasons": {
@@ -107361,7 +107361,7 @@
     }
   },
   "3351": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://upload.wikimedia.org/wikipedia/en/6/6d/The_Guest_%28TV_Series%29.jpg",
     "name": "Son The Guest (TV Series 2018)",
     "seasons": {
@@ -107418,7 +107418,7 @@
     }
   },
   "3353": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BNzFiNTY1NDgtNDNiNC00ZjJhLWEyMjUtMWZjYTk0NGJmZTgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "name": "The Innocent Man (TV Series 2012)",
     "seasons": {
@@ -113259,8 +113259,19 @@
           "https://1drv.ms/v/c/6554eb5eaf0dba09/ETWSo7LyKHJGouChqDZKl8MBHZw6WsYlkGPkt-G_Ojad0A?e=Aof4fW"
         ]
       },
+      "WWE Unreal (TV Mini Series 2025) Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAKZutcNh4jR5lWZo6KVh97ARUxUk6ZKPSFeXvID7EWmeA?e=6fVi70",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCjWeqd4XLCS5uknmy_kbHDAd1l3tbp1y000rAg8eW5MYY?e=LEifUl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBM8pbocOX7SKE_BtN1PpHgAdOOJ-SdSAieO1jsu9wYFy8?e=pDFJrs",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC-BjfUqbSNTYvaqMIMn-HpASC7WxWlASLyt2rl_YsQ5is?e=fenZPL",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDhM2Jcm_hTQIXaqsL4C0DVAZ3v-_OQDc21o39QVcJiOAE?e=m44GtB"
+        ]
+      },
       "seasons_names": {
-        "season1": "WWE Unreal (TV Mini Series 2025) Season 1"
+        "season1": "WWE Unreal (TV Mini Series 2025) Season 1",
+        "season2": "WWE Unreal (TV Mini Series 2025) Season 2"
       }
     }
   },
@@ -134700,6 +134711,583 @@
       }
     }
   },
+  "4095": {
+    "lang": "he",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/6/62/STEAL.jpg",
+    "name": "Steal",
+    "seasons": {
+      "Steal Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCN0s4pfrqBR7Z1LgaANuv5AUW13ziZrzT7O122cAtQESQ?e=NNp8TY",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAIUEV_7JGdR6Jv6IP6GTmhARYT_2M_o6V0lGb8W2mcw-Q?e=sQyh04",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCDpoWqQoPgQaLBGIFyCSuwAc1CqJkozssAKyVy92BaFxk?e=24mOxv",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBm0UA25rbAQai4sIhEy3AqAanpozizSxbGmQHlb4kC_7Y?e=vhyvmB",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDyRdD4Isw7QLwKIAr1mJdhAQqcp6LbQU-BXGuT3gnqByo?e=BdjedI",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC0LTI1IvoeQKOzNLaQ7foPASunBndT8-wYB8dyTU-6Xtw?e=DV8zKC"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Steal Season 1"
+      }
+    }
+  },
+  "4096": {
+    "lang": "e",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/5/50/Gash_Bel.png",
+    "name": "Zatch Bell",
+    "seasons": {
+      "Zatch Bell Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAeBBvkIIJ9RrbVIJmc8rQoAcz4TifyT3UObc6qYY6ko6U?e=wRhE1m",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBwLUOFouBeQpAolf4pTzn8AXbQV0s4OkUR6vZBr__ggMs?e=SbkFYK",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAdCMsZD1WFTL9mVgtr9jMhAWODKCAmWfZhA55J6DXKSNg?e=qh4XcQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAoPqZ6G5jEQ44ZSSiH5ApRAbNbm-MACmBDfJGWhikFxf8?e=AVqotn",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDqVdLDD51_RalRlI3v2EYkAfoGxdpzqA4Bonyc2tkbv9k?e=XUNBrK",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDgiBGHTC0STICxZKk-gxGRAVKbas_sqfKFehB0SIh5qZ8?e=7P2cpY",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAWfJhrH8_0R55NQC6TQgAQAVCExMiyIKsZq5qBQMQa6yM?e=UBtdhx",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDFUx1l7_GsQ4MYi8Hu7ychAQtUM8vzRCuol4NhWY7XIxE?e=kdgaNV",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCLHhnVjcJTQYUdQTFbW5xgARCg8TuYqUIdf2CFTNV0rU0?e=f2Y8TR",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDzE6AJ3eleSqFtvFrGojf-Ab5ozDcLasiCXR8stXt8EwI?e=3QZDQo",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDHJgfMe81YQ7jXsSSfZQSuAdpDNFhQXnIqJJVHsD16GDc?e=MLSEvD",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDhCPBTODcuRrjjll83QY9cATuMcx55Q9aQhg0SQWx3YdA?e=MgMiaN",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAHINjY6nvPRo3_KVP0hArmAVswdV_LDBZ8o4dFZZxSfFs?e=h3qWCe",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCxkksqQ6QXR7SLaJhrVCwQATcUGGYRCE9NFBUDYBQWPSk?e=vIIa4w",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDfWGfR784nQLZp66yrj1PtAVzzQFXCQY-RASlmi8yIXHM?e=xbRR1X",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBYXJGLfjL2RYMyvCzURzt5AR2Ts8XCmdWBnAQtUVAlN2I?e=KkEkyk",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB2w8hhbKI6Q4YPHc4BzkEoAUcjE_jlYFzcBEVJs9rEk44?e=oHpfZZ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBYQha74r2xT7W2sUWHgmEhAa7uufpruw5jH8y2Rv6AFvs?e=sBLgpg",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDBW50qT6AnTLzan8tPieuLATUQ-1TNGz_bg_AQmHRbBNY?e=QVglal",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBJp4BDktRvQKBa6EioQEVTAT8WLlUbEYaF5vsTZ0W1Nls?e=qKmteg",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC3Dh_AMa7IRK1dG89vNyO7AQ8ZnBm3zsABIfCX2cTL-Js?e=k01FRM",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD4r0UC3jHjSb9uVFNYDF0kAcXpR76vchQbCr30Aj6-ew4?e=nxsOAW",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBrPagK85OSTa1iN-ox5EFwAXXoODUnMJyEJBa2ygF3Of0?e=DgpImb",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBbfWpq4BhGTZz1s4jP6yD7AWW41WHw1ZJ3bQfgs57klys?e=H6IiUq",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBhyaqr9SaeSpO5xMed5Cx6AScV2oIHv4I9HDfq-5eusU0?e=ieO3HZ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBgShTkpjnkQIB17ehdRM-CAefPVr-2jTl5uLBkLqZ7I6o?e=AWfPwI",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAL_iJh_XXdQ5SVe_5NnI2LAYwgkgHmoYXOIoCMsvHhaiw?e=5ciDEx",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCwuj2W45L8TI-1fFzj8LLYAZY6u5tvpZ0hdIS-GIQ9qjM?e=BX6yGF",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBnkRhvRPaqQaf63RKpJ_hlASL3zSQ9ZmIpJ3bAQ6GDG50?e=RzYHCu",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCMtqZRqcosS6ppkyxyoAXxAd2b3GWq-M4f15ZREmrJWZc?e=pemvKQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDgCLFwHsuLRr4hVGzZSRCsAcbLzY5JpUD7528dc0eb3Co?e=Iv0pmQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCKHAqxGrCoTrFJ2Q7DInRdAYDZo1rUDFdxys0LpJIgYcU?e=DptOF8",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQABX1xMovgGRbwdBmmNO5kTAQ-IEJf0A87NZwSTEFoS7CI?e=fBOMOS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBARQ9_otVZQYZr0S3nHXmwAZqt73PTRt2fQqXsWUKZ4JA?e=g72L6y",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBtfKCi72GTQ41QyWRu-PpqAX34aZ7qLm1qbHlopG04fH4?e=7axRNN",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDKtOQNcgqBS7ZzIOinOMwUASqSRsJQ3kctnEKvvOoV7rM?e=8okC9K",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDuxdd9fJKuTYWwQed7nBvbAcEZEQEeu_WsgcLzIipMac8?e=yp7rrO",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDMTF8UTSLQQrmcmnjtVWQOAX8aHfi3fkT86FpRrW8FBDs?e=s0xNhZ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAOcVnCKxfSQbNlYFdGfuJBAQhi0ydvOhnwIx6tRy_bS4g?e=Fpoqwv",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDWti2nPFMsS6Fx7vWfqLKbAZlCGMX78W3hdmL-IVB-ZBs?e=l0tdGu",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBzz8JuZ_UbT6cKdQf4QaiFAb1Erwfw6V1YeG5fZuIlDcI?e=SR2r9t",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD9SGsIR6pQS4pxW-8ljVKFAdIqzuBt4LbCrm-guyFMiNk?e=D4yeeo",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDEyTHYnixDQJcfYZEJyem4ATuSR3Om4y7YhxYxdSnVKxA?e=wM5Bt5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDsEn8f0IRjSLsMaTxryCtvAZQ8jzvVo3njyDiMyWZckIs?e=FUQ0w5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD5lsjL-Hb2QYH-X3MoZrYJAYiwsnl1fly8TduSUf7aQ9Y?e=5IiqiD",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDbmElCDqBAS5FACJaqywB_AdjAwJC_BAxXFffCOrLD4r4?e=dI2O2x",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBkajCNSnx1Rrzg2fM8QpisAdTJX1mEDat-0oHfDdzbX6Y?e=B1EjJf",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAzjkW2By7RQ4kdL5DRr6XWAfGMS-FH-b7OV8N37POF2MY?e=6zEWdS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBbRlWq5ZIBT6vFaxuZvQ_kAYPo2HFftVuOvOeLZwQa0Ak?e=hcgRyh",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCg8CY_MLmWQLUe24M3QRsGAeMR1oec0A6ePLWjIzE5wbw?e=i4saPL",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCKOClNjBnsRLvQN7zN4pgUAc-qPpyld8F44E1qWGnwFIA?e=z712AB",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB7uZ0Utov0S42ImSrwM3JnAeIj8J38X2kBE_2Mzew9ze8?e=KLUG5O",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCMHIcHjIgYS6NbClZTM36qAZT4Ai68U-CUa-Vrp6Pt-KM?e=foK7yfhttps://1drv.ms/v/c/dde717af7faeabe9/IQCMHIcHjIgYS6NbClZTM36qAZT4Ai68U-CUa-Vrp6Pt-KM?e=foK7yf",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDgbQdbZHGjRYItQkJ5YxEQAWZGbyFDKTZYJBVEk1Pasck?e=Lgcemz",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDVKuPmJB3gRp4OBLBGVoqbAfFRrb_syOzMfL6jtc4Rjdk?e=CsvDaD",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDyJwLYL302T4dMuaHHF1IzASLAdARFD9oDYCU1YKzCIYI?e=gL79RZ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCgJON4FGG4T4Q2BkobCTWmAfkSTfRYx7xZ859ZAyOQq5A?e=fyJaJm",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCcX78k-moGR4_UprjZDsbKAVGrIxoFvmlB0UE1iGG7DhE?e=532mWs",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBKmp4XN5vJQbEDhDhwE1WsASQYj1piFpyURiKkpyUg7Bs?e=2dIzsl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAeFuPQXztQS4VeUiOzRTJ0Afs61GO7ym_jcQwKnYJIz6Y?e=315mhH",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDLayMpyMx0SZh4Z_HMn9e4AZu3giLVl3F8mjj1ITkP6Ig?e=EvNEvV",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD1Nnpjr6WgSqttZ0L5yJYGATzf078rM1j4AiWgHWF4zsA?e=uAdHeg",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC2AGFA1aCCSJPH3PzzEausAbDywUEkTbvGkz4DGW8_61s?e=J74hgt",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAbeUnmkmR5TrnPkA0qJmIqAXc5ZDB_1mJHvHEdSlW9k9g?e=8AbHM0",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBi4K4NLnGhQIIju2OrHE1kAXcc3CfpF7PSEqDfP4tfM0k?e=BH8VeE",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDAsgvqJ7bHQZSfP3wS_jZwAdI2qhAvrqQIyoyfzNLIlXI?e=Wde8rH",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDP4f2dw1VvTb38ZWsYRDPSAVl2jXbqI6KaU7LSey7w2d4?e=snbU8u",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD03g83yBzrR7Pp__-47BGsAXEfCfPUXOEDhOmV3uAsojw?e=PmWYjW",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDKsQrD-aCaSIl7AAa0gQ1ZAdx0QCQKQNW50CEF6p74xU0?e=j4GWG6",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCNgLQ7atQiQ46rlqqIsBxqAcglxQxywn7HJozayocVuP4?e=9NSBG3",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAvkuci8_PEQLZCAbvP_pEFAWDO4OSFzuHLZ92NjPY0xBg?e=COsiQQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDdz7mMYfwuRJh7F_bptPcoAdrjwXt4JuBZBxQN4tNNnjk?e=whwnqg",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQApHdYBaEQoSoDs9qGIB-ZnAXEF3DA3UXi2ip83GjdUtOQ?e=WAid9o",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBILMseHq_UQZVsg4RyevOBAQ3K5A9bkLc6Hc3zsZvRttk?e=McogC5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCP_GAq8KteTqnwNWjJSNCAAQIQ6L7X5PjbJvYUqH-tcfo?e=6WXfdT",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBR1jPMkxi1So55gLIb58L0AZLhsWSxPnDVClOQ2xz0AAk?e=ZD0mgb",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBQp2LG60XsRryVqQHvFG37AXe15H3ngNYY1fs9rZ0I1M8?e=gOmQAz",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD1huNn8Rz2Qr0QH5OfFD9_AcmyRE1JnkryFddbnWoRBIg?e=ZcyUmu",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAQ3_cs2bQJSKIyHRjDVrFWAdfSZ_Jmu8sSbvEnBAnrKl8?e=qoctnP",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAV007_iU_VSq0aTeybh3eOAZSAYpWtNfrPi0eqFWqQKdk?e=Mdtr8D",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA1O-ijBK4ETJYYZb12jXn9AQOUoULXoGRkIKVXTtzc0yY?e=7HR8tU",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBcDc8pNDceSKfT_GYjoGQGAYu9l_JJKLdxHTHtBKtsALU?e=ym16r1",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBJpDZPgy9zTaNBZ1a2KboaAbhmP2jVkonxVqe8l5Brb48?e=mIC8yQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCMaLiaUzUpSaiSu1p8gQIiAVHUXTRpRf9u-XZ4gftOmpg?e=HKdcye",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQALcnI1UR-tRoI--GiiB3SyASucTKP25gaXodEK8mOPySs?e=LPLBRn",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD4rbX4XUEeRZSzTKEngzIpAZdiI9-6RCJNJGf7G-YwiBY?e=Cni1Pb",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDYiJawP0j9Tr8mhRYAkfQgAStp-BEYtKu5LO_7ZS0e-HE?e=BkzdYc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAnRQJhsBa2SbNn2xKz72ytAR33wM8EWRhNa8wv1H72Q-E?e=eF9cEe",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBW1rAl4puXTY6fvRqjv8lQATMA24JmUOoZbh36FWJgGD8?e=jIOu5m",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCSPPWG812YR65zZ8Tk0JtGAZ4rmg6j2N2IDXIu73j3d6w?e=tZ7SCH",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDwMlsO6Jv0SKydM13GgZU9AcZULJL7qnQV7WMy2Mk7lAk?e=cm6xS0",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDM8XPQWs3_TI2lliSSPvmxAZrbjAftIdVXhmdny19jYn4?e=5CIbfG",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCb8pH_drFzQYXII7tijsNcAYZse5bJXnKqgP5_aoP520g?e=9kL70A",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDSL5qb6bH9SYiTRC4g_o8BAdQO7F5RA8m0rLnz6NDQ0BA?e=gEG2Kd",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCyu_mig1kQSYTQb9C1iqH4AWP5E8m6GHtzupMMcKJpdY8?e=svNtkT",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAVKikk0hIvT5qv_ZJiyGx7AYf2VJhg3A9E1UPghXNWlHk?e=48B87i",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC1R3NAmfTISqMFfYOpJYvwAcL8WxY2ZWD8fPnrUz6q1Sk?e=CsuKFc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDmFIy0sFerSLczs6vSQCjcAb8xz94z0idXJy2hvCQkIRA?e=DduJeQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC_BZSgnjzTRKyp0Zd345L-Abx9oKcSoVjlXttlQmONZ-s?e=B2MxIM",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBkfLJ5Xi5eS52zHdOuUcXWAQdK3_2pFQQ3V0RSCyJ_264?e=meXFLH",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDktoKpn4RiQ5dNDtUaSSJ2Ac_Idch1S_HI1R0ecIrxdkI?e=eUJ3Gj",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAkS4qpugaLTaS7mOGT2q_SAUHh0VZlcoEtUgGnHXlBmRE?e=u0mXaF",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQChEpGNEOJIQoDt6Zq4LOUGATVv7o_PvObuD6GOHx_Dz2g?e=MUh9f1",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDFM3FyHhQ7Q6NvCCUjKCq-AdVAeJWeTASg1XupU_-znoA?e=BYn2tq",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBYZ1Ka0kKSRrKZSqK1RGoFARCVp_eQg6eI5gv1zOayquk?e=C7MlAi",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC9ChazxHa_QLzBSEgJi3qAAXVUmrN6d-kl7SQ75U0dl0A?e=9w2rqz",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCa_TC5IbIjQ4sZ7qQ_E7e2AVaRkuDxDUq_ode0gu8VA7M?e=9UU9X1",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCBh0SvjsmlRaB3tuNIMprIAWdN9luvfCGRK3EeWwsomqw?e=ihSRnV",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAt1wfocFWpTp385WwOE-ZyATb4NO0LrdAFT6844bXv5hE?e=xSHLbf",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBNCjXOi6QuT4QltFe56wRdAZriYfcrcqN-3lHtD_h3fz4?e=IrC9eG",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBy9jIeTPskTKY1UAeGKFcJAV76l6leT1-eywmyLUV88YI?e=xKsmRd",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA-S2U9hfirRbpli68esX7LAVx_Hi8SojzQKdoHmzwCVCY?e=zIvhh5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBy4bPea6qaRIEIBoEQ9loVAXSq1gBdqc3xMk1CPJXujCo?e=x23VBx",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC2zQY6_74HS5v01z4B0RNJAYdK6lFIRwjh5ote93VL960?e=kcIJxp",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCyFvWU-6BkR72odNZEc42oAQjByZA6fdQ5gxbEYk4z4Ng?e=2h4HGh",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDGaf3s6sirSIWklkj2rWA7AUGH1XnblG3-Yc-1T7vPE9k?e=Htm1aU",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA3TECFQU2fTLN52r0K9NOSAVqHjLuC1mwG4jlO5RjZ1ow?e=9ZqIZ0",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBepVBrri1_R7jOjKUTJD-WATR1FlmFGHcs3OAB7rEa2r8?e=v1bwOd",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD_haR5ixFyRrqe1TyhkJZDASYzh2AANlmD5sowXcevr20?e=OYkCkw",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDLwppLMod5RrhHtOo2t1ZPAb1hqPPXiAaEiygpoBOoIjY?e=o5Rw1V",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD5blZj7jjMSJb2pEJhm_SyAcJyFqomLvOzClPMwc0S_Lg?e=dyjpdW",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCFOTuKOECgRLMGzFefYGlnAf5Ed8FF9LcoNH6tkr3jyIE?e=zKAcfW",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA8rwXh32EgT5DGcBHZZMJhAZmlVWLkp3mQWobOU8Y1B_o?e=8xOtwh",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBLdyjoKpjtRYeGg4RG5KdpAd4kovru5rvlSH25j3HXxPw?e=7DzpFR",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCkDxijAbAJR5Tmk7RBYpnQAaHN080XeaSYTZRPxRZVAkc?e=56RjXl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAh5Hp_6ad1Qqh2mhe-wFMpAecMf9UCMhgcGNPvSdrzTNY?e=SOXaha",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA1ySRIF2L3S5lZimFNGKngAZ_FLIKtNtCxEyaN5SwStQg?e=daB3fQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDsw1moCCfvQ4M103mlZ8a_Ab57Y8r0PZ4MY7inl7m3fbQ?e=7Cb6te",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBZdZISqbO3RYJTGcaR9_GDAVOuQD5T1rFCKqiXSA47x4I?e=SQLE9V",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDl2wukbo_rRpUb6Ew-u_6xAYYHTJ-ktQhhU8tyzLIfzs4?e=mz1Aei",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAhOZyOgJWORJuQPRrTHbeZARNb-y_4QgXTKJkSbt4Af0o?e=JceQgD",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBxCFq8fnJDQbvjQ38W_ebAAfxuD--rVWeGIo6h8Q94seM?e=rTRN1P",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCYRXnJSgu6TYkVIC2rOI0_AanzzAFX1GYfnRpSVNOUyOg?e=Ifnytl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDr2e5ZtEcYQJJ4Oa_O3O4tAQGrqMWBHF0wjCuX2wkrtbo?e=6BXXe1",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBrOYn4ZVTsQ7R3LQjcPohBAU0T6nnwmmQdycuNBjS4tpY?e=mjKWmH",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBRN2GiBMkQRrgDEN-ZZA37ARaq7yHk6lxNOxxJNDThD1A?e=bEbpQr",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC4FyIANte3QrpGKvebQrtgAZDEAPR7wSElwgaVqee97O4?e=rmGcXp",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDJOCZo4iI_TI4iVlAzJBNyATWEjEflI0IJVPZJCwTWDPI?e=wy6tlu",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD7Z6VwLZtRSoLoV2pTlACCAXJwWgOrZ89nZUmYK2Scaws?e=k1iuDQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAm4Yyoq6wZQbHhJzILY7mIAbwZNR6ZXOxyDej8H-Hx5_0?e=4hqLVN",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDXJG89zVK0RI8n6bvHTU4jAXqy4M_kZ4wMKvFNkpp93TE?e=0zs0RQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBQA0ozByU5RbGPxHJA83hmAeZtBu5Ae4I9257ulIwFHD0?e=waczfi",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBLx1s9JbvvS4My8xZMFFwlAYVxWIdB2wQyZkB1OHqz3KQ?e=oLNQ2C",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBPVVGUDqsOR4tIfw1rvI7WASzpVerPYgoalSoVr8iebBU?e=M3cu0f",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBpTkfdSd5VTL__sWHnCBrmAefSr8bS3TzgPKBn4gqYI9s?e=0NNJav",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBuUu20r3kESYu3eJg7GIQ9AdJvqEod5q5O3LetHJGyBBo?e=4kuqNm",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDFP3IAso5kR4gU76S_dk_sAbIe5-JoQhcjj_YRTbMcwDc?e=YSBIk9",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQABx-4TMTNeSaZknN4eZ_mAAa9W8AZjNSw_5cDAnbd8tFw?e=ubWj4Z",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB5PhZvK5lXSZ5Wrm0d-xAgAarhnwerBzfAa8Y1DV9uWpk?e=1yMuyc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCBXsjagL5yS7V3SshlE5MDASk4cN-J8cnhxJXiQqhUzOY?e=HyU6ba"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Zatch Bell Season 1"
+      }
+    }
+  },
+  "4097": {
+    "lang": "hec",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/9/93/The_Daily_Life_of_the_Immortal_King_Poster.jpg",
+    "name": "The Daily Life of the Immortal King",
+    "seasons": {
+      "The Daily Life of the Immortal King Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDjfdckNqpRQYtih4B6bePtAVxXzISsqZ71_TanevMU9fQ?e=8WL5xG",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDbaX1mQ9BXQ4ttcJYomTkmAZ0NdCohcsnPpzsQGqEe4Yk?e=a9CPW3",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBAsIlBfHrsQ555mMcLf8OuAXy3oNojHjxoiV0_AH_dr20?e=bAgQHs",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCpXcc8vkEURJReE2Kpr-38Acx3xgyCHfEVqvw0IQaj-4U?e=jhqKda",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQARCP2LjvzzRoYn3oar3DB6AZdco74bfW7drJpwwkW_bFk?e=MTGfvI",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB4P2_n_zlxRLntHfNRi6cMAemyOIvWshK0d6zFjEughqY?e=15rBA6",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCncKlSKYGyTYL9l5pzcLoOAdF3faE4xa2rcaAbRvKJHLc?e=GnB40b",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBaRDEoqACTSplBozm-WhNpAWmUR8bRmgEMhryJh2VSt5c?e=MKwac1",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDfx5Qc5gA3SoZz_oa1j5MWAc4HM6cRSimakImFG42xdFw?e=Tf3jdy",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQASeTT-HOdQQ7zZMjae6hV-AQaZgO-I_YZje930Fsu1isk?e=3opn7T",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC9KgmqnExMTYLB9uDvs1iHAZrYWislrz05maacfv6X12E?e=2Oecxe",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCYCP1m3-ixQ5DxKN2MHy1WAfuOCgowj5V258UYg3MXB1g?e=9Y4hfS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDCfB8zmVsXT4aX1wcVyBXGAbSqRq-YaE87Fs1JJpYU9G4?e=ILbCf4",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD2ElTrcKl7QpJK6bZ8D5WDAfDNciV9-VQYpr_dwRzOeNM?e=jSUnA0",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAf4yLrSIh1T5rMfn2DJo-zAXd2Wo7MiQX-eEqmSfRLo4s?e=qXbRwD"
+        ]
+      },
+      "The Daily Life of the Immortal King Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBgJZNCq8CcRLQHRmYCIKMlAYJsUXWEqniHDEC02O8IpKs?e=aVQPSs",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA__UPvQXNuR70vL1tEn7wAAeNw-IKxSx4lbi7hkIa4IWY?e=Dpz5oZ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAJNbFIN8jES48TsihrN_BKAYwsKJCpMqEuzYEUjTL0mh4?e=bDej81",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBJLJxclrxCQrWemBeZcnUVATZvgivbCWOjO2bH-QsGtrw?e=cMZHra",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAaub2cJrr6SbYC6Bh2mqL7ASak1vJLqNYTtnF1KE-hf0g?e=VoSfVo",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAdzGWsbLVgQJNSsljToFM_AcuTZzHn0tDhwH6SWPth_ZI?e=iGel43",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDxlqZSy-9VTZKSgF-MpobBAfgY0dVU4w99kObg1mC8Q0w?e=HAVQqZ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAWs4Sl4JaXS76zNwrSsbNIAc9mJRVXDBkQlaWvDg8McJU?e=Fhs9EG",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDKUap9PODORpOTEZnyl0CSAQy5kNQLmV8GktKOTtEqxhg?e=Qnbmbb",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDUUNjfDGM0TryIklEFf2kjAclNyvWchCgrBHskEWhAQYo?e=2MSiwd",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCVRP8nn34HS6RV4hlewt2XARlD1Lu9w7gvmwgeb8C-Bbc?e=YCRmAo",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAIG4mFGFGPT4003HCpPiBPAQcPG9e3Mic9nBJ5QD5yHM8?e=igTTsZ"
+        ]
+      },
+      "The Daily Life of the Immortal King Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDf-4VJBA6vSq4MHC3i_sm7AXrsQysyz4KqBgjbpGzmzMc?e=ZSAON2",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDM2ismrsyqQ4IGFFJgSYpPAQnfTe3tQA_QZsiP9MF59K8?e=5dqdNn",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCSgR3cLR5sR5Ce3csYVhyqASyS5eXgXjknNC_jR3wWEow?e=cRg269",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBZmpQrGnMzRrxzwnRRBJ85AX92lm6y9zf9Aeo_9EGX_vA?e=zh5ACw",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBHJU5ewuVXRqazVxcSy0eKAbSD-vH6lc_IqpAUrWdV-Bo?e=BpZAh5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDcmUIMzAJaQ6bPqgmja_TVAXljI45xZWKApRejJj6a4dA?e=uepN8I",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCnXuYlYEniQq4Lg01mimieAXcyVrQctFoY8YGztqENPvY?e=OqnI05",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAX8VFwTavIQbMDVt1xfix0AV_ULy4rbg8VOahvjOjcrUA?e=fGW052https://1drv.ms/v/c/dde717af7faeabe9/IQA9yTD9ntFCRbLq8ChuPZQyAbWoje5yx2JxFY3u4Vd7IKU?e=FZ2dyL",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA9yTD9ntFCRbLq8ChuPZQyAbWoje5yx2JxFY3u4Vd7IKU?e=wNEIyf",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA1tRNpijd0Taeg8bKD92oGAYKn0HwGe8gSc1Vom6DCAJU?e=gbkiFr",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBtZXhNDIw2Q4X-sd-sHzvmAQV-7yF4oRlJqGvgpO3eMA0?e=PXfyIB",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCYLyY5TQLqQ4_QxPzat5jXAVrhrD1jPB_VYy9nYA12ROs?e=iQ9R3I"
+        ]
+      },
+      "The Daily Life of the Immortal King Season 4": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAHyzgZvk-2R5s-vlIrbMvrAYvGTnFFJYjlAUyv1mE93-M?e=e7sj8m",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCgIb0bhEhPSZJmtqCR0K88Af7rOY-igEJ-ECWsQ2R_M18?e=zjgifT",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCPBL8B2prkTbZ_w3gqDE0WATAFvx6WBqs8L45wF9JAAMY?e=OasjtS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDDMkmDmTmcTauGnzuwxKCRAa1XgdZxsqp6vs9MRXLKHqE?e=c9PBbj",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCvyXHAV9-6S6jIJUvNmiEJASqHhZKr5LmFxDImB0OiXB4?e=fj4zrO",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDVG6W-7sFDS7TV6hOS9Eg7AcCqQREPbVRbg8_0qK4_lys?e=v5IOq0",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB6xTo9g_YcQZtURhq6CrhtASpcaj3ZmlqiyvYh2gb0c0Q?e=bOEQYj",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAH3cKmQjWERpZei6212pYBAc9eEn1K93SD-5FnzYdvPxg?e=jxTUfV",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDDa2B3pZmQSb40FOYZldt-AXWjlV-mBRG7FumTTLnBEAI?e=7IXzMy",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBBxr5ocH-vS70WHNJF98ZQASIh-ZqTnUm0ElO7KxAXEec?e=iLZ35b",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDKZ8CuzXyrTKczGebjJ5_UAfuczMzBiTkPqD9HPfkiS7U?e=O6gGbz",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDQKXp_Vbb5T7HATuwNWknCAZlfek3T5kLA5W5MY80FUCk?e=y63pF8"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Daily Life of the Immortal King Season 1",
+        "season2": "The Daily Life of the Immortal King Season 2",
+        "season3": "The Daily Life of the Immortal King Season 3",
+        "season4": "The Daily Life of the Immortal King Season 4"
+      }
+    }
+  },
+  "4098": {
+    "lang": "her",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BM2NjYjE3YTYtZmUwNi00ODdmLThlN2QtNzI5NGE1NzhmNWI4XkEyXkFqcGc@._V1_.jpg",
+    "name": "Single's Inferno (TV Series 2021)",
+    "seasons": {
+      "Single's Inferno (TV Series 2021) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA_2mKla4J7Rb2I3y6U9bjsAbDhndaqQ-rDmkE1yT5fydo?e=99TqsO",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBBt7bLaMl2Rrenqm0oT-nMAcX-UUABCeZRZ03iXGhyR3M?e=wMnMLB",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBEumMaAPmBT6q9AZkGaI7GAfpPeZlBut4vlT4DoTs7u2s?e=VSfD4x",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB0GD1Jad8MQ49tDz41rS7_ASPkYy4YxPARRGhg7debA94?e=r3Eiuy",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC9iF6osBXESrQv26H-JTxDAT_ylxjXWYFlB3wSSvNj2So?e=Q0JRi7",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCDS7QzLD_KTZRLy5qAhUvrAXfySOkNiSLpI5qgDVkcD8o?e=EeTOo5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDToK5bCjI7Q6mDF1OTgw3ZAQyIeIWb55obXJlAT9c1gEM?e=OdWhrm",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBLEog-JeyCT77SwOyOPoagAbd-u5IpEEgQoFQn3j620iU?e=YON0W1"
+        ]
+      },
+      "Single's Inferno (TV Series 2021) Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCwAtomjCPmQ7q9Z8IXOyeBAUoX07ZEcFdKTrOzRwkSMP0?e=y4S14q",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAtbKySgUmEQb8p9iQ6uh5FAagoR7Qx6Scal_cgEhe6B44?e=icdG71",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBoxFKikTmiSZkC8aFEuQaoATyNj2txF2zo3S5XIau650M?e=S7GLy6",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA8rxJw3ttbSI1EQq9OVgitAUkIiz4BLxGjyy4l1-SC9OY?e=Ue6oAW",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDRDvcsGzioSrNHDm1EyCfrAccucSXHqvj02X2eaQXoTvw?e=NMwJT0",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBzDYlbHdM1R5Ou7vyLSPohAUEGUs1hVL0MEeFYfj95gEo?e=nnqx2d",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA38vUFMLtUTrZ9ARkiE_2OAQVRbp5TVpda_vTP4zNkd78?e=rAAMog",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCxB1JwnclyQLj5R1dS2P0tAaIQkkWoS83cAIOnQJCGaCw?e=vMXENz",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA9fJ8yJ37RTo7Wy7obxRERAYkag4OQdwqDbWhnaSOfZqc?e=vxVghx",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA27T4F5fadR52_MTlR15PNAcYmOxLeyNxE9JK4pEfhuAU?e=HeyARe"
+        ]
+      },
+      "Single's Inferno (TV Series 2021) Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCYLc00Vq0ATaLJLH6x-oWnAd0Re7mUKDsbfSNUvSP3ro4?e=77BzbO",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAZhTrxbLpwR4qCyiEAnHp1AUi6vJiAbzrDzOHZP_pSrPI?e=fRAnir",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBPNBk1vP9iQoCUdVqFUC6jAS6nmaRzeNM2xlNaDWvhf9w?e=8aI6er",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDjCpb66nkcQKUMsmOs1dMDAdugMisKK2N3UUzPgddVkkM?e=diNaq7",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAb1a-gRhYFS4-gKSC1EvlBATtkNE0isGL5fWNJlP-A-90?e=KPFWoR",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDZ3a202vBKSb1D3j1Oqm78AaulutQlc1ulCpyBq0NuEWE?e=raFYzr",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBrA1mRV6oqR44E98v0r4lpAVLkX7-Uzde7bTuRmXoLqa8?e=dnzidV",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBpQ-XRPmHKQa8sRub6wYIhAfjgInu0LdPTAfPzaHvAC-E?e=EvLRf3",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBB3mrUlvIORbfWGw840j10Afn1JE7RYJ35APbndOxTU9s?e=dPPONi",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAgv2zMWbGNQIG4FvIx1f2iAccNCqt2ervwbQ5OLVfEhmU?e=7vTEIX",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBg-fjpYV-tT6jT99ni4ZlzAVPH0vTZV-jf0AnG35mlaOE?e=jc44ek"
+        ]
+      },
+      "Single's Inferno (TV Series 2021) Season 4": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDclCZVrr8nRa6G3qYtWI35AQUdZbiUUm5sanjNNHMLNFU?e=cN1nlD",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBd5riQWfw9SZLyOydjKuxoAcc5vRXo14kWVMXMHDhihl4?e=88x7dq",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBmAA_eXKITRKcf9N1T5jLzAbR6LZH8j-gDLA_bq2r7sPA?e=eeYQNS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDsWYu1hox7SqvNFRWvWXyVAbang33hfLFulpkGwsanXSo?e=jg3XON",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAPdz8AIUhrS6Fazu1Tc_a_AQsoEDT0bTUgWcVP6MNykzk?e=p6mUS9",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDAWvDbQFQoTaCVdV0uYXhcAWG4SzMCmAIAFd_6tAHizuk?e=SrHuv0",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCr8AESaTMPTKtKcFz3igYYAfGcUHnEL_rdA7xTPYUzebc?e=r0Ew5Y",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDfgJctS73iRp16qIZYgKKKAcqNLSbOKE29g3dG8k6ck-Y?e=sahJqV",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCFV2xK85DKRbe60Cinx6fTASmxyqrJ8EQl7ger1ZnH90o?e=o0HWyp",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCdE4WuOoDCT5frTNcuZMorAYMVs2sG5sO8CLVFWxh8DhU?e=HRDCMt",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBKpdGtwM64S5VhQx8boS_5AWwGCfoUpNvlXex3mpdk8Bk?e=YNytKe",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAY3d3LDjLhT7XicNOWR9lcAWK8uRDG5ReZjacien7dHow?e=Jx7Uxo"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Single's Inferno (TV Series 2021) Season 1",
+        "season2": "Single's Inferno (TV Series 2021) Season 2",
+        "season3": "Single's Inferno (TV Series 2021) Season 3",
+        "season4": "Single's Inferno (TV Series 2021) Season 4"
+      }
+    }
+  },
+  "4099": {
+    "lang": "j",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/d/d0/Ling_Cage-Incarnation_Movie_Poster.jpg",
+    "name": "Ling Cage",
+    "seasons": {
+      "Ling Cage Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBk0Rweu6R4TJ8Gq_6s4UpeAdX3aYqkJYXsrpYTWimB3d8?e=Q3vK8p",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAhVwUU3YvwQYAmc8MEL-LZAca_lWi40WMvTAu43SkOkO0?e=ptjNhz",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBUnAHUsaXSQKGjYC6ft_K-AZgBp35I_0tLJZMr4RGHuD8?e=n9CKsl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB7KPTPdtjLQ587aZKyyc8lAWAn6m4FEFg1wRBBsOKzvGk?e=fQd1V1",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCiUZbJTre6R4kf_vAOcxvHAaC9HnnmB2h2oWGCU7wqvjE?e=SK4G5H",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA1KgS4HS3pSr8j0r0muF3pATttpWBsv-86aQD1Acoa5h4?e=QFrHF5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA6GteYMKNUQb3gYIZOC3hkAQz_-Xb2ppsROzPsCmsz_UE?e=soXFV0",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCSFiYUtd7vQI1G4jx_Yi7NAeSLsrQq3QCpILc1VmrgNFc?e=48gnhj",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCaLyCQD7fmRYHWA3Uv4JyyAVGWqTCrIqX0FNxFi42Beso?e=QoSOLC",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBAgG_jTN2ZT6wrHN5snd0zATlxpF9rWHNV2mJZc8WShtk?e=1ARcTD",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD5kq9MikglRKj13soVu_PWAQ1vxCyx_kUm5u4mrpnVm3k?e=NglhzP",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCzjN8NcROJQbwFJ-iRIFQHAc2cCaZia9-Oq6I02V-m85w?e=QBgkrg",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDOqdV5wIS3RqNxFhK6A74RAZDone9FonI8bsKKn2fnFrs?e=ZmTowS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAOPMEb9bNBSIEl6CYINosOAYiiabAPtEHwAEKP9r-JnHY?e=KadTcO",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDTlhQmMI-XS47T6d_X69JTAbw2yDJpZefj5q3hU_dRFQ8?e=aqbGAs"
+        ]
+      },
+      "Ling Cage Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBG1Oky7jpsRphu5vU7ZcBuAelVJ8eRj5XOnbKOd8FkhU4?e=EY6PcE",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBY8jeKT5K8TZCOTFKjDz2EAf3AyQtanpeTGVSTjmv6csU?e=QmbapK",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA4d8y8qRPMQbIxRpflpf22AdQeoc7hGYnJFrlejFBEuHQ?e=jUbVgT",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCdh4YPMGNTTb0FlKhmJGFoAdJrRkNVLBXckwhWycsK1P0?e=aGy1CL",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCtHUEq48NITpbnQogIc5-hAUI8uIIsbui8oLn7RbdnM9A?e=Wsh3Gw",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC4ckMm5PFvQrlC8M-x-nynAZH4_jBZCHUWLY54py4dr-I?e=DLa726",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBKpbucud7RQr0LCAh_6sxHAbYleCnAtR3De5VVgD5zAZc?e=rgdExo",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBM9rTlohuiQI3mGpQHvcMbAbyauX0qUQL3SyATXhSG-S8?e=pk36KF",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCjswqBN4IwT7daJOH7Q-agAXD1XALRqF6JPVEqCnadGXQ?e=d9asfR",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAB3CLcbaGuT5xxIoX_xJ0DAXVrZ9G1bISXP-s-fTLyZK0?e=4wI9ec",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAmH4KOcyO7T4CPPDwcwJAIASugmfExRRc1oOUjJxUY-E8?e=Y5Ghgt",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBoAPQsjYTXTZJe2gEUTzjqAeoFvsDJrvB9JljeEvOH8oQ?e=dqNknl"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Ling Cage Season 1",
+        "season2": "Ling Cage Season 2"
+      }
+    }
+  },
+  "4100": {
+    "lang": "ej",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/1/1c/Oshi_no_Ko_Volume_1.jpg",
+    "name": "Oshi No Ko",
+    "seasons": {
+      "Oshi No Ko Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBxvbXzqH--TKmFy0T4SeERATyg6AFiDoVy4tc_ouJYFRg?e=tBacaY",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBYui_YW28SR6UjP9jfUdWOASCghHOxYjAStJ_pg8Lj5Ns?e=J7PuD2",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDx1Wx4aKx9QYhAVlkVxij7AUAnA0g4tr-AqKpAukDGn-o?e=Gir9jo",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC-Do9F2qymTp3AwuNMYf5iAZxmtPvEc3RTET6oaec9LWg?e=gMkSrZ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAs-RVVKDSQR5sqvlYsPSYPAX66i7BwJAc-7gyJcja-R0Y?e=NH0XIX",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAlsDSmCnT9Qo_E5p-ikgjvAb3TcuesZ4tzS6I3EOethIw?e=BRDoNB",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDGyVL9CC3DTrulEH5VYMKdAS1cZzUYspQsQycjq_Kss54?e=NpIxNP",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAcuNdsSkx9SJgTHqEIxk3YAURaT4cl2DdUkgvEzcnCJ8g?e=zR2smH",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD36g6ToYp_TLBrtzfwMjvWAeuamcUMMccHIYWMTcWP5wE?e=YavTzL",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCFC7qh4vpqRpIqD7s0EvjAARgnhMFypGWzDRJxYTMl8l4?e=6DuiIl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB54NuE623mTJy95TxgJNV1AWtdGtlrcrPCGP-HRjVkagE?e=LkqgKt"
+        ]
+      },
+      "Oshi No Ko Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCVAFL1APiMQIq9xTv8fkolAXDB_1loaPIkeHHhr3B0gOw?e=NnZIvR",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDhRMFnbGwCSrNeftCviBg0AUGzeEoVSnoTV0PrzQ01Rhw?e=mGT5TZ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD04At9mZ9yT6dzcUlg7KJxAT5ZI3eUk8JgVePciwmIF-k?e=JD4DWo",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB3OD85vDpTQ5z2LPXanYMoAVHI2cCAzm_RYSxEWU298dQ?e=eZtzbP",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCbFpnluOSVRoUzGRBn6ZDyAYxXob1QYUYKPM873iuJpc8?e=CdhS9n",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDtspmCALidT6iG4H5TIbK0AYBlMfeieMdQMcf4Bm7KEck?e=wP22rb",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBm4SWbHRN5QKvPNesAS85hAf55miogMpGs97v7Tg7Vh_4?e=8wVDO4",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCII36GWcfLTLC6tV-gkBETAdpBncEVbfrXTitVFpZo74U?e=I2UzKg",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC8XO0KvvEVQp2Dr7khdUmsAba-5f35oEKTZtRnzjAwbrw?e=6LRKKc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAwbMpDi2l6R4XPFhNRB1XxAcvWnlzR8J96ImD8B-A7Saw?e=dyDquU",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD187ERK-pRQJuTFThTltpAATbXTiM3AJgGMbHtOYs3AAc?e=orczrH",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCZWhOIjn38QIPFDsrgXEVlAZ2W0SCB-bDtXJwy4_dgKlo?e=KF4cwc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC5YiS_vkgaRopkyIdCifAlAZqTgWNX4af1wTGBH0T-Uc0?e=pJptCQ"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Oshi No Ko Season 1",
+        "season2": "Oshi No Ko Season 2"
+      }
+    }
+  },
+  "4101": {
+    "lang": "hetuj",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/0/06/Fire_Force%2C_Volume_1.jpg",
+    "name": "Fire Force",
+    "seasons": {
+      "Fire Force Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDsCyQcC66qTKh9XuWt2_A2AScsBTM8--NKFcn6rFZskEg?e=QrIqJd",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA4j6zaOZoKRK-HzpeMLCvDARWJd7FfiwtZEytZIFsomAw?e=TCTHb2",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAmyGoYkRyCQbZtmcnq2qXbAc8Y0Za_HhW-LWzoclJ81oQ?e=fHAf2m",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAelt16TIFnQJ3eIqIDT-J_ARiKb9xdivHGeRJqfqrpv9Q?e=XQDaL7",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDnrkCazLusRrGntir1jFFGAWxy4iHkBGbSPfqNGZ13-lo?e=6huxP8",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQALxUsihajTQqNRET-97yQpAe-5N0rebW10xjZzTNqxtfo?e=QFRbWo",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBNJVjOOeVqSJydcQpRoBFPAdkJrL7GUVhAFULA60r4yQY?e=WXdLWf",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDCsopW5-kVQIz1ejAzmRKfAeEXXC12LE9MieD-xxjmkMM?e=jFNsx8",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAKb5KtvOwzR7Pp81wIi9cNAdCEA2ruSj_Y4LJULb7hvjE?e=kCz3Bl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCS5vU7TPHoQqKgsUg44jvWAWNSMwOd5oTud8es2rUqhMM?e=QVWpX5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAwljgwG7KjSLiy5rFE3XPPAeuutHxk_46bkH_2pZ-GN2E?e=V7WDec",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAdIhhL-HrUSoxcwz2tBBeYAXz8xU5Cm_QgfFunyOI5xWk?e=zdqkvL",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAFe0V3qyZTQJvaz2qsVGcCAdMr5TNsFkoTH-2CX2sYHGE?e=LofJ90",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD8Ovz2EfIcQYn5IvSeH4KRASJb_O-LIpQqW_ZZeqIP7Yk?e=Y5sUb2",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCWFuRgiDXxTqRYqGuYcixTAUhr3p4yFRdAwA7-_H2RN0g?e=8MX5jl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCq2eLvSW7aSJn2FWe24B0sATvr9jAEV0tKIWA2PGR3TaU?e=VNkGcf",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCDfm10-QarQYvZkrJiVOX0Ae_xNuhKnaR4TbVTX6fSHso?e=MmCv0h",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBGN9XqQFOUSKxah5oA_N0rAT7F1lD0gY9L9ELZ8ULCRuk?e=rhzc97",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAGGyQkLwN4TIodWXByY15CAc9zNeJKfYZb-z7l5xOP8PI?e=xzF4FC",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC9gdfT0yDUTLLrVvZcr-yaAXhKPyQn-qfKLy_ci0Mz9wU?e=tpR9Lr",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDqr5dXyxbDT6KmOinRlwR5AQU-seVuwkBLJt646lqhFSs?e=oEwEca",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDGGpW3DteMS4v2ZN4UYsOTAaRUGOgUCkGCKUbsjBPZ4kA?e=6DvWC0",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD9M3QdSdT3QKmeUxT1vricAQGJaA_xUyjoZZGYusoVMSI?e=cKWKWf",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCIJsvmtIPyRolzY6iHAQV2AXhleRdveBLfl-IaKClvNfE?e=FKrdmG"
+        ]
+      },
+      "Fire Force Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCrYXLOMYN2TaprNDZEtB78AR7U9N69vyFerSzpw4d_S7Q?e=caFqct",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBEB1RlXu3hTaVvSb8ynnQeAbgrOqgcck9c5PqHwsYy1ZY?e=aigYk9",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCTvKadkWxyTZs9XUjdr37pAcEf9mdNEc1J2pZIK4CJ-LU?e=ECswIu",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBAHp44WnDTSraEyEJ4OV46AdxjdRsanaJIX7iWsesrWiE?e=ejDR61",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDhiOdLfNiKRY_lEm6XEa7eAZa6QRKfnwTJ68u6cpfUNo8?e=6NdvPb",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBFXu2VZ33ZQqmeWGBI5XRMAQ7dG8hCyazoxIiOX29sdhc?e=u01thl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB9hvqnt1IYTYICnIwhUjaAAVhPO_B-A6788yTmfvWrDVI?e=kya7Bz",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAL-IeZqy9zSLiMsOlR3spSAfwGN1o_9fJaGXL1g-CySCY?e=L9kywc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBBtf38jEEMQKto2-syuHv9AcNnwbbMTDHMnWePw1bSomg?e=HZcWZR",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB1EqUIZBvbSriw0VV8OaH9AcbBf31Lbep72NdgHxo-qBQ?e=A7KtfX",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCuIs2ODHnuSI7nXB2uoR52AX3t6ScydNzIeCAJr7F2-oQ?e=pSXOb9v",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCcYG45TJWSSqmP8Q5aDwsIAdJS4JLQ-pgLwjVz740fOeM?e=Uh70ne",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCqf0oTUzSVTK6tWRtN59hlARxMqhVyurFW_p5QiTauqFQ?e=ENSbnS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCRJNCt7Uq7TreBOnkaGFgGARLV8fPpgGk-wCE1ln3V_3U?e=bXHom5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAkIWJmOSKkS5RAy_-lXmjLAfzCNL3dk3A1vUS0Y-ScLs8?e=FVEJY3",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCNd1U7lYkMSb4eAbkmXmFbAZf9St_3BmbNN7VRxAb1kLY?e=SGgXH2",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCIl-ciukrtQKnZ_r0JO75wAaxp49pkOKG9mtyzjYJ2tQw?e=MEIdMw",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB61t6gIIboSJVHSqQZji18AUeD3wW1HtaDFPtiuJKQLzs?e=F5nKlR",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDCDWWTYWFMQ7AghW9HDeUIARKpbTS8MQZTZa9GRgZ0K-I?e=iq7aUL",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQApwDIuQcwJT6ScBhh2wSV4AXgp8O6iauUqauQubdVhW88?e=deCXKp",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBOecVq88SJRJ_kyUhBkE83ASBLP3WD5dgJLpH9xizqrf8?e=7oJqFl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCYHhvfEtCtQYN7stUHDZMZAUFFP4AstMdvuggcWmSHcZE?e=JGYM1J",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCXCahSSO6dTKoayfY_plNuAWbZFC_h4nlwCU3cauIqKQY?e=7R2dyQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAr61RIBP25RbdZbaALcfxaAXyqP7bKemVmyxlU2lhL3RY?e=2Sm57B"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Fire Force Season 1",
+        "season2": "Fire Force Season 2"
+      }
+    }
+  },
+  "4102": {
+    "lang": "ej",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/2/25/My_Hero_Academia_Vigilantes_Volume_1.jpg",
+    "name": "My Hero Academia Vigilantes",
+    "seasons": {
+      "My Hero Academia Vigilantes Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBd70ftyb4jT7zdNcsvVW0ZAc4Bwim4xhj_kvxlEw3Y_rY?e=qXBAVF",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBSCR-aWQeAQ74KNyFIi_mMAcIBAltrYYsDUVCzGAOiG-Y?e=tLy8lr",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBq597kzpkGSKm9MGZtSKF2ATwV5Stv0mGKXv8nBIcODvA?e=CWzJLc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBepHKHWsk5TZvnAicyfdtxAbnXPElzPpvu55OfmhWOT8c?e=eLoKnh",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAX1mNAB76dS7Z9bIp8QLwuAZfbhGl0x5iayEAqU9NtIIc?e=fNtcWp",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDjperOe6rSR630C1ko4UUAAemnMz4ajwN1gJIr_rDFKEg?e=h3KcV2",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAAOVr0sfpNQ4TRuWgnefb9Af8NH9uEjtqIe4L7W0hWhtU?e=YOjPYB",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBcYOyFmn5nSake4RuTSwZWAZX-wfD517-3rbdt6K728Lg?e=xEwCiQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDoV8vhrqW0R6g2hfU4h9QsAS21OipZh47QVD9tU5_Ie0c?e=u1u2Rg",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDQQ4xrwIxURoSAuQ-ac_HBAflzwwISXczAnAtSNuA4lkc?e=7XQI31",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB8yCs1UZxGR5wCaTOrV7xhAYJzzdveAtgNPSrzKu_kiGg?e=PN68qT",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBero-M8AbzSawcsmY1Wh9FAb1lCvCOXpLbo0FVGKlaIY8?e=CMF6Df",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBs708MRoGgQrBPuxbil6a1AVJVohBJkzftOTo6iOJ_FUM?e=MTxETJ"
+        ]
+      },
+      "seasons_names": {
+        "season1": "My Hero Academia Vigilantes Season 1"
+      }
+    }
+  },
+  "4103": {
+    "lang": "hej",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/6/60/Frieren_Beyond_Journey%27s_End.jpg",
+    "name": "Frieren Beyond Journey's End",
+    "seasons": {
+      "Frieren Beyond Journey's End Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCVXR5ftgOGSpx0FhLsezKSAcP_G-E2ctMCktZ9yj8VcvI?e=no8dN5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBA3iGBHC10Qrd7ngoCDP4OAQ1w37pcrU_hHdzcIg7C-R8?e=97VP9C",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDCeCK3BZx9TYMCRGZIVyW_AfniuGoFJP690PaxD7YFh2o?e=Pdinkh",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBa9cGs1TRqRLMNtb-Z3QriARcMh6EZugIZ20ZzcxjUcmY?e=xglfKd",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCHG0XhOvQFRJdhi9h8IPStAVhSpNYgqZZEVUeGgJ4_jJw?e=QONrVa",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDDbrsbSHBFQqdrEJSdh86aASCjnnq8nyiIi7guIuoC1DY?e=dnBPP1",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBIfcybXsuZT4gg9FXXmst9AU88rMnR5HtBtVCh0BWujco?e=Aa1Ad8",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB8skKvxS8OTLkt-Wi6pHIYAe9Z-m7BKNmK7tkDS7VTtRM?e=82FUEG",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC1fGEBmtN-SqIkLXJ-RSUNAWY7ghSSOYh2frToIL-Tm8I?e=DzKi44",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAW3-47qn7ySKfHbZ_E2HN1AVYyZxl4mhPCqR3PfVUGAQk?e=1J15fb",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCUUPzJq3p2T6NsL6U9N8iYAYmx3oE0zhuW5CpYzLy1H9s?e=R5m4Dw",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDNYx5QpKoxRo2kiCw8hTd3AZWFRKl316ec7NJw9YFH-sU?e=T6PGu7",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCINVK8x5qDT6ZmPERgXS_8AdA060ODsSn3ab0s5jiBEF4?e=NmgcJb",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCjY55XVV3vQZR1jbjH3QTMAaEEIF3yP2TtikME5BXUrx8?e=vbmHYm",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDSFLJc_qz2Q4IsRWxOtcZgATVx_IBh96A4jdriQWxpnh4?e=DC7380",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDRmb56DFBqTarpvHLPCRu4AeREnhdzrx5pcumu6yIK2V0?e=LvVlOn",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC_1tCbj3GmSJOwEjhRWdN4AUcba0QPdvEMC1jgraW5rWw?e=pCN7Y1",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC6kMWZTnRaQ6d2OUbAEzg8Af6TBp79wMXaOg6MuMVkqyU?e=679iYl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAudVcebG4jQoz0j1hGrC7ZAdoQmJWafUTZj5VEAHYdeO4?e=Fk1RhA",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC1orcxNQXrQ7Yw_Qp9RG43AXUv-CaKGejoBJQprAfMfjE?e=dyqdHb",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDHVDeJej7uSJX0OZGC42cSAXLKJzgatV_J0mF7tCriW7c?e=23cv0D",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAoEuUT7rWfTK40_CkiXhqZAUQ4V9uoK3eoHjIM-qyG4I8?e=aZvrPa",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDPvgbHVIkETr8TCMrEMCmWAbkxgrWiLuo2_ilJstm2o_0?e=rsfBP8",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDHd5M2C4unTKaiZ8tW4kNrAekMJCoWZXW9yotqESudcg0?e=Z8AgOV",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCKJlC9qylvRKBn93uSO4nJAT0F6_7ig8ICBUfS4zRepNc?e=wNrrwo",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDvLM2u317uSIRQFDSbnRRKAdDFgvLrcxKBnf11VbHjmoQ?e=LAvXdx",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCi4EfV-f0yRY0wPVW32bUqAWWuT6wIcnlhP-TMSiPdo_0?e=r45med",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBOWjZD5FuRQ4raGKwfb0n6ASY_HAgVXw133P1wm56gIFM?e=Jb7H4Z"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Frieren Beyond Journey's End Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -135007,5 +135595,5 @@
       }
     }
   },
-  "header": 4094
+  "header": 4103
 }
