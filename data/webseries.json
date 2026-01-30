@@ -21238,10 +21238,20 @@
           "https://1drv.ms/v/c/57f2934005e54137/ETTfepQdID1MnmetpyL_K7wB13QbUQmq2VKlNtl1j7qCCQ"
         ]
       },
+      "Bridgerton Season 4": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBqnkC7Dn1vT4jHOmbh7NiMAdPmN3RzE8dDn6Rr-xcZGMM?e=xe15Ie",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCQyxHh1jK-RqfqqWPd-Em8AcehaWeRu_jLGC85HhFqvsA?e=27BdpF",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCJsgO3zRLsT79c_cuun_W0AYNCA_E7rxxO-3NpZ52f0p8?e=KMSePe",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQALqxwKEPWtQr0qkXCnRAwfAaFwCJQ3rChVxthVcnPbd2Q?e=Dokgs7"
+        ]
+      },
       "seasons_names": {
         "season1": "Bridgerton Season 1",
         "season2": "Bridgerton Season 2",
-        "season3": "Bridgerton Season 3"
+        "season3": "Bridgerton Season 3",
+        "season4": "Bridgerton Season 4"
       }
     }
   },
@@ -103345,12 +103355,103 @@
           "https://1drv.ms/v/c/1C299F1B5B1F7032/EYj2lNVLd0xHl04uN6jHEHIBqu64ofGKaP2MJ0wnhGw0Ew?e=Lfvdzr",
           "https://1drv.ms/v/c/1C299F1B5B1F7032/EX8iJTvEp29EiSro95ZEVooB8G0j7UOP5bY9MLE7lR0U6A?e=xxddyi",
           "https://1drv.ms/v/c/1C299F1B5B1F7032/EbEER3GQxsJNrVf0KhbdRXIBGJkbf10k_ZxBLlTM8n6tww?e=49qcdu",
-          "https://1drv.ms/v/c/1C299F1B5B1F7032/Eeu2vPl1cNpPpHR_xf4kcjEBpMDYZexl1_88z47tMTjM5w?e=t1LJoP"
+          "https://1drv.ms/v/c/1C299F1B5B1F7032/Eeu2vPl1cNpPpHR_xf4kcjEBpMDYZexl1_88z47tMTjM5w?e=t1LJoP",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQATvxBEDwzKTKu_BzN6avTXAV7Pm5RENCaZuSrUeOEE91c?e=fCcdbU",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBnzPrugbYjQovX_xgyO489AaB0fXi_NiWIKm1hb4k-rtw?e=MAQCy6",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBkidKMZNYpRqadxQ6WJRriAYOYRRg5fgPufj5TEeG5fzg?e=jSYhhc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAhaeZYu_WfQ7uIVhdLzRRVAdNdhkBRf4QkCEQt34OTAnk?e=7DIdeD",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDWRcXMFw62QbzOThA1fpyRASTofTqati7wpSOFc-F_5zU?e=Yg1NQS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDCrNJndDKBS4gnOxc4EWyyAfGx_vCKauFd8ChoZRNeVq0?e=p7i7no",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDfW-LVdHhUQ4Qi6yziTu5wAWh7KkMJUplnN7SiHG7fenk?e=eAt8ne",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA3b3Ome9GxTrk4J8zAMDItAchYXcjelSaL-mKAkS_B9Fw?e=eJ66Kx",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAZEhPBWD-LSLXWIspyRaAiAScyfzXwd_c5-fFV3cYXjQo?e=kecPXc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCV3u328ncMTIYuLtiLob3rARiXSBHDT9ax9CHhaAZ-OH4?e=woEZ1i",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCUvMBagNdRQJzFSmadPJKjAYm9l5y9kOTGu-RL17WXplY?e=pVda3O",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBYzTeqApVIQLHs7z_OdNVxAVKWTYlRnWR9ePmqRLPPeiU?e=aq7HEe",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQChjQa1NHQpQb7UdNvOdWZdASdVfdLYcQ9dCMjyB3_Fh34?e=M0QOqc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCbWrfER2IiRIz48S6vMP3HAd-CgByoIkOK0TmGcVYsJrI?e=Q18QaN",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBSqkwunuhxRqJZbVfdbaAaAZuX5D1KeC8075GCc3opw40?e=jzzjhn",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAldPlOFaAMSbQRvRfyk-L2AbaBbjeAx35qOOtkhdM_c1Y?e=yaXpyQ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCczMtgoBr-SIywjx-Hsy9rAbLF3OvhArIwPFA1BCoT8QY?e=AsYFAH",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDovWN53BZrQK6SQKSnD59nAR5-avr472eKXhmb8NGDMIw?e=aME9Hd",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC_E0jusDsESIuQmieKRGOdAcnDMxsnprtUpdpTkMYZf88?e=iTvhEp",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDB_jMv2MLRR6jse013rlu9AVz-a-O-CZA9SPuIZo-a4aM?e=qMhSC1",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCWrknTQr8PTZKGxdbGMPH1AbiTRpl9XLCaQ96H_Ka8F3w?e=PStbRx",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBEOBG93ICDS7kFi_Z01h33AY2ctps9AssiEacJiuFMiIw?e=JK9cM1",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDZpEsV1qMsQbLxoqSH9kTLAexFHKZE6kJEhYVM7meeTX0?e=za3AbC",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCW_1ZdszHjRK7NJBzi7lZPAYZYqhwkuPsA7EUxSSmGTfM?e=cG8fN3",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBv12-hfQNyQrzbkPsfsKnrAY6IYnK8_1WMkFv9X8tJbEo?e=PZX5QL",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBveIeatsptQ4wpZNzYICRhAfe-qk_oMnxL0EQC5eUZD6U?e=MqaS40",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBIA5mglz7zS4x840iM94RdAcycVBSMRdTF9UGbMhxvrmo?e=Oji3ws",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC_kxvZalIcSa6RHyZmPFyEAa7btx5QKcf-TPeBRroztPA?e=2YW6YS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQClixmDaABVRYo0sNEPUQ6ZAXij0_i8ruvXsymYUp1vCdY?e=bUafb3",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAscX1AD91LRIQw6JGOnLNkARuTAATWj1dIpkZXbS8W20k?e=QHOH02",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBcHE6yRStBToAdOryRndxCAQjYMTWWme_7lo7Su85Q1DU?e=hbxFMo",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAvnMlgeX_WRZr08ZUQ47ylARlMGpDkgULC_Ov3Bii9AZw?e=NqZOi5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBr_dO4CPGASqHfbqodmZ1zAYNfrTd_BHXGPNuCI8yUxJM?e=Jkfhoj",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCKKI5sUZ6CR4B-KWJtsxqcAXLF3Xs0LnzoDrtOMWb-NIw?e=uDefN5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDvJwDg73qZRrUcbDPXciisAdcWQUXTLYz3ALtufJVR5RA?e=x9q7Ys",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA380VFvXQJQLeYkGKiXV21ARZuYo3qBqm4tu5LhXaYarE?e=CNYqbu",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBm9WHNxhAJR57gp51SfaGmAQn4u19k5guUGoICsct1824?e=7eGTY5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB-bISMLL_FR5BjZKaqo6bMAboZlnvJHLHORUsjLFov_1k?e=Glz8b2",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD7Mv7xnJKoRZUxbFawF8tCAa8YNeonOpZ4ENPlSS1yxFI?e=4lgCmO",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCGvYC4Z1n1R7L2WxOw2aNrAerlwUpchPI8BWJwV8un0Pg?e=Gb6BJ2",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCdmbf4l4iwRI9-Mdm0gUZZATdvvhAhhDdMrlNB74sRQJU?e=xFUSov",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDvcvim1jMDTKHIw1AFm4qQAYuSmPuzicibAFzEsgQJUdA?e=ygIa2C",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBLMQC_BYUURbQtiHINdcNAAXljKvkzUVVBowraVh_b5uA?e=EAOX1p",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBOUIRgEkdoTZnUH0G9ndecAa_h9EIPu_4veJB_0e7lTXs?e=nnjh6q",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCsy851bILMRKUNArEAX5zqAXVlIWE1eRGZkM3eInyWFKA?e=qtnSXe",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB5LqI5kLNVQa7WOWc8NzUAAXxICO_DFCXNY-ffQseZf-0?e=FQsicH",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA9zbwN15QAQ7IC2NDGVMOdAdIMZzOW8ncE5t__ykin_Fc?e=sw0WQu",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBuPj7fZKI6R6UnNCrnsT4mAXtUW7J2bfH74P6vr1j7QzQ?e=CH3J6l",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDYihSjqY9iQqAmYCbuAUi8Ad-8eeYAgsDovkQ14T1ImFs?e=SaOgbU",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBffXs5z3meTb1h0_gxDu4BActKerbrmlfWAsbkOJrJZ5M?e=ivIvgL"
+        ]
+      },
+      "Golden Boy (TV Series 2022–2025) Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDtG9a0SP7_Rqpc-XXiI4AzAUioMHyh2Z5_az6FPOzozLQ?e=tpcGOd",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAxOUJ6pmmKSbaoTlt7ZuxvAVyXMS_OmJoCXuJOctqd_sU?e=XfqyCS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD3rjtj_oAtSobssSEz0cq0AfVGFozFtbx7jJsmHApp-MA?e=YPyjRz",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAL_C7heTY8TZpa8fcFrmTHAXXjjh5_YNVbKTdeW2gCe4M?e=5gNA1y",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQArUgCtlW5AToG8XJMEBd5SAdoVouIDfiWN1t4GkvEwCz4?e=tZORAH",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAuH7rlkntNSZoAhl7Q85xHAWFlstEnlFZewDd2chQpAAg?e=YSpQrc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC71lpg49rNQp5z1rG1yuvHAcFrB3Khj8knVo1SS96-CnQ?e=KoLmXW",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAKE6dqDWCLTJyPkeztAEICAawlt3mLdJPL44E543v_OCg?e=yidFoM",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB-xm7dlt_dRYcx8fFBNrTZAWib--TXcWzIkBWT8ik-Kf0?e=7nUZOk",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBpNSPLGxWRSK5CzBMCVjZHAbj_YQZz7WnOSWvWqaHBCA4?e=eppb4y",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCzBY2uQi0pQ4plhEn5gMPVAc8CVbSAzcPOu4me9Ur1KXs?e=rc3UOw",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB7PtA6g_zQSa07386K6f9OAQIgvIWUfVy3suayYhxFTZA?e=j9OZrW",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDNoTzebhZFTqbhhnq8qMJUARrm_nSFvCOg9r_gctT1-1c?e=znsHrm",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDdS-mcpVJMQbg09dmok-t9AdEwQy5kJio01s7PZhFtMjM?e=EquGGM",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDN55ShNBLORolaweD8QnRAAWQ17tlsMWLtsucAUULZHzE?e=HDYkhX",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBN-Ju6xzA2TLZMorl0rn_6Ab0CcOqQp5stNVG6pR19sU8?e=Vs9fXa",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA7StAZRBC_Q4mzwHmIpfNzATawEOFZ6E7x71Nu5t3StI0?e=eWhazZ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBXNA_E5mMBTpY_cK19lp-2AVJNg_3B86gk1_BOt-4ljuc?e=2cOx6Y",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAHSyuscx1hQLUqghf8mXOWAZHLrMTxDKjk0ohd_Md3szc?e=QohpiI",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAKF48xwgeuQr3OaTuXD8iqAZ8tBKCr2fxcJOBKu81LjRY?e=ECDjWO",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDBfE5-VagDRIduzfvR2kDhAcfaIxkPFlsz44Se3dqnQNo?e=mYMPEN",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBhgom5gZrmSKZKglxPe9UiAZTYN1qVM6R9w1WhuljlPqg?e=zYxQGX",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD5BHVEXZHKTJYJRjgMsvqhAQoYzHdtKjas97VvC5DPCJ8?e=luoRaF",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAmZ2bHR1GjSZ1FRr6Tkz5bAapDvqXJogR8qwnFFfLvtgo?e=mnMVcV",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA2lGC5AE7bT4fZOPwDg3yKAT6e9OtGbnOTsU60Q83W8z0?e=TaoN0j",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCRNNq4D-08SaToEbmyCxxGAVpKky13dznQUlIavPKd6w8?e=fFwM7t",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD38Q9j-dalSbja3Y6D3XL6AagT9J_2F8w5YII8-PhXRUc?e=dMziCw",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAZg8IP0eqtS6l7LB-CmlqJAW3aP_F0lPP9dHN7I8fIGN8?e=MiIvym",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAmtA9k2ujBSqIjBjimzHWMAaYlBv5mrKVZSxCc03N921k?e=i7eFrB",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCiF4BGV4kSS5Z3a1wBa3TcARkgNK4eNtclAgyQnrfadI4?e=uFgBTn",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBRb-OHLaAsTopPyToQCTDIAbdfToevtnf0dtKZ2nSw3dg?e=qxhnHV",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDyLGWuF8TnTYLn-f5X2RBMAdu52LxFcsn55o6IK5kS5vo?e=0rT4pZ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQABfLg9lvpVSZagZL-hkFiwASrLrXZVY4c8ZDIepYrCeNU?e=VXec5g",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBdtE5XHQUTT6oySefN-pHqATfibjzlTmZkDCVxRRbipyo?e=jkra4G",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD-zo0cRGRqQoYw8D8HoNxnAW5gLrJt5p9sx3MKbnF39UI?e=JoxtFS"
         ]
       },
       "seasons_names": {
         "season1": "Golden Boy (TV Series 2022–2025) Season 1",
-        "season2": "Golden Boy (TV Series 2022–2025) Season 2"
+        "season2": "Golden Boy (TV Series 2022–2025) Season 2",
+        "season3": "Golden Boy (TV Series 2022–2025) Season 3"
       }
     }
   },
@@ -135826,6 +135927,195 @@
       }
     }
   },
+  "4124": {
+    "lang": "hc",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/4/40/Rising_With_the_Wind_poster.jpg",
+    "name": "Rising with the Wind",
+    "seasons": {
+      "Rising with the Wind Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA5rH_tMdK1Rbmm8xeaBXd5AfFSrhiWqvnuboQRE0P5jWg?e=ePvpUY",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQANONOCva27TacJvUVxKlrFAYQlj0wOxy_-drseCWfPBN0?e=weTif9",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBqKHpwZVZsRZqHRuxs5Zt7ASmF9SuOHo82Osr6DGQp2Xw?e=71uCLT",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCOSrStH-TUS5tDY6mZTpC9AVFhvY6o1T5E23gdPRgixPE?e=9rQOv6",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBzBFKf_Rb2TaQNKeMMlwY2AWYUG5knMysoQXmlvoMoK-M?e=ExrVsb",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD8b5LayRd-QKv68NG27lL2AZlkXSnNnZeoTpQPFAfKTrE?e=AdBI47",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD1kmBfuYUhRKwH2x9U5kbYASC8vonaoFT76Mo8oizXla0?e=b5BPUT",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD5h0G9JVw3T71Una18376zAQDFe2lcgDhJxqdiAlEw3F8?e=cqaMId",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBNUOrWeP_QTouVxwO2-nBRAVjdkJ9i361DxIvQwAo_g9c?e=bfxaop",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD9EcKd4eX0S5nCdr1JGKyPAaqHjURpE6jIVy7rdOQyRuc?e=JfqkH4",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCqQXS7dpYMRIAB-2KeN8CmAQvK84qGkIKSytAmoMor-Kw?e=eQ2R7p",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDHGStZzaA9QaVWPRBQBBwNAc-xfVt2OSf0wn6RN0Ckdwg?e=nSA42a",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDAhmm7Xl1KTZKR0DL7D0YeAZysmARnb6F8KakDbwus3Hg?e=qfWheo",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA5YzsEZAlNR597qRmRMNxoAfiYNx1OGkqIYUgakuXjPkM?e=90lBL9",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAOWSCImT1AQ65v8I08OVYsAapv2-74rIVrogIHW5EXZS8?e=cyJfp9",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDnM6jnALPsQqc9ikZRAs9XAdKghQ7IHgSTAywgUP5VsOI?e=C08UR5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDX6bo4_L5RQpw7OwXonQuvASCGgberWFgWbmdxN5rnefo?e=iq4hpv",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCijy6heUVoSLwKk2WZShjHAZxhqe2LoGvaQgTbt5eME9M?e=BR3QF5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCYZyiunRaPTYoda1-nm-XjAbLyO7XXicWrmi7F8DxouHk?e=DKjZ2j",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDSkLbdgbyXTIPqmKq5ExDdAVyuKD-2z2TE7-nNbC-QJ6g?e=8XPLDa",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDg_s_o6cAmTLFGqjdZbkGDAbierKAcTOv1QrSP7X2wL_w?e=4a2zt2",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA30VNXqm7gSas6WKZGr71KAVgOhYMgX72ZE_wZC6WS6sE?e=pqqOSS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDKU1whs-BAQpUJi-D2O0f3Adv1ZoT_hTsKvRqf7Yb2880?e=ofjNW2",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDuBfYzA9dGR5vsyNixo2H0Abq0ncOnVijyxvqV6pjySLk?e=vpH9Ny",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCt1eQTL_bgSqH8AgkxpmPaASruhFRT3OrkVXsW1ieZDmw?e=iMVJYV",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCiK0QXa7rHTqfPvScGh1lgAfZTLAsRZf1Kie2T01wII1s?e=ED4mms",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCU0wkMoQDAT6NHCQcerYLEAbPMODz0zGVuC_TY1Cz4KsA?e=CoBVyp",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDaXXR3bJvXQqI4x1vuAh4mAdhxJDsISRkz7x86Cqqkao4?e=eGxV2U",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBqb1wBw_UZT79yB_1fqoL1AdEeiu40v-0QGpOl1HbXZ1o?e=YWDa15",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBEuvziY7MVRoKE9HxCNgilAShD8Jm-XZXSdVrxNI3BAx4?e=ao56ZI",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAx2xVFZX-XQIJWkN66GJfVAbZZLMt7mfNJ0yVoBeSO9wo?e=Vpxg9V",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA8D7Mb2KXvQ68bzlISoI36AdxRM1AyXGvQQrxr3P6Pw50?e=tWcXRs",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB_gvhZK3lhSbkH72c55mQ4AZLNB4s8_Bia07-mJSfy3Yg?e=feZJfT",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBSt9zp698NQLkmHWMoZGs4AUR6kV3e9dzB06crAO0AABk?e=wPbG3O",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBDXuTAZnR0SIV7uF3I5blHAVK2Gdj8RfrQg7fAuPgrZCE?e=2wbqXi",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBhyTHAlrdeQLICuGE6L_2jAQwVe7V2l9Ta4V1FPUB-3GA?e=PYMzBL",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQALObQ1AFP5QKG7ZXJ8siZPAZQObyWKMl_NJ2wC5j6xjVM?e=VCO8G9",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDQotM1P_cgSr3ChnNQVTDRATv35LRx8kQl3jRKrF2Tbxc?e=ge9UfN",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAH-gdkM0wSSpoeM2TAU6dzAerPHqLq6CEBIP526rcJE5Y?e=0vTrcJ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBGBKDZ_QCpRKfLvWOhZ5JbAW0C0aHpwLWGFRyoWDujtYk?e=BZg9e1"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Rising with the Wind Season 1"
+      }
+    }
+  },
+  "4125": {
+    "lang": "he",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMDk5YzQ3NjQtNzY3MC00NzM3LWE4NzYtZGRkNDQxYjdiZDkyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Wonder Man (TV Mini Series 2026)",
+    "seasons": {
+      "Wonder Man (TV Mini Series 2026) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQA0AnaQI6vXQpZw3a_mwHvFAWhtNwMEE7mqqTdiXLLfW3s?e=Pv6tAq",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD6kUbt5RiDQ5xfK4TQ1PxOAU36xpKuPkGLDgNyeuzJ8sQ?e=F95we6",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDuY52XJBnTSqAs7hzk2d6YAUGKKDX8RtrteNXsGeYv8hE?e=xPFAH1",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAUFWRBkOlXQITm3IWL6YzvAUZJCI0ShYZtjlCnHsveZUM?e=Xg8vBW",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQANfhXLSds5R4dst3KW-_2JAZyz7JyJUkdI6kbpOsnAV0k?e=nno2DM",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBNr83bwoFgTL6lhDNWPI0SAZ3Yh-xKJl916d7y4HG5rL0?e=XiEoha",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDTECOLUU7TToIGwzRuquiQAZE_09T_v6HvSuXPnQpQ90k?e=ItlLOe",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCM41g7jRN3Tp4XV8bNTWzJAUTQUFcJjssw5rmwZL4o5dE?e=86Ts1w"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Wonder Man (TV Mini Series 2026) Season 1"
+      }
+    }
+  },
+  "4126": {
+    "lang": "he",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/0/07/Dead_Ringers_TV.png",
+    "name": "Dead Ringers (TV Series 2023)",
+    "seasons": {
+      "Dead Ringers (TV Series 2023) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAnSu9ZAHhORphnURxgUYujAfQrZe4Y9juqjEsGgkSB4i0?e=ecBuae",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC-PQpZER83QJyLuVZAouoGAWNL5rZo_Tl_0Ie9dG9tjz0?e=9JQThP",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCdL6ClM0h8ToE67L1eKinkAUx9S91u13ZVxOi99aayf6c?e=wXPmsi",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD-HKYs1UhNSa2A6rCHIckMAV-ENaItaDF0n9tlZivJM_c?e=Rh0iD7",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQApp8ohZC_ESZZDAAS7lTTfAYp1x3OSQmMYWTu7UItWmgY?e=NpQbKp",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDOkqXO67EARJ5RGw4bPjbYAcoMgLD2GWglOwPwhQO1OEQ?e=b41SXQ"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Dead Ringers (TV Series 2023) Season 1"
+      }
+    }
+  },
+  "4127": {
+    "lang": "hj",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/6/69/Suicide_Squad_Isekai_key_visual.jpg",
+    "name": "Suicide Squad Isekai (TV Series 2024)",
+    "seasons": {
+      "Suicide Squad Isekai (TV Series 2024) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQADgbhVQTG7TaegUH3_yRCEAUctr9z0GZsWeVmLs_WCJWk?e=TQNvOO",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBBls9vAHjWQYrpKP-0pPOpAQWFjp1YEeEBSXG7ZcHMMhA?e=up53Kk",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCjYoA9qfLIQIdmA6QIoXiOAcEHVfvINIm4WGUtrpupWn0?e=noWP6r",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQC-8y95eRgUT7Aj0IycsZqaAaXHHm6UdIDX5G98KLGYj4w?e=EqAWUJ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCzHsyR5MPwRJTvrbRYSFYDAaHFfJruFiDfKsqF0Fd22Kg?e=Yf8ClR",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBhuArOEqTRQ52a34uzzqeqAcDBJljKYGJrFjnv-Xaxv1M?e=VYZFUP",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCiRPuj6fODS4r_YIwT5zwmAZg4zuFuNwancWwj3HDQXAY?e=3DvASY",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBW40189CbIRqJuHv3mU6TmAdp1B747YpINs7GFOpkPf1M?e=qIiDS5",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBKXrwa46k2S4rhfcBtYZ0BAb5Mn5wvPWQpPzTY4dr-hWI?e=EDtz69",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBGVHqD9n2aQ5q3CzbbzX8NAahKxMF1UT5TRgfsGaJfWqA?e=sF2XZd"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Suicide Squad Isekai (TV Series 2024) Season 1"
+      }
+    }
+  },
+  "4128": {
+    "lang": "hj",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/2/25/My_Hero_Academia_Vigilantes_Volume_1.jpg",
+    "name": "My Hero Academia Vigilantes",
+    "seasons": {
+      "My Hero Academia Vigilantes Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCOZ3ZZ9o6yS58nBE1_PJaWAf3wHQcJbi4PdvZopY7MuzY?e=G2OhUl",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCq6foNC-EkQJnaJpxe4x3wAZLseYG1xapXECvvAxSuycY?e=0hytAw",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCCwc3RffizQri7BaaWNGbQAXEo1sRv1vDt_3PEAIfKLs4?e=VRSalK",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDb8wjGOnzFTrABiD0k4R4uAeG5rBqP-VhL0d2mJi9A_mI?e=RPPzWt",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAKlJubZ0aOTZL7v_32s8-YARq_r04WyN_5_w6s66tFIew?e=XGxYZJ",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAVi6Rn-E6DQ7ItyNs5r5hOATN5w3ORXvav2qP_CuZPMyo?e=Qnip04",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBLpYzcuCc8Q6y0xvyUZ8F9ATU4QkKGBQtCFDHIRgNqX1M?e=dCzHEG",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCz8GOwonZzR4HZgrhzoz3lAQ1zxqjYons32XwPJWRt2NM?e=WNFENS",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBryj7b-v8aRYzJ8CZfkUcWAbBHPyB_FVrd6BaUTE2uxEY?e=FcpLMf",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCTS3jndQH2Q4KZGj0_lKeFAc8Qmjn9h4aC8XhuGKsIF2g?e=mZAD20",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBmXUi066XITbccOKRKL2nqASugp6bsSCyoeOOwFkH4v9c?e=KFVHv0",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAvo91ZSyc8Sp1-MGjJPCfPAWXvl2g8pckW7QZEV2W5zEs?e=yH1dcb",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBrHmrHvYdKRJ8NLHEk92oUAXiffwsQX2A2n9yidQEtXKA?e=AhwP3n"
+        ]
+      },
+      "seasons_names": {
+        "season1": "My Hero Academia Vigilantes Season 1"
+      }
+    }
+  },
+  "4129": {
+    "lang": "hej",
+    "mainPoster": "https://upload.wikimedia.org/wikipedia/en/c/c8/Sakamoto_Days_manga_volume_1.jpg",
+    "name": "Sakamoto Days",
+    "seasons": {
+      "Sakamoto Days Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAuAsl3c7InSZgYu_tLZPUrAWohtjX-Gbqy4lt-yFb9R3w?e=41YsLY",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBjAc_hNBiZQoSSgq-WNimdAe-s9oO_JgVxKfw2TgYtFng?e=lDuSX4",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCNig6_fFFUSblmufu1S-hAAcVsh8iyG8v4fK5lKvztuL8?e=EhvoCa",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAZbJWJSxTmQJDn1ekFTg33AfO-tC1h_gsviEIf7I1t5_Q?e=MgZjpn",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCKYb1Zq5oZQL4v3ly3wQ8ZAcebQzXjeo2fV5opnpwHvqc?e=8HH8AE",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDIISm0ZN9lS48TcA8a4DX8AY8bCixvFWyEG5qx2D1a9_w?e=uIVTAR",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCgnvEeZz9dTZAlW4hM-audAT29CdBw2EEbqt6TYkbqblw?e=q4m7kv",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAhZeyLHNy3T4DJ3h-3_XuWAc0b88datjO8E6W136vylkk?e=MQkrUa",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBdjTcpweO6To1FVMNgetvlAUJ4w6zP_355TE6DDJB_7BY?e=zN9JHD",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD8CIxE1pDnT5ugXg5FPj0VAdXqCGihw1BhQfFp1CKEUz8?e=XWhl7M",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQB4LKz-D4ryTKs29H7f4WXuAXOyVmiUviMXinrS87MZibU?e=ZvO5Gv",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBM24jtFus2T6_CW4i93E_fAdO1-5uEn-nh2An397Km1xg?e=Nnx8cT",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAOAMFlRj8zT6VgWpt5PiD7Acu_hqzajCQPkIn4NfpsrZk?e=fJrqOI",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBRmQBGwu0WQZWRwvlCxqVGAXED_9vlD8Amc3ttwlEBpSg?e=diHcBM",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDuC6ba2iKBQ7VKkpIFDsYcAQl12s7U6WtaGWc5FnLK0zg?e=Hk7XYX",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDLDBN67K4uRYqOw9bsNasMAelTG77q1LxNBDQXJ8rJQx0?e=TZ62JB",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAlHr7hYCASQpWjBgcZJBq9AdwOWwviC9QGhMQA1kdA1xQ?e=WUkAOc",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQDP94zkqoieR7FqDuX5hA8GAZYGOkXosy1sa56_De3cW74?e=4lfXim",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQBQieMwIC6XRL9ihsAdC9N7AeDcVfu0p0p5VDpbpi7ENZg?e=CPonYt",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQD63vWUM1tvTb-6L2cL4GDpAUE7YemZLg5RFJyUIM27kLo?e=Mmx0ME",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQCmYk3Q_uczQr7G3UWJWNXcAeHnMuqvSax7jI_bJ-YYZVY?e=ap8Kj2",
+          "https://1drv.ms/v/c/dde717af7faeabe9/IQAgmCSxj-McRYPdzEHp33DPATTFVDNqGDIXPVF886fdriI?e=2fBR2j"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Sakamoto Days Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -136133,5 +136423,5 @@
       }
     }
   },
-  "header": 4123
+  "header": 4129
 }
