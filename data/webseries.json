@@ -111368,8 +111368,30 @@
           "https://1drv.ms/v/c/96b25bece9080c81/ETnrvZzwR_1Hj2bjIwGcAVcBO9fd9ejnMnedxXW4KC2kZA?e=6tLBGR"
         ]
       },
+      "Stranger (TV Series 2017–2020) Season 2": {
+        "episodes_url": [
+          null,
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQBsXw2Z98qoSpIgNaFyGqagAalvxuQxO67pi5NkmtCWzU4?e=q1ZpI3\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQDpi2Ijl-yaRZzGWZkzI4rQAQkRQUVsSF6H1_ZYT1AzoS4?e=gvEIxr\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQBpEnpHiIzETJrEDXKR3Wb0AU1LGMsrwmubz143hNfS_-8?e=rK93OI\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQDxVxEx_iA2RLGdMxTR9sUNASh3h0GHmEGURYni0KCQBK8?e=ilEbuG\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQBqpsdej_66Ton5TBfdzVoIAauIXX4G2d48q1gVkmCNbHA?e=7uCtcm\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQCk6c8aTFg8TaEoJvmpK_jVAbAPxn0BglgKbgMCRK3jxoo?e=g2NtQc\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQCCD4qChZJwTIC4tSQvXrxUAWY5DE9RRqW8LRvMkkVG6a8?e=c5vnJZ\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQBthFZdvOQXTq_0KErYq4faAckskcUbpYqmEELmBu9XOgM?e=17DZN9\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQBNitZAuq2OTbNT0u0FAz8jAdy4hMfYCUQudu4JeQbFfxU?e=QzIwaO\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQBz19WLwm87RKVhiNt5FwBwAecastbJT_TL4HOniKUoQhM?e=VbdV52\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQAYAeJ_EevJTJsTpC1OFEiSAV6pV1_Dw1yskcQWOKVp-o0?e=QRPYyb\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQBzFh6E8dekTZ98l30PgmZ3AUJLNFYXNMcJLA4XXERAlkU?e=PiHaRx\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQBv5FSPu9eiRaygGr-i-peFAd9RvT1Fp31EZspD8UmrrBo?e=Muya8z\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQBhSLZ7w4U0QYnhyz0aLix9AZkRZ5ZGWjtYpEICrLCapNA?e=p3Cqmb\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQDJqBFr_DjgQK1ChnLoQwVvAajB7yBU1RUE4oAeIxmv_0o?e=arGAAy\u0016",
+          "\u0001https://1drv.ms/v/c/13d4b035f0a633f6/IQDZoPKJLTSrQ5QSYeXustBUARYHyXjWQ5tX793sQi66ZjI?e=8OWGtQ\u0016"
+        ]
+      },
       "seasons_names": {
-        "season1": "Stranger (TV Series 2017–2020) Season 1"
+        "season1": "Stranger (TV Series 2017–2020) Season 1",
+        "season2": "Stranger (TV Series 2017–2020) Season 2"
       }
     }
   },
@@ -139324,7 +139346,7 @@
   "4202": {
     "lang": "he",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BYzAxYzg1YmUtMzJkOS00NGEyLTkyM2MtNTk1NzE4MTQ1MDUwXkEyXkFqcGc@._V1_.jpg",
-    "name": "He Man and the Masters of the Universe",
+    "name": "He-Man and the Masters of the Universe",
     "seasons": {
       "He-Man and the Masters of the Universe Season 1": {
         "episodes_url": [
@@ -139366,9 +139388,9 @@
         ]
       },
       "seasons_names": {
-        "season1": "He Man and the Masters of the Universe Season 1",
-        "season2": "He Man and the Masters of the Universe Season 2",
-        "season3": "He Man and the Masters of the Universe Season 3"
+        "season1": "He-Man and the Masters of the Universe Season 1",
+        "season2": "He-Man and the Masters of the Universe Season 2",
+        "season3": "He-Man and the Masters of the Universe Season 3"
       }
     }
   },
@@ -140264,6 +140286,207 @@
       }
     }
   },
+  "4227": {
+    "lang": "e*",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZmVmYzg2NDYtMTU2OC00YTdmLWEwZWItYzhlZTBkYjVhNWI3XkEyXkFqcGc@._V1_.jpg",
+    "name": "Blood Legacy",
+    "seasons": {
+      "Blood Legacy Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQD8yQHlKC97Q6KdCfanXRtlAbN2baBrX-AnTqaeQInqdOg?e=e9uXRO",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDVmp-_QCkuRaaeKxjRPssBAfzk6SPmCsmjhK51cmhWkmc?e=JNrPmY",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDQW7pnWuwoQ5LGIGAoSF4aAdWPKIUj79CocNhg9M9BCr0?e=Pe6kIx",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBhN4o-LTEqQayok7RFyn3lAd1GeGScYaGavwcI5XGl4go?e=m5vy2i",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCWbHn4RwWCTqn0BTAsRnSHAbuPHIuylGX1DJlu5b4YpOE?e=wtvF7x",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDekSj1N4oGQaLQxbzaWFydAUax692xFkmzfJcRYkHi-fM?e=fr8QDF",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBq5O_Dke-8RZRRayU05AyFAdfj7HrWa_B4nMB6Mvc_V_M?e=2ImIPo",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBHz4bLfOHiSKroupj4bPkfAcRAYemuhNW6pz0eBpE-8zg?e=jC5JGe",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAbzRRO5CJVTLDZSQb_OwjeAXIfamOY6wmdIoxyRfa6D9k?e=MvbcH3",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCk8EgjdezHSIgMWClYfuHYAZrmbEigusDJuQGpNsE_tw4?e=Ze1qCI",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBj1s-tnIIeR4KfDO8k9NhtAZbpxP0x3Oi1j4OkC2eAUVE?e=derUty",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDNWB-TZYQ4QL8Hg7UvrXNcAQxeRMoN1gDxJmsC4VLKDlk?e=V3JZI3",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQC83LZn0p6fQqHx6DeoNLMOAdbCNHBK7P4Egi-O7AY5QMU?e=z2vVIv",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCAvv0A1PJ4Rqt9cljBG0DYAVEpWXnrS-84qEB2n_VMW4M?e=2oRGSP",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAaLNODKa0ET6wg2j8792SrATBpOTaW-7G36atSrpMN-2M?e=7t0xog",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBoXxfnTdNASIcan90Ga8_FAYJVNOiUQpdTIJlbUbiJ39I?e=hZIfwH",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDUJ50h_ivASKNZOEXaTo98AXqmS53EJC3OqnM_Noj-Hac?e=Sb8uQT",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDTF7EkVe0UTpyH8_LYAklzAUAlsn_wHoNlCL8KiDNTXno?e=XY31NS",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDo7NYmg6odSZPGueETIshUAciCtOUL2Wc-e2cwz8TQsG8?e=UyDdy7"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Blood Legacy Season 1"
+      }
+    }
+  },
+  "4228": {
+    "lang": "he*",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BOTk4MzU3ZmUtMTE1NS00Y2YyLTg4ZmYtNDU1MzlkNTQ0OTUyXkEyXkFqcGc@._V1_.jpg",
+    "name": "Marked",
+    "seasons": {
+      "Marked Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBg8ypFBRx8SqqbvubCRZBsAZuL83ff3j_wkCPoJrktcNM?e=TfxsCg",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDX2lnA-5zsSKp-lynTGlV3AbG0JTzKDalEnHGMxI5EEzA?e=UpmBqx",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA5010J0QTBQaWkKgOp4R2qAUIM3hkgo46aJjQ_m-373HI?e=oxmTfv",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAdS2fKuXUVRaaOPThgNdOTAf13lW2ahP2W6fFuL3Mvd9s?e=MeAxRc",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBJUDiDqibhS72osvHV1QbUAUOE6kkD1k5zBVuFhpfd1Vw?e=Nnk9ak",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAReCiZJoFGRbg49MhHxxLaARqwhinUbnRHkJnYaKdbW2o?e=wevsFz"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Marked Season 1"
+      }
+    }
+  },
+  "4229": {
+    "lang": "e*",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZDZlMjdjOTYtMjNkYS00MWQyLWIxYmYtZDQyNGI0ZWYyMThlXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "name": "Yoh Christmas",
+    "seasons": {
+      "Yoh! Christmas Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCDYWJud4dHTYiIUQCIuaYEAfN4Qi8o6fU7ClhbW7e0tJ0?e=SJyHM5",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQARGUs7S1A4TYi3aj2K8FCUAVU5FUlkreCJWU1x4lWbBMo?e=Jv27ma",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBK7XhlM00WRIuyAkkyPyNlAfSR5W-3uI8fHzMd3iknpnk?e=dhqcHZ",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDZo7biNDDiQ48ECTMZiFi9AS9CIVzBtbH5wkQdpT6PQZ8?e=dwd3Kd",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAojsyfLR5PQIBr1YRk2apBAY9zReMzfGMMwdoD3eobzWw?e=A4AuHf",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQACdNP7KTxqRrvoOxxUxudyAYDjg_CFGYmyPQDeEmKZ_uM?e=7tlxiC"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Yoh Christmas Season 1"
+      }
+    }
+  },
+  "4230": {
+    "lang": "ej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMTkyZGZiN2YtYmRlNy00NzU5LWFkYzYtYjFkMTQzMmI5MDA0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "My Gift Lvl 9999 Unlimited Gacha Backstabbed in a Backwater Dungeon",
+    "seasons": {
+      "My Gift Lvl 9999 Unlimited Gacha Backstabbed in a Backwater Dungeon Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDdhdbCRzR5RZnuhAvnBfs6Ae_cTXYz7QN6cLd4GQaoMpM?e=O00j4L",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQC4Ju9NTR_qQ7cjgA0BUBkgAQmOBibuRsZ7p2OogJAFySg?e=nO3sgU",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBvRvh-yLL-Rq0bazwleug8AVayuIAFZmvnqp5qbxBMsgE?e=F8hEyJ",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBQqJn5_JqNS772RDGwwWE3AfR9pnJZZ_ClTbsAsyO0hzg?e=R96iQ5",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDdGi3EyDSOTYYB0irhtXrDAdvDVCJxdwVy0MO_oxq9eW0?e=7nRvcK",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAis-WwziiKQKOZx4ywCJC3Aarx3ueXCHqGCsbI4hw9gKs?e=2EoNMj",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCZn315uQUkRbm-rxaIz4t2AWji8ZhUjUz-QaXieK4pQtU?e=guRjf5",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA4eURkdVYWS5bCD2uHGw91AZTSXQcRcvK6e5ZyZ1punOk?e=z3XN7d",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQArZNvaDgkvR5XkgdQ01LZgAQ0QzwJaV4PIxHh4mKv2Ucg?e=9ZA0ph",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAclgsMEt0WSZliNdS9egaPAWRNeE50SI4hMLTIwqAEIlc?e=XkiZRe",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAS1DAuuSJ2S6D2-NOeIjV2Acr2E8ijxQDxMbhB_dnmCCo?e=iYt276",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBrVWr_n_eRTIDBEeocTNcDAalRo3tTjCI2JpkQlG_R4Fs?e=2SUQCe"
+        ]
+      },
+      "seasons_names": {
+        "season1": "My Gift Lvl 9999 Unlimited Gacha Backstabbed in a Backwater Dungeon Season 1"
+      }
+    }
+  },
+  "4231": {
+    "lang": "ej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMDQ2ZjYyYTktYzI5OS00MWQ2LWFmODQtMDAzMDYyOTliNGEzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Hero Without a Class Who Even Needs Skills",
+    "seasons": {
+      "Hero Without a Class Who Even Needs Skills Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBMlkh1O46ATYSu2dkzUcnEAdPrhbi8kHRjR9hwn-hnoWw?e=eRqBqe",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCx13SFWA7NQKfzPMkJm5w1AZTlwF8b8q4eYmFgW40rvmE?e=IGqZ8Q",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQC-3g1IiF8rQ73tmJNO-IRXAWijldDXMP3wlnCiin1MB-E?e=i4qAva",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCbGq1HuJ1OT642emSYHsV0AYUCdExinxwm2rFp5O2mWkk?e=g7imTg",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDxce39CqOnTbf5i_O9Si9JAZLijdjRiE4Hk3miL-o1k_c?e=9Ebf2z",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCAXnARaR7dQag4niMCAQkbATpi82ph14EXr_BLI27F0jM?e=yzthpU",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQD83v153oubSLtIS5rHYyPGAa5fNR1-exgCVDAo_YN1EsQ?e=uKYz5D",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCsimNBh3FYSLGeezqKb1IbAQCy2z5N_0OtMrzA1unnHOc?e=1mbebe",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA0qzgpuWabSIXVynt3asw3ARrE3-RxtPZj0yzywwXjmDk?e=5GWJ39",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDJmK9sI2U1Q5uybeiLl6IMAdQZX5IQjISJWiCN_bup9NM?e=FJusYL",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAEz8p-nd7xRZhC9FPFoId9AYvMFbjEew0OwricRS_TIHA?e=yJZq44",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBut9HCeal-Qq0yZ0ct9YoZAbgfPxWlQi4rZ1i6mxlZGy0?e=m1qvlj"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Hero Without a Class Who Even Needs Skills Season 1"
+      }
+    }
+  },
+  "4232": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYzYyZWYzNzUtOWQ4Yi00Y2Q4LWJjZjgtZTllNjg2ZGM0MTcyXkEyXkFqcGc@._V1_.jpg",
+    "name": "Firefly (TV Series 2002–2003)",
+    "seasons": {
+      "Firefly (TV Series 2002–2003) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBMhurBZVbZQJoLoiAPyaI_AaChZipqrO7mBbpHjYrSfqk?e=wgo5ZZ",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAsHvU33HWnRoiFS0PKO5ODAZtyRmNJEZQJqLwxwOTGmRA?e=Jf6xvu",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQC51t2T-jp_SbJZd9oG2r4cAfIGuZYQ-VGhfyFCZeKo0yo?e=Ki9rlB",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDLw1DpwfxxRIecCPWwaBkAASO2bQUvlUZIeKr-W_uVy3Y?e=g1ZDhx",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCFaejAiELLSJGMblWsWB5PAceOAOY1o0-KZKBWREzX3Ww?e=CcicNk",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDFZg6nf7fKQZiYfTOhlCgqAUFOTufjWEmTt8Wkv3zDC40?e=BZ0V3K",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBA6xO7lpG5QYWkxJAioUSdAeZrblpAzEPcZrU9NIIPzXQ?e=5DWtF0",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCQXf89K5OIQ7sP6JRs3fJQAdC844oEFnaYZ654ZDX0J-M?e=768sGp",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCc_RXAmU7_Tr1nIeaVQE-DAcRPAqbI-THQ-NdwlS6KsEo?e=JdiZMh",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCCFCKRhaL_QYU-82BCDncsAadR3K26lQUwvvtsj_9zSQs?e=FFLbwd",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAt99qRRPuHSJ7kqzePGp-3AcKnG5z6RiLn1sblGFFB4o0?e=jNm4j6",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAy7wTAYLy_Q7lDATrg7eMEAQ10H0UFAwI8QSpA9u5prNA?e=m9NCG2",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBo450Ghp36TryF6pUEUbKgAf0fMXdiS1-AZOE078QdJFQ?e=J74aLo",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBqkQF4ytN-RaZiNDpnHx1NAfHItMLl7V0wVGCsn6w-nd8?e=0pjeiv"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Firefly (TV Series 2002–2003) Season 1"
+      }
+    }
+  },
+  "4233": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNzU1NWFmMjktMTNkMy00ZjAzLTlkMzMtMDFjNmI5ODY2MDdlXkEyXkFqcGc@._V1_.jpg",
+    "name": "Watching You",
+    "seasons": {
+      "Watching You Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB7QkRwfE5qQa-1qtD5fUBUATYGpypXSAVyM218iyC8xEs?e=xIHogO",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBbwzG72EIdTq_-Ud9-nqWLAbZAaKQrKXMsm602xResDic?e=MRAz7f",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBItrIJPhJoSo-f1TK5C3DOAS9O0gORLqNPIdwAN8Icd78?e=x1mv9b",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDyOIiYp0BUQKfiMfTmcYCeAdoKxVfpP9wR4gWbZvWJMRc?e=m3zDkD",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBoOvqVY5BkSIeapUJD5gpOAZlbNl9g7o-n-j8oQayvO54?e=erQeR1",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCKaSDku5QMTqx_pzOy1-Z0AZ5Relh8cKVTC1mtP_T14RM?e=DadXJw"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Watching You Season 1"
+      }
+    }
+  },
+  "4234": {
+    "lang": "e*",
+    "mainPoster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMpNBFNrdZ3OYH6uvw0dMcEV_Tz3RihKuDZg&s",
+    "name": "The Brave Ones",
+    "seasons": {
+      "The Brave Ones Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA81SSxS2ALTJFnDsy-S14EAW0u64UGeEzrNxdFyaXbt1E?e=cELfln",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAKt0JO9gHsSLSZIJoMJfNQAQ0qZtPa8ZYOYZJDkhPQY04?e=v4Ff4e",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCCN1Ekp75WTo2x-bn18uN8ASiwo2YGqw7ZH2NR3-HyGcw?e=p2QSy2",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBQC52GqDX0TK3TFLU_mMXcAW929SzedmKUyjYnmCgzWuA?e=dSgCoY",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB9-ybqvUgoTonU8ZWyK9edAX2wCQSjUXlRJQY8l3WofjM?e=XWZKo3",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCQxyZ_EE5mRLWSHnBr398aAX3S2sX3MznNXdF1wkivw4U?e=KxiIGO"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Brave Ones Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -140571,5 +140794,5 @@
       }
     }
   },
-  "header": 4226
+  "header": 4234
 }
