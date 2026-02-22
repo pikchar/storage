@@ -140487,6 +140487,27 @@
       }
     }
   },
+  "4235": {
+    "lang": "he",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYzYwNTk5ODYtOGVmYS00Zjc4LTk5ZDYtMTM4ODQyN2Q0MTVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Heated Rivalry",
+    "seasons": {
+      "Heated Rivalry Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/8343ea1ea38a06ef/IQB8On-kWvYoTqnW2kis4qTmAU8CVosMeuu2dG8VTc3_BEg?e=CxoUsf",
+          "https://1drv.ms/v/c/8343ea1ea38a06ef/IQBaPXDnAFxnT6HVHuI-RnC_AWUB8LImR9O7izU4idW7t1A?e=jbG9TS",
+          "https://1drv.ms/v/c/8343ea1ea38a06ef/IQC5igN-EtH4TIpKZdL2YmYpARskTJoyxvFHOYcPu93EiTU?e=Ok7gyF",
+          "https://1drv.ms/v/c/8343ea1ea38a06ef/IQAWRreZt8TuTqM7eX2vifm_AeF39U-SmO95gm5cQMVX0EE?e=d2ZAkm",
+          "https://1drv.ms/v/c/8343ea1ea38a06ef/IQAtS1f7lyfCRIVUxB_KCQkQAVRPZYrt40MbdXqlvSPCLu8?e=Siq0ZE",
+          "https://1drv.ms/v/c/8343ea1ea38a06ef/IQDgGY9rb8S_Q4lnOQYAKaG8ATIzqFITKBQeSrZDj_mbln0?e=fLbmqG"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Heated Rivalry Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -140794,5 +140815,5 @@
       }
     }
   },
-  "header": 4234
+  "header": 4235
 }
