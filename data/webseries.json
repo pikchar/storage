@@ -2785,7 +2785,8 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQAKKVJbg5jeS6qvIaTqIaLlAYsA7_aPgzMWY1_6RhefhzY?e=RW5aGS",
           "https://1drv.ms/v/c/c0d06e510338ace0/IQABEjLUnJ3mR7P3ikXy8PTFAdZhca-9sqon4CasWjdb-Xo?e=GgDrLI",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCV9wxa2bWRS5D-Rh7TtFliAVbHDSHmH-faG-JcOtxXeZc?e=8nhYf0",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAI5AekzEBPQYhGgoKAoPmzAUAliaJDRhpOSJhQ4NGc82s?e=swgxf9"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAI5AekzEBPQYhGgoKAoPmzAUAliaJDRhpOSJhQ4NGc82s?e=swgxf9",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBk8YJnkZHTTK4QDKjmX2WTAbcoTbjzE9fwiuFkwK7vMxk?e=Q1AkZw"
         ]
       },
       "seasons_names": {
@@ -34946,7 +34947,8 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQDHrq81dH5zRozR1W77jsmMAVomijBgNq86edfyvyMoxQE?e=aFKf4V",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQB6pQlZ9XZ6SIIVYYG6etE9AS0Tb5zQRH-lGx9IXSSfB2Q?e=G6WFx6",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQDpTsoTTAjXRb7GaepWkaf5AYtz9nA-d1taNPx6cWUOAMU?e=Kdt2MH",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBdgRpPkYaDR503V8QaFItMAWqYjSs3VI5DYND_5d4oYbc?e=RyynPx"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBdgRpPkYaDR503V8QaFItMAWqYjSs3VI5DYND_5d4oYbc?e=RyynPx",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDAG7JFkMajS6C4WpMmTbiIAY4sIka6FOXvhGXuIwZhV9M?e=O7nirE"
         ]
       },
       "seasons_names": {
@@ -38363,7 +38365,8 @@
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCenGJDeFOuSrsNs4ESQU6JAZCPhi0AmtKI59zDNGhBvKI?e=6aml1r",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBT5CW_9sUIS4CpMyJeBvuuAVWDvf8jy4KFEQMEi_Qu3f0?e=WZH1jU",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQDkw_33VVMVRqQD2BH5rvpbAePFCrFn_vtM_05KgzDx7Tg?e=iSE9bX",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBIrN9xDl2nR4LvPM7FaLsEARkMXuPPSPV9K4BsM05XKeI?e=3f1Wmq"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBIrN9xDl2nR4LvPM7FaLsEARkMXuPPSPV9K4BsM05XKeI?e=3f1Wmq",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCwj6gUXp6dTpLqRsECA-92AfThkmLeQyWLScB-KiNLB_0?e=ygfrTF"
         ]
       },
       "seasons_names": {
@@ -57734,7 +57737,7 @@
   },
   "2242": {
     "lang": "e",
-    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTEzZjA2MGMtN2E3NC00NGFkLTlkMjItOTU2ZmRkM2FlNmYzXkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_FMjpg_UX800_.jpg",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNTRmZjkxM2UtMmRmMy00ZjZiLWE1NzctMGZmYjIzZmM0ZGI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "name": "The Last Thing He Told Me",
     "seasons": {
       "The Last Thing He Told Me Season 1": {
@@ -57749,8 +57752,15 @@
           "https://1drv.ms/v/c/943e458d41b3e0cf/Ec_gs0GNRT4ggJRuBAAAAAAB1gx_fm1ZVFRJj4ZCU2nAGA?e=xpaotT"
         ]
       },
+      "The Last Thing He Told Me Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBqj8uLtXvpSJmLaprl_4ZzAdpZpkjgPLjIgzGw93CmeoY?e=OsUitB"
+        ]
+      },
       "seasons_names": {
-        "season1": "The Last Thing He Told Me Season 1"
+        "season1": "The Last Thing He Told Me Season 1",
+        "season2": "The Last Thing He Told Me Season 2"
       }
     }
   },
@@ -61679,7 +61689,9 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQDm3zTITmtqRIGetWbpfE7FAc8gx6PoWO5k48c_lfrfWDE?e=VYKDTR",
           "https://1drv.ms/v/c/c0d06e510338ace0/IQBtECWajmbMQ6CoStFGTkZPATwcBw_Mw_AwG2u1PY3e2jA?e=fqXeGX",
           "https://1drv.ms/v/c/c0d06e510338ace0/IQCkfM22A-AER4O4_qUkYmObAXOBhvDAFUs8rVsECZROWPc?e=nCZGzc",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBXNogqIV2KSZvE46STNFHLAaaIo3MmEyCuWKr48VHfVTQ?e=PydRWM"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBXNogqIV2KSZvE46STNFHLAaaIo3MmEyCuWKr48VHfVTQ?e=PydRWM",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDgcDjzvrzcQJFyQf_nNfTpAQ48ZcwVsBt6vLhbmJUDZ2M?e=ey64rH",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCCpoxPcn3YQZVxuQc_lp50AUPP5rl-eN4UNct3yaP0tnI?e=Jx30gb"
         ]
       },
       "seasons_names": {
@@ -66597,7 +66609,9 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQDoqE0irmJPRrThsH6M5-_pAZR_oYfMW3JAxhXrFy0Ry_E?e=VMTXbK",
           "https://1drv.ms/v/c/c0d06e510338ace0/IQBwZezsy2QHSYT85l7rjdz1AVKZh275g3MwopQfvjC_ZKM?e=C57MWq",
           "https://1drv.ms/v/c/c0d06e510338ace0/IQBw4n4MKgv0R7xrYwhhDEerAcwJzkDJ-jAWxw-jyRSJ8ZU?e=mX1Urk",
-          "https://1drv.ms/v/c/c0d06e510338ace0/IQBjJnvIrlTqR6i7Qnu2lKuVASo9uL6cxchAi7daevEPZPM?e=XG2Mge"
+          "https://1drv.ms/v/c/c0d06e510338ace0/IQBjJnvIrlTqR6i7Qnu2lKuVASo9uL6cxchAi7daevEPZPM?e=XG2Mge",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBbteMrCVmASbTJpG5GeI8XAZgyOatXd5m7uFZklvw2Syo?e=wKqO1f",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBOUgBatlfST5NFWomortoDAbsLtnQzLDp3o8k59TI3p_o?e=wWmrES"
         ]
       },
       "The Simpsons Season 4": {
@@ -69166,7 +69180,8 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQCNaB7zHnNSRK2tmxVjX_QJASyoIgaLrj8MY_Y_MXSCbhA?e=nXzuxA",
           "https://1drv.ms/v/c/c0d06e510338ace0/IQAUbhQwpayyR7j3ZDDTPMaMAStCYRXzHk9s96qL02L1Yt4?e=SVH1BP",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQApzS_HwP8URb1yJoQzxRsUASiX7YA9GdynAtI-iQ1s3_g?e=bKJR3m",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQB0rqTdFIPHSJJH6tfRFJjuAaZfx6_lqJn0bZSUvK6e8kk?e=yP1mFM"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQB0rqTdFIPHSJJH6tfRFJjuAaZfx6_lqJn0bZSUvK6e8kk?e=yP1mFM",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBMhNaa_oYVQ6Hq_e0OZdqzAcNj-t3aizfWUSj0KxQshMQ?e=xFaBDq"
         ]
       },
       "seasons_names": {
@@ -73403,7 +73418,8 @@
       "Dark Winds Season 4": {
         "episodes_url": [
           null,
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAzvCCKpcGkQoXAbJvre2nmAf-CJgxI1qYi_fovuvZo2sI?e=jpmYqp"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAzvCCKpcGkQoXAbJvre2nmAf-CJgxI1qYi_fovuvZo2sI?e=jpmYqp",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDeXpmjKjCPQq9kgDY99X6DAaRDxT3y7l_zii6rUnT667Q?e=weFG19"
         ]
       },
       "seasons_names": {
@@ -82380,7 +82396,8 @@
           null,
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCz3-man_K6TZdDjlN6JBmoARvJQsqZn64I2FNiAzoiFoo?e=4714Bd",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQDcs0T5NvQQRqDwYte2m7arAQAqGeJEIwF-L_mZp9DUnok?e=5HZhO1",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDi0gtAjRBAT7PFXIOuToX0ASJhg48xZBmTAwxvCVmNk2E?e=EPPkGc"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDi0gtAjRBAT7PFXIOuToX0ASJhg48xZBmTAwxvCVmNk2E?e=EPPkGc",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQA820Pdf6_iRaO_NUxEw7XWAbsLXO4DDQ4O3gbXlkwC6NY?e=9YINt7"
         ]
       },
       "seasons_names": {
@@ -85168,7 +85185,8 @@
           null,
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQDdWtL07HrUQ4nLqsZnk-vuAYHKcUR3TlA-MRHWjK0DisE?e=sHQcE1",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQARIFBsmku2RIdUrMrmco2tAVRCwT8CUAifTkADCIyQd0c?e=ym6T2z",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDiRjkhxFgvQp-XGVt2saHVAdwuses9MpznTAh68xphQQg?e=6VSLqP"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDiRjkhxFgvQp-XGVt2saHVAdwuses9MpznTAh68xphQQg?e=6VSLqP",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQC62XQyebD3ToUirWqv6coqAf0Xk_H1g_xGUyBTmB41cIE?e=LJ0sWs"
         ]
       },
       "seasons_names": {
@@ -89100,7 +89118,8 @@
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCZkrGRr8pUQbWjWWfLSNTXAVtumhqG3aSJHsM10MU_h-Y?e=gZcPEQ",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQDXTQ6Q5thTSKhIPwPz2gayAbnRs7Il0pGwVx5ybV258bQ?e=ee5oVn",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQAwqUXx-u-QTKDpWHInEcM3AQa_Rtm3V1ydTCjV8v4an18?e=JoEyaQ",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBm3kAKuHWbRpXxxOsdngihAZNt5EnO6x_loeMqfhoP4oI?e=HMX84j"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBm3kAKuHWbRpXxxOsdngihAZNt5EnO6x_loeMqfhoP4oI?e=HMX84j",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDQRdR6UmZLSaeNYVUpcmROAai2uQydYmnoz1kZc7QtKVw?e=1IggcH"
         ]
       },
       "seasons_names": {
@@ -91178,7 +91197,8 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQAJeuxhU92fQoyzzXKpSEV9AaxmyKVr_bcqqka_8TNRl2I?e=V5I7F0",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQAeNHLdlUnMSoNz5LwOx2exAXGboLKbKl6672EN-AVV2ws?e=DWtqcC",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQAW9ZWytJEVRIyu0Scej5-lAeKBJxiEucSolzaiOuYtSqI?e=aj7uB8",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDnxsBPTTgXT459y0TLaFf0AaE6fCB64vTJXE6OyLR4VxU?e=9UGo4f"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDnxsBPTTgXT459y0TLaFf0AaE6fCB64vTJXE6OyLR4VxU?e=9UGo4f",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAR3-LBXMH9T54zYC64-KLkAWmUo9WKAY1oQY65t6PJsuk?e=lZEcxr"
         ]
       },
       "seasons_names": {
@@ -91886,7 +91906,9 @@
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQAh0Gvq71_oQZN81JAHs_IoAVfNvhReseGb-UE_0zFUCkc?e=kCQgRV",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQDfrA1G4qNRRJiXqfTsOiDlAf2VU1pOIIN_cTHPTO4srr0?e=PzKSP2",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQD-EDyED-3uQ7-YzD36tswNAUrkVzAdsB-dpW4sCx_PxqQ?e=Kge8eX",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBOptn5v7foQZ0BQMmnA0e8Ae_Wu3RyntUMJB70Ttu7fek?e=9YJjTJ"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBOptn5v7foQZ0BQMmnA0e8Ae_Wu3RyntUMJB70Ttu7fek?e=9YJjTJ",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBqPX1BZ9GgTZvxq_WGbY8ZAeCGx1HoZqUQYw3POr-PRHM?e=iafbuE",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAEeYqJcMpSTYagiVbRvwCHAZK8RwBpi48lrus-w2k_KpY?e=PJrGbh"
         ]
       },
       "seasons_names": {
@@ -92288,7 +92310,8 @@
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBJvPqYbIZuRqbjNe-oCP95AWSaLnGxhMG5jHj3QSo360E?e=vQjJBB",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBGTZklSD1hSIHjbS-REuyUAeUr0cmwpbOw2ed1Wtpn5dM?e=zNuViW",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQDrDgXDuFa0QICXoV2M8vy2AT5-0XjFaCA9JdHe-3iBZzw?e=BcUgMP",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCMg1xkljbjQ55wNEcOdAycATeV460G2nJmZXRAchwqVzc?e=zx7fXD"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCMg1xkljbjQ55wNEcOdAycATeV460G2nJmZXRAchwqVzc?e=zx7fXD",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBakoLQaQQbSbI0mMCsTeSjAfqWVfa3fAjjmzdxCR5Nqzo?e=3Pn0g6"
         ]
       },
       "seasons_names": {
@@ -93451,7 +93474,9 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQDAe-sEug5pQJszUx9TOboEAddxCev2iMngqO-bMMSfKJc?e=y7PqcE",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCBOxSVtEPcSoMTrJ58FL7KAaA19veywwoH-uQxM5o7OW8?e=4iN1cC",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQAUG35MxcM4S6oi3J3zFnNYAasjPzDbia1ibEU1LPMf2bY?e=zi03ZQ",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDU8hYncOTKT6rlVDHI1aWaAWLUyJsRZoT8OzSr1b6lox0?e=JTRQVn"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDU8hYncOTKT6rlVDHI1aWaAWLUyJsRZoT8OzSr1b6lox0?e=JTRQVn",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBfcxjLUDgpRqSwVwDIEloHARXfBjRCN7O5TEo3KIj2phA?e=0SfcQl",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCkkHpa4sbVT4go5kSck6voAbEt5PpNzqv0F5F6n8d-z-4?e=k4guYy"
         ]
       },
       "seasons_names": {
@@ -94666,7 +94691,8 @@
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBblL_BkbiYRp7rdgOUhgBmAbppCX1Q1pN--zmSVXeVVAY?e=BZTrqt",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQDla4OV3PULRLXuXKAss-HcAUTBL6IZ80F2G7r9qLl4juo?e=xYGf5v",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQC4g0_nIjQRTriPa-rUeQCzAVNXtqee2mlMFfQ9pDuhn0I?e=ZI6NEk",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQA447ZFAiXQSaG6eHUUTCVXATHHlD-CoRZjmFJkYFsFXq4?e=q0A6jB"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQA447ZFAiXQSaG6eHUUTCVXATHHlD-CoRZjmFJkYFsFXq4?e=q0A6jB",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBM0FbEg5AeSaXIjVAicsG3AeA_ueC9gy_SmtymIP_P81Y?e=gOqVyc"
         ]
       },
       "seasons_names": {
@@ -94693,8 +94719,17 @@
           "https://1drv.ms/v/c/3c268fa0d7305d02/EfzKl1FVys5PrWZrbiQNgxYBo8EUvfjPW3JqbbYnNY4Zyg?e=zMZR9D"
         ]
       },
+      "Paradise Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQC24MKV0Jr0QYDhVw9zZg7aAT13xFUnj4bM7MHMcUT0C0g?e=M2KcpT",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAOAAh8Nj9PRrE88tc_FgVxAXZm5BEtFf6XR4m2YS6XSJ0?e=tqDCC0",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDBBCOfWbmiSruwixx5UVD2ATkA0VYS9luecLuspuqPCsE?e=oN7m5D"
+        ]
+      },
       "seasons_names": {
-        "season1": "Paradise Season 1"
+        "season1": "Paradise Season 1",
+        "season2": "Paradise Season 2"
       }
     }
   },
@@ -134946,7 +134981,9 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQDidfiUzHBVT784S5a181GyAWtlbxVey6vtBsPyJfVfo_M?e=UT3eLX",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQB9ZSb3c5n6QZw7yp7X-sWyARoDHLtYmMMWO2c0amOlhsc?e=tDhN8o",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBgWiqjTJwWQ6g2X8RZVQBeAQ5bQol1WJOG1TEHP6J3_3o?e=ufB8Cm",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQClOVbuCi0tR4sIfvM2SPCDAbTKmt-3ZKM4xUzv2YwyFLg?e=JK0pR9"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQClOVbuCi0tR4sIfvM2SPCDAbTKmt-3ZKM4xUzv2YwyFLg?e=JK0pR9",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBrVCZSunONS5wQpfgWXS49AaWqmBIdeWWo3JabW66B0a0?e=STPxI5",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQB3NeITbv8zSp8LkJ1pKr-bAR781jiGtqvHWkhSwlBtck0?e=TP7HhK"
         ]
       },
       "seasons_names": {
@@ -134966,7 +135003,8 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQC1dM0JkVD3Qa4fgWS1G0DZAVXFaV4p88SmtZpVfnvMoCs?e=rgIHs2",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCdHJBxOdr7RYQ8SHpkx8DjAZdQP8NqHrRVg2cwxLmfLwQ?e=wYub7x",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBVNgyrnJHuSpqhQtm-4EpSAawEcBtIEKoAQRnwd6Ok1U8?e=Vipow9",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDeE7YVLCXRRrm48G-G-xeRAQXUZ4yT5EQo5FpUvNJ9DeI?e=ubo7NL"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDeE7YVLCXRRrm48G-G-xeRAQXUZ4yT5EQo5FpUvNJ9DeI?e=ubo7NL",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQD5Ey2Rskr9QpZR82MIV5T4Aa0XEMBafbl-6UginzERQ5Q?e=pGUYZz"
         ]
       },
       "seasons_names": {
@@ -136368,7 +136406,9 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQDSdNkl-XP2To8s8dDYsG05Ac2n4VMy6OSQG73BK2MvrrM?e=vWdO0O",
           "https://1drv.ms/v/c/c0d06e510338ace0/IQCpgogLGBmURK16-rjLvykpAR0nkl91OhyivP2tUBeX794?e=rmkNcM",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQAlXZZO0eLGSrKbz4orBrBxAWciq08DprIXSFuWPrYvM4w?e=qiOlVg",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDZURjlG6eaRKCAYI8kucKnAVV0vpJ8cFhw-lKg9VgvE6o?e=CTO56E"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDZURjlG6eaRKCAYI8kucKnAVV0vpJ8cFhw-lKg9VgvE6o?e=CTO56E",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCD_7UHIXaETrGxID1KYO4dAeD_JiEPcXfIPhR7zBES2XU?e=MhxOVr",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQASeEg5e_ctR4K9EqLQtVfbAdTN2WHkB3i2M34tdx7O4w0?e=GedWkF"
         ]
       },
       "seasons_names": {
@@ -136388,7 +136428,9 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQAdCfBO0ldNS684SURP9MPFASTWsZHdupl6a4CFIVlfmb4?e=kHEgnW",
           "https://1drv.ms/v/c/c0d06e510338ace0/IQCDArQYLktUQZcFMg4jKRIUAc5txVkKh_lWHHOA6UuWKKs?e=CagolW",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCQeUphaWYIT45m0U59ClgBAdkJCpf8TkLOaio6Nmcr6rs?e=ZhPHif",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCFSDjnK8-ySJXelNe-F5HwAc36k1HEhCKAyq9JTXgFBYI?e=McKtvo"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCFSDjnK8-ySJXelNe-F5HwAc36k1HEhCKAyq9JTXgFBYI?e=McKtvo",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCrjCYNK-fqQr9C5Pu43WnfAUnv2zH8eNonET2N6T-EKMA?e=vfhfID",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBEfVOh1F82T5WSF-Ia4mBUAf2DGhMrobWmdehXzeDMNDI?e=YwQcfg"
         ]
       },
       "seasons_names": {
@@ -136407,7 +136449,9 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/IQAK3G5WdmOTTLeqhfKh2BzxAaiFyL6SwZf6LX_0S3jFk2Y?e=gVbhgl",
           "https://1drv.ms/v/c/c0d06e510338ace0/IQAqZYdQEfcUSYIFLfbRH_vdAXM0oeZHrZQDf7pQk_OJ1qA?e=aAN983",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBwrL0hPZwJRb9A1xENRwk8AcCQNtj5uFJyjTEHoDE-zMQ?e=60S5jW",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCL3G5H8ugxSqkyWyQEIpAaASbFJdk2v0fYZhx0M1WnM7Q?e=eyTckt"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCL3G5H8ugxSqkyWyQEIpAaASbFJdk2v0fYZhx0M1WnM7Q?e=eyTckt",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCGZIBNKOKQSZ8vBuD-DychAZffC4720jjfSLTMf6fl2QY?e=1l8dSl",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBF5JqNBLvCT5H1SvUvHZKJAYWEbCiRcVdQHxwORqcJLss?e=GgDdPW"
         ]
       },
       "seasons_names": {
@@ -137509,7 +137553,9 @@
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCsWLfhw7ELTbAdlfBXxmsPAc0T4XIxUgRpixMUwdQ-BTI?e=hSGwfF",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQAbdq8kPu4STbS6pfZi63P2ATh2yCuf7ow57nggYenwiag?e=9LdCjW",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQB48mnw3UQaRYDWXLq9OSR7AYLsmA0ybcsOxkhG9FiQKvE?e=JzX3fV",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCHlOTlMqFXS4urFNMMqXtsAXXGmBh6F2jkWRtaXC-f5Bg?e=mtN4k4"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCHlOTlMqFXS4urFNMMqXtsAXXGmBh6F2jkWRtaXC-f5Bg?e=mtN4k4",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAURAXsqhasQJxrBjKTtwPzARUBx26kBjES6oqPx649KXo?e=D29eom",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDDGLw57CLdSJyxD4uSaxAyAQAB9sU5wjvQSTyCeWP4-cA?e=7edC8O"
         ]
       },
       "seasons_names": {
@@ -137526,7 +137572,9 @@
         "episodes_url": [
           null,
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQDqT_n3GZByTLQVBVsJHkq4Adb09tvGyEhnfem72Ja-VGg?e=5NYoh8",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBfdbStriNfQIrDaiSZLC_tASqvA69Kk8fTI8nOgdoP9a4?e=ohzgoK"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBfdbStriNfQIrDaiSZLC_tASqvA69Kk8fTI8nOgdoP9a4?e=ohzgoK",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCJnsRUdW_6Tqct9KRKq1UaAVNrcatE_K4lPbLiFnJb9eo?e=DGDub6",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCStk3MhxS0R4MR1On4GDSkAZwhl1rVEKegfH0VnIZxIlI?e=sC88ch"
         ]
       },
       "seasons_names": {
@@ -137884,7 +137932,8 @@
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBPsrSqGPPcQYKfHZnzoZHUAV__tpeH2UOSn5F-xC2nUtk?e=g4o4QG",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQC2J2h_WxJnRr9A5LN8usqcAV3u58_7ALFqZJdjOcJPhy4?e=kKwMMf",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQAoyDZPKqxVR6KjTbFfP83IAQUAfjynLpKQ34wFOs3O79U?e=o99iFb",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCKLKrjuKn4Q4-gCY3r9mF3AX3tMXHGNAnQvgd2Lr8ZnDY?e=5LFbqc"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCKLKrjuKn4Q4-gCY3r9mF3AX3tMXHGNAnQvgd2Lr8ZnDY?e=5LFbqc",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAnTpqgk2lXQZOmz0y_qNz8AWhLvtpvBhXUk7XMgYGZ7Ag?e=2D1OSx"
         ]
       },
       "seasons_names": {
@@ -138415,7 +138464,8 @@
           null,
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBOVWGcn-e_SJ3z0TNDt5LLATstKYn0RS5GrAsbbm6dhgg?e=CepI5I",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCE5fv5wSu3TqWg1eZ1KEYaAXoDqzUa8vCuPN0Qz0oUg1w?e=m6VPiX",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQABb4F1Hl1lTIbS_tVrKvRnAZrhwLoE4TA1GcgY63mjvBg?e=RbA13C"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQABb4F1Hl1lTIbS_tVrKvRnAZrhwLoE4TA1GcgY63mjvBg?e=RbA13C",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCH0V_927E7TaGv6jryOxCbAT1dXeiCEk5wkbZt6ggMybY?e=eLPhGd"
         ]
       },
       "seasons_names": {
@@ -139799,7 +139849,9 @@
           null,
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQDaCBKvHfMsSJVdD-UZZiypAXOvRfbYtUnvklhBp_B3rsc?e=NQJRUB",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBlVqR-PO3CTqA0g8_Mqg9_AdiFxNr5dTlfANYEIHUs0is?e=NJEp53",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDPWhhTW9VURqHBZbSf1oGwAQceV0rODAQLmzXlTAqimyg?e=OxY4k2"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDPWhhTW9VURqHBZbSf1oGwAQceV0rODAQLmzXlTAqimyg?e=OxY4k2",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDNiJgJ1YgxRa8CY4XBQb1yAdRDVZhNI9V51hdmWBbDkjI?e=RogDNe",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBfUAgNgIAMRopMw6lA3r4mAZMqV856wORqcGelsjgmTAw?e=OtM2Pe"
         ]
       },
       "seasons_names": {
@@ -140552,6 +140604,233 @@
       }
     }
   },
+  "4236": {
+    "lang": "hej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYWFhOWMxNTYtZThiMi00ZmQ5LTlmODktN2QwNzUyZjMyZGQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Dandadan - Dan Da Dan",
+    "seasons": {
+      "Dandadan - Dan Da Dan Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCFmnH9YZoCRrxXlv5Z4KzlAfM4cMlLov89rSf1bMicwLg?e=EzFzm8",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB3BjNmUbamQ7covE1kiF8wAa24fCcQwXpa7YkvarJsNuw?e=FT0G43",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAIxFUfi-BsQKb85PR0vqgnAYav8CiPErEOxKfIN5fDpOI?e=WHb7XN",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA5uMT2TnPSQaZ9XDu9JtU3AYAsMxEIhNWpKjA2Xgmv_XM?e=lqFEbh",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAwOJwzK4idSbEzArwkxlLJAWF__Gt-CqHwSctb6aECt3Q?e=SaIVhB",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCPJpqkKd00RYB0uOTAO5peARQO_P5TGNWPvQ6_r2Q1760?e=RAYfQw",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQD8P9ahwbphSbGiujCvzUWAAakgnm1d8fU8b0fM957eYD4?e=4We9Iy",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB5k-cDl6BtR5XbdT5SFg1pAfKLzzjJom0sZPeBwGfNR4s?e=q8v7xL",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDYHTLJSgKnTbdYFTB4jxsJAfGpaVdcJ3O8yQzHzbbgLUQ?e=VRDNCG",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCC5NIUM-3kSrajM_cBwhdoARHgxgsneXRFcuYaB2skwcY?e=gFYf0t",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCSHc6eYrmeSJwndGJmQlQMAfTD7fVGePZHPgYPw5YhFi0?e=ZambZt",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQACjCZL-k0IR5vgZTCQEJUAAUklcuxBtcWqnzkC9VSzHRo?e=sWEdCA"
+        ]
+      },
+      "Dandadan - Dan Da Dan Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDcBORB3Y2PQZ4Oy3yWjbi7Ab9fMk0vgF_GVgV-Q-9afqM?e=0Qh77W",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCrtTuB1X2gQqPWsPCMfeQgAYoU9gl6LSqSmnKoguc0y3M?e=LTrhqm",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDtLQyM2iM0TpJY0tuEuAQ1AWTpnvllaHLsiyoRMYSMWVY?e=whW8zy",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDM4JrbIqIuS7BQALaX_xQhAZnF3X_7JPj7Jo2BZ5HdiI4?e=AL51Tt",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDh6ONhZeiiQItGfJMrxukDARWNw6vLC_h2WQ_hj8TkUrA?e=JGhwUT",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBR4Er2y-IVT5ek_cVGoVrZAaLHoVubDXih7M2UC7ahV0o?e=aSAAXl",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQByVLlMuSoQT7hedclfYVphAUFORlPMRbE9mY0Vd0jM294?e=XitKOa",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAV7l3J44BfQ7dFA4PiOVvFATfd4M7HnBQ3ep-4sff2jpw?e=5oTOQb",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBUWBDfQhGbT6lZ-JEaU8rdAZFTwUH6KiXC1C4sL3SLw1I?e=j5sLtq",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDrUva3LavGSY1uRokmQZF8ATQazVtAyGsmNqUkvAjOHoU?e=V2M1dt",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCoBpCCOtn-QrNdiWmT109kAW4uu78kE0YtZD4RbexHBcE?e=4VzOgX",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDtD5HrB38PQ4Gmh797T4rkAYz4poCiB3kX-uDgrbPqja4?e=NUAcCX"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Dandadan - Dan Da Dan Season 1",
+        "season2": "Dandadan - Dan Da Dan Season 2"
+      }
+    }
+  },
+  "4237": {
+    "lang": "he",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMGFiZDZjMmMtNmUyYS00ZmIxLWJkYTgtYjA2ZWZhZGE3MTQyXkEyXkFqcGc@._V1_.jpg",
+    "name": "Expedition Unknown",
+    "seasons": {
+      "Expedition Unknown Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDeIBS85Z7NQbYi4Xl9-DJSATzcCnIOzSU_l2J2ziFDYPs?e=NLBEBl",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCJ__qgmbVkQZ5r2Pia3DVBAVKQqudJZFMCPJbKwWUoIHo?e=OMEbkj",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQASexLhOx8GSqStFuWIi5tiAVsAIP9VbWAvZeQyF6hd7MQ?e=D19A7N",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBpm1qH-Zs2RKW_nNNdExwrAdMF6_33jZkgIu24MtJl9m8?e=N7UJh6",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAg9UHhPfUkSq9iNlRHXfgkAcyDEGEIYHLRk8vvC7mB2Is?e=ZUHjz9",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAblmeuLGmiQ52lBacvo_8uAcRgE6CW1GuE2aBT7SlHfiI?e=sYZ94B",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDhF625CPRET6NVVWdxVBHmAdnN7sMf8fefh29Us3tCq1Y?e=MuICxv",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDToF2B3ZnwT7ZV1PDoWbAOAdOcac6xX8rM48TnsLsG25A?e=b0EozD",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDrAjfZiH-lTqahmzhKxdumARI5PztKzCTDidJDH4V2dkE?e=AXZ7EJ",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBiOzbhgYi0SaNvQZgnuIAZAT61BvUAl_pNYpkjt7PPo5c?e=dJx4KP",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDllCjYolS1SK_1b_SPSi-IAeW-5DauOUNSqv7kdc6maRs?e=owWPbP",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCEbdnBiN3pQrVT1DnHTteJAT7OEAoKo49jyz9suDMLidc?e=E8aYhG"
+        ]
+      },
+      "Expedition Unknown Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCdw1_tNH9wQLbJvRve4UkLAQeenIdd0OfsgQaap9DsQ2Q?e=TeiKY2",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCgesUVMWVBSYAzuJVR1lsIAaAorLzqUZKsdVBkkIqqDmw?e=e0piT8",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAnLpmDqjO3S7xZkgZkE3uBASyKkPPjQqUrSfBpdE2_xgI?e=RVTa9K",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDl4vXck3fTRZg8Uc6843lJAeXRzNDupVKDCg7hDJzMv-8?e=ULxcLl",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDVDsREkxpsT498PldDY1uAAUWcoytrJjmA4bjaJFe72pI?e=mmlojC",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB2wjI1QDl8TLrqq1fvaLJgAXF1P7VfjndJe_pgz3Q2ZNo?e=GuvbuD",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQABYnmCggsQSpV-4yVD-mGUAQwWVzjgPLH6-d_zuW5gSJw?e=1vNzdF",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAOmWT8I_IMT4r6cQnzuYt8AfqBWO29Yh0IjbwpvsCpFR8?e=5wiI7y",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDXYt1seroYRa3zYg_Xkpv9AVPGwqEmniDCkTWyXm4s6Aw?e=NGbTEb",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB9GUL_hY2XQKvQDVVnyujRAXsVINDAawsINKfDLcRhevw?e=KpETLc",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQD8_HpyztzYRrICF_llU3FxAcVLQryYFMhYVAil2Xy6K0A?e=hSPC3a",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQD-G6zE1ViiQKFj9hqxxrG6AZNVcFl7Nr4Z1HDw3gntzrw?e=whYwQC",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQD5rr_KtO5nSLiC0y-v6uZkASWBNNEqO99O7TK1b4RC09Y?e=Ok5toi",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAmHx6fVQLmQ5wAYi6NLLc4AUN_9y3O4QaHg7duVJRgzRA?e=WzAtiR",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQATz6Ngaae7SqG4xEDoMWYIAeIBAsvDbLkN0pNr-Y10FH4?e=rvGLvR",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDagl5z6dl-QoxNa_AhJagLAfXhx0QBVQWC8zLYBNWeUIY?e=98dP4L",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA0FKg4ekZLTpj4G_03DcseATH41VJQpgFb1t_ATtnMMtQ?e=7OpDli",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCcqvlRSNrhTqbGAaSNBZxUAWgJ-sO2P7OhBYPFW1JB_xE?e=gvsHxA"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Expedition Unknown Season 1",
+        "season2": "Expedition Unknown Season 2"
+      }
+    }
+  },
+  "4238": {
+    "lang": "er",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BN2Q1MzZiZTktMGM3Zi00YjMzLWI4ODAtZTMwZjRhOWMyZWI1XkEyXkFqcGc@._V1_.jpg",
+    "name": "Resident Playbook (TV Series 2025)",
+    "seasons": {
+      "Resident Playbook (TV Series 2025) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAzssHTp7PnRqGtRHF566TUAT7paYoTwFTVo4ftgaXcMog?e=95YMWh",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBqD2tsRdf9QaXy32L7XKi8AfFJh1uML8ujMzLJBPAM6lQ?e=1pryYE",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBQ_OrEB9lOToBsAKD92X89AbQNvAcs2Efg0f5UQa4racY?e=Tki6er",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAbSUeUuF5MT6tI8WSQYpKzAUJr65wg-yjSHi8kQUjlR5M?e=5KrZ6K",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAEmTKwkkhXSY7S_c0PFLfYAdUhtIEbzNTF5DbR_gFx3fE?e=CfphWZ",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAYc_b0-X0QR5pje1JaZwVWAVkXH2_cvrULENGqLqNMFr0?e=F2wIPz",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAWMpmfXnmrS5YBO6bEPXtoAeEF9hIm2to-irGXyJ1v394?e=sFukG8",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA5WPZ6G5sfSbDPpn8iV_uGAf8I4JPtMkvXnEdQrzDNPQ4?e=ieiSNu",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQALRejTg9JBSbOkh1PbjNv7Ac7qjt_1k21ShTh9xHJHVPw?e=tqrs6a",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDTk80w0d3dS4XaEjNKF_CdAWPSHBsEyg1NNZHOgJCLxcI?e=1Z4m0T",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBJMFuCDNLNR47yDgEoSc1nAQzX_zXJGn8G_NeeXPjlVJA?e=roICg5",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDYq10TxGjbTa3ayZ8nXpXYAeeilHzwlvCFaWZRY_8FnVg?e=IWH8YL"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Resident Playbook (TV Series 2025) Season 1"
+      }
+    }
+  },
+  "4239": {
+    "lang": "r",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNzM5Njc3YTctMmIzNi00Mjk2LWFhYjUtNTk5ODFkOTU3YzhiXkEyXkFqcGc@._V1_.jpg",
+    "name": "Signal (TV Series 2016)",
+    "seasons": {
+      "Signal (TV Series 2016) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCe6I-9NDOzT7mqHBLASm8MAXH7MHjM0quty24mtyRh6HM?e=VgGcUt",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBPy7viNpR2RrVfazRUye8bAfxEDD8T1Cfp4p3gIlqehz0?e=lkWeBe",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA7q51-4St4QbED8soIDIqUAe91Xc8B7wBBR__hUBjaCCg?e=acgpOt",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA0MUMI0LzXR79SGrC4JDn4ASfBDVFAmXzDEIwMOywxNlU?e=Hbeoc4",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBZCG0FW__MQq6Xo1fpZtesAU_BV438CfMddKeDPVx7PfU?e=pq4Llg",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBfztb45qacTrU4lc8ttDDTAfEourrhP4tuj3tD4620lXc?e=I6qkCr",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCzLq65bJnkRbCJh_kaz-RZASkawK-fIcx-Coz9_Ja2BGk?e=ci04rR",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAcxKzAJGRZR45TKqW5OwUqAcX-ckhSxygRix_OPLXbhi0?e=m1pztZ",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB8jusO9KUGTpXrvzD1BUi8AWGcLnPdSJxteOkRpBo5x3o?e=bMwKua",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAsTVnXNmNiTqecCiA3G0AzAW2DYIEfb6U3WAk0Of6OUsQ?e=rcxSYo",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCnC0uWL55-S7UU-6BSO41mATTHDuE0tnePjaNe64oRsjk?e=aHSAqI",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDZ4XmqTc-SQJB2FAx9xDUGAcBFwvtvlO73pSW_LvwVQ2M?e=uEtoHg",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCOB37-lSB9Sr1kJIaqXeOuAVxzkG1AFVDM7mJeV1acFVA?e=19ry04",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCPpNTClOR0Sqt1f2cCdyZLAZMpTv59Ghv5h7NligWLJyU?e=wLQqXd",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAZmLLBOZQOSL_N0VTKktRoATYkz0hqZKImu5wEl6fDNfQ?e=evesJ8",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAO5o8VpcwQQr-Kjl8kwbZjAUxH1kcZm22OtQbWevxFkLw?e=lgyGB6"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Signal (TV Series 2016) Season 1"
+      }
+    }
+  },
+  "4240": {
+    "lang": "hc",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNDk4YTI0OTEtYTVlNS00MDg2LTgyOTctMmI5OGFkYWZlYTI2XkEyXkFqcGc@._V1_.jpg",
+    "name": "My Love Enlighten Me (TV Series 2020)",
+    "seasons": {
+      "My Love, Enlighten Me (TV Series 2020) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDaxQ6wAo35RamLZ59JW1UKAR8xUMjr__kSmhf4HfXNFtY?e=CiPU5b",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCu7Pond8QyQoJ9ihDfJUsJAV5Eqr3kEezB5s4lElQa-FQ?e=fQ8Z3V",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAwI7EoX9O8S6b3-elSntkkAQMabkrdxlv21YcXVOpB7z4?e=L7Ji0m",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDr3E4mqJGiSaHPHl0DNQXdAeT_rPnxUKU8-1vh3CK9ON4?e=rkubl1",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQANfi11xsaZTY7-fUuuxHcnAWj2v-UmDBBEXDNlwAjDQWA?e=3FJcUT",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCwGWyJkMYCQZzh-F1l91ICAQF3nWZL48wvtEMGH2FddY8?e=lHglxK",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAGMsJ99_e2Q6sPJIR9nEFCARYKkeqd2tBOzXU23x5PeSs?e=CGTj4x",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBuuPwNbpacQrycF9AWIBidAXRDn8xXAJ44k-rKIAmbmfc?e=fb9wEx",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQClkVXwIIjhRJcXJeb7JNT6Ae0bXqXNXrzcnrlhNwnK2kY?e=lQtdxL",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB9VAkVud7mRLhLOF8WbNeJAd9jxrwVik4-jMcenaEBeP0?e=hmGe1x",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCVStlluG-ZR476ImRBj4kkAcYV9nmIozJow20B5mqYM4M?e=4XssPm",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDs3WYtLemPTK-L0ILdScPMAVcyC2RGiDfiVpH3YW3ukkw?e=2COMOy",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDniZUV8mtJR7R-cimb44ddAQNR8wDCtlXlqMzcNNIeKnc?e=wXVXbK",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAOl0j9MnK_TpBEw3oPj2moAZwfFZ85P6DhLtkMKb8j7Tw?e=J8OTmR",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBp069Z3S5ESZo-P9p-g9fJASqWwJH8vUP6jXEL873SRFQ?e=sjQlwH",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB2sFgXMksXR7e38leWLLC8AeTfaTBfZsdlFyDAyKfXkcI?e=pb3Faq",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQD5d9Fcdx55TZTS9WAjzIQKAUEOLk9dUaXl3Bw2t-KWnks?e=Dugmio",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAlJ9B_T1EyRbfX95xasupNAX34kKnUus56JX7O7d5nLQU?e=EwyFBl",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAXfxqq8FhtSqMUdzwNx-_mAb8MBebQbWEsbFCeBfNZk0w?e=GklR7d",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQD-7OIiw1eASYZUYQLk1aBMAUjoN_LiQfas2MBZDK-fr1E?e=d9VF4l",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCi5ui6HeEZSYZaz0U68EuHAZ9Sm1tGwKo9vKNjaEaXZJ8?e=f7e7BQ",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDErSTEjAISRpmLFCOvU01DAcsLkj3adwwvPzED85XhxzY?e=3qPw95",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQACFZ78C6hCTLWifhBKRZuqAXcOg16YEr9thro_Iu7sqOU?e=RSIkrn",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBxp78Y91dGRpfloQihKYOAAdsTxtZp5NKitwa1MeM1xRs?e=LaF7bV"
+        ]
+      },
+      "seasons_names": {
+        "season1": "My Love Enlighten Me (TV Series 2020) Season 1"
+      }
+    }
+  },
+  "4241": {
+    "lang": "r",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNjMwOThkN2YtMDkzYS00Njc2LWJjMWItYzZiOGYzMGUxNzgwXkEyXkFqcGc@._V1_.jpg",
+    "name": "Love Phobia",
+    "seasons": {
+      "Love Phobia Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDU3j9PC6xsQZY6HeQIIp5XAWRcF58bryrlhP4Zf8DX7JU?e=vQG51G",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAIh5E5M6dxQai2iL9Glv5fAfQg5kzAusrWtVsqs5Vjl8E?e=6SnwQ9"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Love Phobia Season 1"
+      }
+    }
+  },
+  "4242": {
+    "lang": "r",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYzc0OGJhYjctNWNjMy00YjBlLWExOTItM2JkNDg2ZjI3YzNlXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "name": "In Your Radiant Season (TV Series 2026)",
+    "seasons": {
+      "In Your Radiant Season (TV Series 2026) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCBD4nl1bZCQLZckvwYRCslATycEETZ4FAz5q3th54i16I?e=iEyAFl",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAQHqjQs0ajSpCreupOShq5Ac0dMebckVeGo9bUaO-AO-g?e=TUp7tv"
+        ]
+      },
+      "seasons_names": {
+        "season1": "In Your Radiant Season (TV Series 2026) Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -140859,5 +141138,5 @@
       }
     }
   },
-  "header": 4235
+  "header": 4242
 }
