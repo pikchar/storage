@@ -141417,7 +141417,7 @@
   "4258": {
     "lang": "hej",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BNjU4MDhkYmYtNGE1NC00Zjk4LWE0MTItYzcyMmE0YTM2MTlmXkEyXkFqcGc@._V1_.jpg",
-    "name": "Baki Dou",
+    "name": "Baki-Dou: The Invincible Samurai",
     "seasons": {
       "Baki-Dou Season 1": {
         "episodes_url": [
@@ -141438,7 +141438,7 @@
         ]
       },
       "seasons_names": {
-        "season1": "Baki Dou Season 1"
+        "season1": "Baki-Dou: The Invincible Samurai Season 1"
       }
     }
   },
@@ -141563,6 +141563,217 @@
       },
       "seasons_names": {
         "season1": "Crap Happens - Kacken an der Havel (TV Series) Season 1"
+      }
+    }
+  },
+  "4261": {
+    "lang": "he",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNTkyYzhiYzctZGRiOC00ODM1LTg0MDQtYzVmMzcyNTI5MDEwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Formula 1 Drive to Survive",
+    "seasons": {
+      "Formula 1 Drive to Survive Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBW-oLnWpbMQr0tzrjQ2flkARXaFR-TeAH96yZZ4Z6e2NI?e=Hr16oF",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBP_0ZoS7mqR4b-cIqmLTjgAYUlveCBEbTqHr5NlsuOe0c?e=m933M9",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDRwzdtzgYZT77l8tgefnzrASmVLdN83PSBX_NYfxEjsnc?e=w0sQVW",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA-yFYWRVepQrQl9etqlO4mAcMLysD3RDJ3EDbMRcrIFc0?e=A1QpmK",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBRbTFMNZfeTohqQXFsKRmkATunM6PCikXzHJaNXaRELAs?e=fCDHg9",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB7wbtaeCZBS4uEnmJFTKW-Aei6QFRLFQeFgtCywH1AgS0?e=1MzONr",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAVGtPjimt3SYuCopWqD8AvAXBz3n98WbChscrHjGWe3bg?e=QjLdOT",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB-9BAMjA1VRq9XvbhHMDm4AW2qadntcNBq_alD2NqbC1M?e=pKr294",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQD21dW31THgRYN62CGQ7Bm1Acc2SXeGSfq88vXhIXmSFaY?e=nkgu5x",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAF59QaHXWbS5BPYDjbL5nsAZIQoADEer6W8hH9xY_FJ_A?e=PxEP4E"
+        ]
+      },
+      "Formula 1 Drive to Survive Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAurooQhFz0QL_G1wONIpoCAXIHA7F8qCHL1A9yf9u6EnI?e=llR9jX",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBPi6Oa5UTNRqeJgILqVHg7AbrodGgVDH4rrBjfMLhLX_s?e=oMMTTT",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAKAsYjMJNqRL6ukHpdL1zFAZEw3uGBriHPsqaNzxrmKXs?e=8SRkce",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDoRaNReOJATJ2PLXuVJxY0AdbYw1YOU7HWsU8JqWtcwI4?e=Th3ACE",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBxR_L1NfS4Sb1vUIO9uX67AVdqs2mFLDAe_CnbmQSRa5o?e=jud6Wk",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQADAlQMQ3FFSJQZzswj7SSLATSeEpZbcoOCEGmkaSWLDNQ?e=5OB2sS",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQC7RJyXDd_KR6jir0a_yeXPAeYXpUg_SF5oWZvpXFgoN9U?e=mj0DcX",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAvnC_cFgRqR7HWOJNP7EnuATx_9tJetiwn9gDGq_XHRCA?e=XIk9Qz",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA4ihIOiyFdQ74OTwKnQJLgAYWLJZMvWBYazOZrbZ5Halg?e=1ZBYih",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCbvlIj7FykRLOjYxPCC9EzAVlBynVQwJs-UeLxtxhNz7M?e=oZ1c8U"
+        ]
+      },
+      "Formula 1 Drive to Survive Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAxAYMNU9wuS69EcduKDX9nAehN2j3HzAbpMTdidAfIYRM?e=Upouni",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQC4FmtzMv7qQIeg-xtLIpT0Ae_FHjHnSEYueTB0r0wcAEk?e=dBnrRM",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQABt8OJMpHIQK-xPr8DogtWAUbaKBqiv2_D4LmkI29k6wQ?e=4VquDj",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBYqRBJR93lSLj_V5avM9tHARTBTAr4uNThdx5DTjFIeq4?e=SretYU",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAmfo5Xwfg9QI41YmT-sBliAW9oZgvDuhmC3Z6IDgug7lU?e=4iHZyB",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCZh_inYhvERa_eGLBrR4SxAY8WuusvbT0o12ndeq8yIS0?e=o8mAr5",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDWBUSBZYLaTKFhGtw9py8uAQAozOhcngg3BvDHW_Tx7BM?e=ooPNql",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCam5R3VhgPQb8Jsdt435IyAZ7ef5E3QxL4zXJgfi_RRGE?e=f43Kl9",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQC4dI_YjIVBQonioF9G_qrjAbVQipSAbsOTgzbgAePSyyI?e=Vrg0Tv",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCDOunRXcjJTIptvWRyeEe0AdneYFKHr1JX9o-iKG5iaVM?e=V32w9j"
+        ]
+      },
+      "Formula 1 Drive to Survive Season 4": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCnxxV_yBc4Q7G3VzsjcrUbAQbr4kCtmN-QXysjk7cGmPk?e=8W81ei",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCEO2nVtuGJQada7vWlwT8qATYzkhnlLK-nV5guvf0fruI?e=sF7NVX",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBYZ2FEHP1tSZsw1wJQ3c4xAf8k_pPae6Qnjcz6uv_FeaU?e=6gaPLw",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQARWz4tW3w3TKLB7aP8ulDRAeOWi1tq8fmFIaaIScZJ8hk?e=E5wVmL",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBGsvwk-ab3QLKmf6Knl2dXAW_8m46Hv5qtScKzQKSsQaA?e=olpAnC",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDdMJ3OyyGIQZksEZ36M7PiAVE5RmB48FUsToCPl_xEfaA?e=GafsfA",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDcxDKtxlomQYTxBhVdIMdJAUYxoDsHPk72sCERhUA3OSc?e=b4NOqR",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAxq_SDdpX_R4R-JFyKs3lVAThs81nKNHEZkPG5vEh6I4I?e=leFiFe",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDOff0ktBlNQbQK7WTmF_IZASb25OEOthr1c1c3kawqzZU?e=sgXB1X",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBL_3FpSMBuSooNJisELh17AbfgRbYIi7kPsj2dYzbrFq0?e=YVQUu9"
+        ]
+      },
+      "Formula 1 Drive to Survive Season 5": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAWL1LK9xMjTpKsDVccy0ZYAVvEldG7euARjHNr1NjtJus?e=LDrnWF",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBP1ZCCxbwXSpXLKXsjqqVKAde4NnsHh0mU-WaNwQL__LA?e=m3T9r7",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAwFjROk47mQZ-vfiphU7S7Ae3L6gIW1LzfoqBi5pocAGg?e=2dj4hr",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDHp81NqUXIS6C1HK7Sk_dXAZoGkjiZ83h1kUEEwouXpqw?e=d6mvB0",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBWCCYxMYx9TLmZuVBrkq9YAQ0MdoBx5SNBDTzYse4WRUw?e=RuvYbN",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB-BBsFBCpmTJMUI8wGeldBAQxN2q1XL7ZKfpy8CNOOjwI?e=mS9cXU",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA2EZ5ro8b9SLSGDt29NbmaAYE74YHVE21dIiuQFr9o5x0?e=zbryrK",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBBklESWX8IRLFWQWnqYMtNAdJQA7RdUBGH_6hBVWAJNVQ?e=jBUNQG",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCIZyVxp_XkRIwKJiOXZfGMAQmQxQHRJoaBT25-xnr6zaY?e=jOite2",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBm_hhQKbU2SLVzq1KQ8KWbAaXi34Hf_DLvlKvHn7kp7K4?e=xelxQG"
+        ]
+      },
+      "Formula 1 Drive to Survive Season 6": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCkKad9lBUeQJI8I360ek2fAe_nx6kjfIIPz9VRn2RLHR8?e=HAzfbi",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDRbuxP5dYaRZUYEKHX1k-0AWi9IFohTQ9S_fQhTXRBpDo?e=e52fbQ",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDFw7H2j0CpSL3AsEuVAAPDAacXEDVeMVUoXkPaN-KjDkk?e=mYdozr",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDieMXNWsUtT4k5-JQmCTldAXPX1OYTatqtDa4M466oW0A?e=p06wH5",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDCPlVHlQ0rS46xdoUq2oIZAWRm6LlJXI-Ir5dIH250f1A?e=cMa6be",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAfSouKKyjLT4j6toEewiGwAUiAWB3nO29I8b7sU2Op8lA?e=E5HbQk",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCwqQLnmazsSo3YissmVkloAcjNn83WwA_Ky8-bg6U-9ZY?e=3djLYG",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAkSADYBZW5RorFHTNkjcJlAf_Ai_Xf8TU8j873NiL0EUk?e=rbQpC4",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBiqAWOenRBTYd-mc9K5OcvAQu-u-GnrSk-yzNDLZSBh34?e=zMh9mJ",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCbZvVjfkwuQ60XekHrsA1dAQ--ZN8S1whyAIKeXKws4tY?e=WeaREL"
+        ]
+      },
+      "Formula 1 Drive to Survive Season 7": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQC_9TxkRAVgS7O-A5PxR9GXAce8Q1F862nJ3sDVINxOJdY?e=fKffMR",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAcb_hJqBA9TLrBFzfoOjWUAcooIatF-h8GjI51JlvXku8?e=rbEHVb",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBJfAdrhiURQatBPD7uvHJ3AfnjJw0zwP4C7cZv_sIs-bk?e=OoQ0j3",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCXk8kXofwGSpV-e4Lpg6AHAXPusN05MEwi55Hl-P2kxYw?e=3v40Hi",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAJRr8Z3_LSS4CSf9rEYN_yAd2JkcYp6S8Za88Uxwx_PHk?e=1CKOqF",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBfcNFR_iWXQpTUPF0fXwbwAVUmgiyxZAcHgcXiGqjRNLo?e=UsdnGO",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAd6Aaswvi8TYgUvvLHdW1CAbZSZCFLlShqaG0xQ0JN5Uo?e=ASwpFH",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQC4TQwHubN5QZ0hAmdTwgl7AZ121BkjvSV924q57qh6Y-g?e=FFWXAR",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBr9i_LiUzfRq1gQd4KKyhyAXoE-n3WeqApIp8Wh_SwmTY?e=SZ2Fhk",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCVVo3pbb2FRab4RBwxKzynARNkHH6c6bfh7i8vfpZ43ro?e=vsXwsl"
+        ]
+      },
+      "Formula 1 Drive to Survive Season 8": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCzVVVct0f6S6BAB00bfPUHAVpIMmUWuockjQTvM9zNcAg?e=tZiNN6",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQClulYBVxVSR5ND8TCZcujnAZVd0Q3D9CRG5kcCD63blqI?e=hBVoib",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQD4bbZWjIczQYpIKHB9jEhKASxcOtX_HIO8r5ECd9P1Ikc?e=mbvSQO",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAJchrNWb4tT5CdISneaCDdAfNwblQzYfHJJUUZOOF7cws?e=3qcixK",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDtFHW2ObAtT64fABTeuOkEAbqPqA9gStbjaXauzB8AWjw?e=IoaH8K",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCjjfLzZkhMQYIwX_oV0OYbAbAXQi6FeLrQ4_6IbJHtRxQ?e=smTkdy",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDY6slzhxM2SLUNQmSyMEiPAYNwopGz28NJbWEN6B3PBEs?e=cc6mju",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBRQO1a4BMERZqEx5rfFyZVAcpk5cKQbf_gmtBBhB3pIl0?e=R7sThm"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Formula 1 Drive to Survive Season 1",
+        "season2": "Formula 1 Drive to Survive Season 2",
+        "season3": "Formula 1 Drive to Survive Season 3",
+        "season4": "Formula 1 Drive to Survive Season 4",
+        "season5": "Formula 1 Drive to Survive Season 5",
+        "season6": "Formula 1 Drive to Survive Season 6",
+        "season7": "Formula 1 Drive to Survive Season 7",
+        "season8": "Formula 1 Drive to Survive Season 8"
+      }
+    }
+  },
+  "4262": {
+    "lang": "he",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMjZjNGFmYmItMzVjYy00Yzc3LWFhN2EtOGU1ZTc2MWEwODUzXkEyXkFqcGc@._V1_.jpg",
+    "name": "Monarch Legacy of Monsters",
+    "seasons": {
+      "Monarch Legacy of Monsters Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBMfcDsjx_LQ5R2qpvEdgbvATwAou1_85NbYhJHwbvFN-0?e=QUX1q5",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAl54f0HSCJQ5fUk1G9YLaPAaGFhL6wG2fNaMgGlFwLGy8?e=esbv2l",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCExrXrfWIZTJeaVKXreJOZAQ7Ij_ZKq8UBfu_-uE6zrQg?e=XDlcqE",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCcHJ2Yn8K1SI1fCfpqJVINAXFPQaDYD630yP6i6FdXaMU?e=cT5g2m",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDnWAPCZBscT5E3sxs3F9FYAYU7BPvHVi49cANe-wD8-cc?e=qwa83o",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCvu7UtIBMaSKt98TbwLOJzAaiZmSlObSeWMLtVMxiIkjc?e=r40fh1",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB38r6t889bT4MWmT3cBCJyAV_q_1BNM_NcKHBNP3B_c0s?e=54tqos",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDVH4J8FLg-Q51mFWrlB9F4AZLgYPW2zFnRkNcAflDk_os?e=Dbj5Ec",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCISf-fdp8qSLs2wLG-3b8CAcsmc1OdYWWOkae4xtaDDPs?e=jUmram",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBtWMsf_hArQoz5L6EpCcodAfkFzP7R0wZtuKaaUVsK6cM?e=NbNcK6"
+        ]
+      },
+      "Monarch Legacy of Monsters Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDpZFg0yW67RZFDpGCP-vyIASy-uTiSYxPyTwsXgzXDsi0?e=tQsowE"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Monarch Legacy of Monsters Season 1",
+        "season2": "Monarch Legacy of Monsters Season 2"
+      }
+    }
+  },
+  "4263": {
+    "lang": "er",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMmFlYzJmMTYtMzM2NC00YjE0LThhOGEtZGU2MGUwNGRhNjAwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Agents of Mystery",
+    "seasons": {
+      "Agents of Mystery Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBbPFUBn5vVRbZbxekTpnf0AWe2GzmP3qNM3kwpLPSyjAQ?e=rAOWBt",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAuctElgquOT4mopcaPCQSrAZYMAAZ3MjhKgMbWNyZ_vNk?e=hQbabH",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCA6rSizI9zQqyuPIXWK_n1ATZ7VZDyS2I8W_fF_qmz5UM?e=9oZ94S",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAYBPSolOyKRKMhDg-C9RfGAVO_JunPqlvOgG8Vn5rXwx8?e=Kp4sjR",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQD5FVjdr12MTK0YUF-5BNY2Aev9r_8AIcK0OrVroeOYby4?e=sax40p",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBzBFsbAbcGR5gCnCj7Da11AVLOjNawdg5omEDPQTDi4oY?e=p60Pu9"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Agents of Mystery Season 1"
+      }
+    }
+  },
+  "4264": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BOGFiMmIxODEtM2FiZC00NThjLThiZjYtZGE5ZWE0YzAwZTMzXkEyXkFqcGc@._V1_.jpg",
+    "name": "Devil in Disguise John Wayne Gacy (TV Mini Series 2025)",
+    "seasons": {
+      "Devil in Disguise John Wayne Gacy (TV Mini Series 2025) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQASBLzjuL6oSapBSjUYQhNYAZa47jlGDS_7gPeYkQ41QnQ?e=Xa7Tys",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDaOgiC14TMTZlNvJPUA6MGARwbOTawHZoLN45W4ct9aXs?e=9lKFXT",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDi9mtWht-ySqBDs0dg0CA7Aazz3hxxoxtVq8i9GAYxZWE?e=uvkueM",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDWJS4ykog8RbtIoOWf93b9AfnEx_cjY74RTGT59PeaEFU?e=RCFQeI",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQB8HJSTktVFSKy262suYbJCAQbqbeFIdY9XEGfnfE7vcyU?e=Yt7Oi7",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBCXK8AqjntSaipYAcLu-OjAUV_XhveQ6hTrzaQVhgHcss?e=nbApAC",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQC-qUzHfchRRoTZwRxq7CJFAQ1gh70FnB9PV0RbBVATu4A?e=pgFxla",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQBAbibrgVQFQJeUIWuTa8klATCt8qC7-dau4IfTNcbspT8?e=RC9Xwm"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Devil in Disguise John Wayne Gacy (TV Mini Series 2025) Season 1"
       }
     }
   },
@@ -141873,5 +142084,5 @@
       }
     }
   },
-  "header": 4260
+  "header": 4264
 }
