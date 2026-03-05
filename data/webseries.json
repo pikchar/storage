@@ -3308,7 +3308,7 @@
   },
   "1042": {
     "lang": "he",
-    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYTlmNzhhYzgtYzY4MC00YjU4LTk4MzItMDZlODEwZGVhN2E1XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_FMjpg_UX1000_.jpg",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMzJhMzg4YTgtNDZhOS00NmMyLWFmMDQtMGUwYzJmZjQ2YTM0XkEyXkFqcGc@._V1_.jpg",
     "name": "The Bastard Son & The Devil Himself",
     "seasons": {
       "The Bastard Son & The Devil Himself Season 1": {
@@ -6461,7 +6461,7 @@
   },
   "1126": {
     "lang": "h",
-    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNTA2YzMyOWUtODAxNC00ZTI4LThiZWItMzMxYjYxOGFmMDUzXkEyXkFqcGdeQXVyMzE4NjMwMjc@._V1_.jpg",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMDc2ZmNlYmEtMGExMC00YTRjLWIyYmMtOTE0M2IyZDk2ZmZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "name": "Dahan Raakan Ka Rahasya",
     "seasons": {
       "Dahan Raakan Ka Rahasya Season 1": {
@@ -56171,7 +56171,7 @@
   },
   "2199": {
     "lang": "he",
-    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYTIzY2QzY2YtZTk3Mi00ZGViLWJhMTQtN2ZjYzMwM2E3MTQ1XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX800_.jpg",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BODk0MTgzYTYtNjIzMi00NmI0LWI5NTUtYmQ1ZjYwMDRlYmIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "name": "Parasyte The Grey",
     "seasons": {
       "Parasyte The Grey Season 1": {
@@ -133276,9 +133276,18 @@
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCuraRBUFsERLbsUZ5NmciYAQC-E-HTpEkMZ61EL9ctVps?e=ncodgk"
         ]
       },
+      "Tokyo Ghoul (TV Mini Series 2014) Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBoBds9D0PaR7vcbqk7BHL8AXjqHzyVbcjTdSGuRvR91K4?e=rJkA1h",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQC_EbbJjzdaSoCnb6VevevuAby_hmOgp-9hxI85RJjKQ-0?e=3DYUhl",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQD3hStSwV3ITpdWJHc4li0fAWJAma6UIYWh_ifklUwQqNo?e=qUZDTu"
+        ]
+      },
       "seasons_names": {
         "season1": "Tokyo Ghoul (TV Mini Series 2014) Season 1",
-        "season2": "Tokyo Ghoul (TV Mini Series 2014) Season 2"
+        "season2": "Tokyo Ghoul (TV Mini Series 2014) Season 2",
+        "season3": "Tokyo Ghoul (TV Mini Series 2014) Season 3"
       }
     }
   },
@@ -141840,8 +141849,23 @@
           "https://1drv.ms/v/c/13d4b035f0a633f6/IQBzBFsbAbcGR5gCnCj7Da11AVLOjNawdg5omEDPQTDi4oY?e=p60Pu9"
         ]
       },
+      "Agents of Mystery Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCqLJTwGx0mT5E2qYfL8rHbASNyMKKtO6hpSlYrZJdVTmU?e=fdyExt",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDM2clSD3w5RZCswYLYxSVsAVbwS2PdvhNWWjF9lbk6PkY?e=cGOfES",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAyEEUSArtxRKPgt4TB1KagARJlHFWXObOeRtCv9nGwF4w?e=cLQqvX",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQA-esDnYZBPQrxxirq5P_ImARGeonD4vWJ1jAAqCBx8tIU?e=4mKYWk",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCXDOxDbPBUR40J90nHG_ZiAUYv3xvlz7TIrPbCe8Ri00s?e=0AqLRd",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDpiaoBPkzIQY3mF_pfq8oiAX5jnuN7cGN5qvM4y2wKUnU?e=x5mUp2",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQCzTspBPaSHTZgz00cceKiEAXlZl47cHZHFG8PI6YuiRdE?e=1l0c2u",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDgHRkwhtn1S6PJacReLZJvAUI1NTtFbE5eR9J9_5cYS40?e=3HwcLs",
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQAVA_gVgQ3wTZzWeUHMfh31ARIdUOFmF2kXPsxzAar63Gw?e=s7qdog"
+        ]
+      },
       "seasons_names": {
-        "season1": "Agents of Mystery Season 1"
+        "season1": "Agents of Mystery Season 1",
+        "season2": "Agents of Mystery Season 2"
       }
     }
   },
