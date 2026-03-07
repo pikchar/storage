@@ -15126,6 +15126,12 @@
           "https://1drv.ms/v/c/3c268fa0d7305d02/ESxG-5Oyt1ZAt0vGkXV3ZsgB8XF62uB111UPNN6Ozmxo1A?e=vkV6yl"
         ]
       },
+      "Outlander Season 8": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBCqk8TKqHLRqsLt6V0mquJAR4T5HqRL106k2IDSa41B9M?e=GivZeD"
+        ]
+      },
       "seasons_names": {
         "season1": "Outlander Season 1",
         "season2": "Outlander Season 2",
@@ -15133,7 +15139,8 @@
         "season4": "Outlander Season 4",
         "season5": "Outlander Season 5",
         "season6": "Outlander Season 6",
-        "season7": "Outlander Season 7"
+        "season7": "Outlander Season 7",
+        "season8": "Outlander Season 8"
       }
     }
   },
@@ -143285,6 +143292,43 @@
       }
     }
   },
+  "4297": {
+    "lang": "r",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZjgzOTc4NjItZDA2Ni00NGVmLWI2MzQtMWM1OThiM2QxM2ZiXkEyXkFqcGc@._V1_.jpg",
+    "name": "Still Shining",
+    "seasons": {
+      "Still Shining Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDJLKXmn3o9TY0j7ob0xiI5AeMVirTpSFOCcPeoUrRICYc?e=c78n1h",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDDa2O7115QQJjb1wZIS1wDAbqhNMl3liB96Sv0p_FUBGA?e=7if4Hd"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Still Shining Season 1"
+      }
+    }
+  },
+  "4298": {
+    "lang": "c",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BODg2MTRkZDktMjU1NS00M2IxLWFhYWYtNzVkNWRjMTNjYzBmXkEyXkFqcGc@._V1_.jpg",
+    "name": "Zhu Yu - Pursuit of Jade",
+    "seasons": {
+      "Zhu Yu - Pursuit of Jade Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAz3qc5MR5rR6jA2m2r__JOAboco6seHEfV-lg6gDVoLdg?e=duHfoU",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQB43epNRxjuT61eyy6QZe_9AQ1UYNzOEOl3IZR_2JVp0Gk?e=hV5Wdf",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQD05EEbrJbuRowUEIylrX9dAfX8fTe1QoKK24kkqN1ezes?e=lEd7Hl",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQATr_CZQ2HOQbB2H3TcoEvaAQfqvX4FhNev411CwRM_WvY?e=cDDzx6",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDIVUELuU-CSYfpJfTfqEQPAR7ztolHLNjTG-4MY6S0-oA?e=UgMgcv"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Zhu Yu - Pursuit of Jade Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -143592,5 +143636,5 @@
       }
     }
   },
-  "header": 4296
+  "header": 4298
 }
