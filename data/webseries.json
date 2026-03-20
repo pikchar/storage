@@ -6592,7 +6592,7 @@
   },
   "1129": {
     "lang": "h",
-    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMjM3ZTRiMzgtMjIxZC00ZTdlLTliMGEtYWQ2YTczMmUyMzE5XkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_.jpg",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNjQ4NjFlMDMtMjczZC00YmU5LWI0YjgtMzU0YTkwNGIwNjNkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "name": "Aspirants",
     "seasons": {
       "Aspirants Season 1": {
@@ -6615,9 +6615,20 @@
           "https://1drv.ms/v/c/7315cdedeffa3336/ETYz-u_tzRUggHMqBQAAAAAB_7lVdWzy5Qd_BNdP7EdCpw?e=8dYdf5"
         ]
       },
+      "Aspirants Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCOspxFSZlPSYum7x5M__QcAfEEoliG8hTkc9_XjAHfeJk?e=El3MCp",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDE9W2JDlQYR5EbiUDGwgK8AdJ67GwJ188o8vnbKv9VHMA?e=aL0ZVQ",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQC_9otjJEJkSYRjcXtYQ6kBARJVtjPWtYZDMuVE-Q7r5BQ?e=WDG6CF",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCkRnRUuf_JRqH_xvy-SjUSAaw31X0TxVk_AeTgSIK_tao?e=P9pgDv",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQB9eb500foVRJR3mj9Dfgv-ASw2gzmNWvzicaivn7Qh0N8?e=Qr6qv0"
+        ]
+      },
       "seasons_names": {
         "season1": "Aspirants Season 1",
-        "season2": "Aspirants Season 2"
+        "season2": "Aspirants Season 2",
+        "season3": "Aspirants Season 3"
       }
     }
   },
@@ -86832,7 +86843,7 @@
     }
   },
   "2794": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://upload.wikimedia.org/wikipedia/en/8/88/Good_Doctor_TV_series-poster.jpg",
     "name": "Good Doctor (TV Series 2013)",
     "seasons": {
@@ -141300,7 +141311,22 @@
           "https://1drv.ms/v/c/13d4b035f0a633f6/IQDibyR2zykORrBCSMyZ9aUEAZDnDZexJOctUJqGtOusBzo?e=jPTDVW",
           "https://1drv.ms/v/c/13d4b035f0a633f6/IQBNoEWR_tqmSrIhcrK_OjPlASXYiQkMqCQmAN3dyoRQbbo?e=ZGc38B",
           "https://1drv.ms/v/c/13d4b035f0a633f6/IQC3YAOhVVuMTqiYUCl7Gt4EAQIqZeDEjjWYqM_vFs2Vi_o?e=zwxV25",
-          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDBspGj3XxJQoWvw7F69lGxAYIjvoWtv5I3E9hpoEKysbw?e=wgNNda"
+          "https://1drv.ms/v/c/13d4b035f0a633f6/IQDBspGj3XxJQoWvw7F69lGxAYIjvoWtv5I3E9hpoEKysbw?e=wgNNda",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQAzuxAtMAagQq-sGXIWcY6WAVURMR8hcz1CqHhnsoqka28?e=QRCu7e",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQD8OcB8KD6GQL7cVOLdAcEAAYJ71dl_dksEfYBvB68jhT0?e=75H1jY",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQAOzyH0kJEhQr5ubCRph2ZmAXzwvqxB9WJkZG0NOlK20I8?e=sj58Ko",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQAS1NwKTPz7RpEh6AH8kMdaAQJVm8GnwnlIPU7ZkIK2mv8?e=GDyEaM",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQAyZQA-6fSbRLPOvjeOMO2WAbZF2w0XgX2hC8VJHui8-34?e=W897YK",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQBJUONjaNlDS4t7pMw-SuykAe7CgewySaDWw4n7zCjtIdU?e=duaAwQ",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQDFFUT98ENbTLgeEjI1KJv3AYHEsM5QdJYomzVi7Bwj3oA?e=YNxkGM",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQAsA3Km8Oz3TbkOk9OiFup1Ad_W6NnDh3QvwCvpTDGLVms?e=V5A19n",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQCXzYmjo3DPRppR2axqhAP7Af6ELdxqPs1SAi2fDNk7koA?e=Sxze67",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQDK5skT9k4QTq-HLac1deikAZRZPAZ_l51jHSgIoP3lUcg?e=7WaV8A",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQD1B1or2ns3TaI8ZaGLhKmFAU2vTFOmLvU3S9Z3AmBLBSY?e=6TsxDe",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQB2ByEHUSTOQKsYiMyUJklDAWcaCQcqmrX7JvJkuBaOz7o?e=KBnOJ0",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQBCAZbDOrEYRKQKCst-W0NLAbMO3MiXfRmXqv5toV1M-e0?e=USlHhJ",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQBIEaHWfAbAQLtXplZHGapDAXQPH4v98XdamPmeb6cuB1o?e=udmrgZ",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQB4QmSPZWJYR5MHez_M4dR8AUutwFCmTaVJxudjmXIQDZc?e=M2VE8F"
         ]
       },
       "seasons_names": {
@@ -144714,6 +144740,159 @@
       }
     }
   },
+  "4334": {
+    "lang": "he",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZGFiODdjY2UtNzAxZC00Mjc3LWJiZTQtYzQ2ZTM3ZWMzNjk0XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "name": "The Madison",
+    "seasons": {
+      "The Madison Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDNfUG-kn4lTq6F9X51Lv32ARNqQ_oxrCnWWOpqwxOgiRI?e=Hbttor",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQC3ayxqJiYJQq4m8dLUiV2UAV9g8pGA37Fa3eog87FNYrg?e=khIRHj",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQB_Ew_unb_hSZfdi_cmsKpKAbnRv5r0hKfyWeu42iCIsVo?e=UXac4s"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Madison Season 1"
+      }
+    }
+  },
+  "4335": {
+    "lang": "j",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZDEwNWM4NWItMmE2NS00MmYzLTkxMWYtNjNmYWM2ZGFiZmQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Rooster Fighter",
+    "seasons": {
+      "Rooster Fighter Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAhlegCtwFVS4LnGguLkWz3AdW34Wk-ygkV9u7TwZ-cMro?e=VKJtmM"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Rooster Fighter Season 1"
+      }
+    }
+  },
+  "4336": {
+    "lang": "hj",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BOGQyYTAxZDctNTlhNS00MzJhLWE5ODQtMDY0ZDNmNTZhODFkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Captain Tsubasa (TV Series 2018–2019)",
+    "seasons": {
+      "Captain Tsubasa (TV Series 2018–2019) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAFJmN8vhTSTLE2fQBEmhAqAbfK91-eJAf7qclYQ_oJES8?e=hXvjpz",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDbs0Nlyi7mT4HSy9gvxcNKAf_kFzva1uFn4mOuOxbegqk?e=lp8bVu",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCTUhavSbbyRbk526ppkmK1AZCMo9csNX4fi0O4KZuDLeo?e=jJUZq9"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Captain Tsubasa (TV Series 2018–2019) Season 1"
+      }
+    }
+  },
+  "4337": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BOWIzZTU1MGUtMjY3NC00ZTI5LWFhZTYtODJmZjk0NmE2YmZkXkEyXkFqcGc@._V1_.jpg",
+    "name": "One Piece Bonus Content",
+    "seasons": {
+      "One Piece Bonus Content Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQBragQv5pbsQ5-vjcBDii82ARt7t7ybfB2Ch5PcyqzTT28?e=sKCuIJ",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQBjUQBWxI75RYqIx9vEzPs9AZ1LxVMwqj1Ovv-SB-gCoeU?e=XIJTOc",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQBM9yjPCpNyR5ukU3DeWuGmAUUbWU354aZl84yDD1-1luU?e=PXwYkn",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQDf_ogaQw8BS4xDwLTJnVwBATl5C5XJH7v-8RxoCxW15P0?e=VUVwgr",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQC15vfDc8fxT4YsrCgRxYgEAb6b_yy92mt3URs8C_mzwko?e=fdJ5de"
+        ]
+      },
+      "seasons_names": {
+        "season1": "One Piece Bonus Content Season 1"
+      }
+    }
+  },
+  "4338": {
+    "lang": "hea",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNmE2YWY0ZTMtMmFkZi00OWJkLTljOGEtZWZjYmM2YmFlOWU3XkEyXkFqcGc@._V1_.jpg",
+    "name": "Don't Come Home (TV Series 2024)",
+    "seasons": {
+      "Don't Come Home (TV Series 2024) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQAgF-7ak6O3Q7odD0MBblbOASFcaO0L7Wfw4gp03uGged0?e=G30Mar",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQAn_rRkK86ZR5CS0zYYnKP7AbUTP6C0m_Q7fJsZIHjiNcg?e=6OH947",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQD0yomdcOqrTLKxny4YXwUWAZR3e7tXjTOlySS4DvPKaRY?e=zeuLN2",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQBEOXANzqVAQoqdb3RVmBaHARxFVPgrp4thZnyg22tdt8M?e=TsJnCt",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQBKYsUTlw2SSasA4KuCngJpAePvsIKTHokVJ_3EQPuoxfw?e=hVDOgR",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQBT8eiikMm9TKn9m808XnS1AatZHoWY2P4jYrSjRbK1SlM?e=y7s9ch"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Don't Come Home (TV Series 2024) Season 1"
+      }
+    }
+  },
+  "4339": {
+    "lang": "ha",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZjliMTZjNWUtNzU4Mi00MTY2LWI0Y2MtYmUzM2Y5MmYwMmRjXkEyXkFqcGc@._V1_.jpg",
+    "name": "Good Doctor Thailand (TV Series 2024)",
+    "seasons": {
+      "Good Doctor Thailand (TV Series 2024) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBlIo0dckKCSaacqrSzcHF7AbKR01KZ5A5MwYthGf4L728?e=RqZqxb",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQDwfASpy58-SaoqXESCGHx3AUB3lyp7Lj7YrE46Zt_tVvA?e=nUdxID",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQAestyq7SwkS6Bd3QxakeEAAfzjj21a77H57-Q4eei5yP0?e=bpwAwG",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBAYqN31MFqR62ZJs0zPLPGAV9SMD6JHeEOklATnIiTN9s?e=RpOvhU",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBVcpcxAVs1QIHWT5V--VdQAYBAR-_BrMUDlNGaLAZ2ZyE?e=5evxAe",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQDhvP5R8pjpT75PokqCiicWAYElYJ-1AVwlw_MBuVFKDTU?e=TsZQ8Y",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBkJ_9es75iTp-1RKjkf7scAQzpgjcyG7GS8mcFyb1N4bQ?e=W3u5Vt",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQB3ErFhx_1fSIrYhTjgya7WAeixVYxe85EhF7ty3dnwS9s?e=tFUiPa",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBeT6paJYICQYOaUkOiwg4JAVeXnCbqXAxBElFqL6-ydp0?e=MIhd2P",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQCeoc9ndIyxSKvF2fpUKLSDAXU2o13yq0C-jZf69viY5FQ?e=rpBeIs",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQCnlgmQIdzyS5IPRrULuMo2AVcvf_tCs7gEAVi62kYCiWE?e=ZzPneb",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQDxSUi98JoRT5s9IpdI2dc7AdgxGl0TYGOczADi1Q967sE?e=R6EnOU",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBnTkuiCeBXSqU8QRV4oDmYAdOF5JFuTaA5kkyMyR4zdFo?e=A76pPO",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQD-KNshHqxtRo9jKXHPHZ9-AR1ApbmL94qwK1XbFQJ6faY?e=vt2Ggr",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQAa95btE-ImRaVgiegHsfPuAesCvMBVzvLC70hR-5aWrNI?e=OTkjw1",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQAtcqoPOKUVR55xuTq5cIu5AVlozB8ofoCZdsoDShouHnM?e=tYhD8s",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQCGonKaeLAxRIxt6_UodS22AfHf6OCS4M3EcfehYbukbdg?e=Yk7V7D",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQCk78Q88ayGTpCOaWn1oPQPAVOuT8gLud_A7eiBiTHGcmk?e=bIv0Hf",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQCknUEsb1LSTpEWxqCQ5AW4AX38AGY9v6I3SssSLi8AxkI?e=n3RuQg",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQCPpqB2WMY0T6brb7ZP0VTVAR5VDKzduQYxLtypqA5uZsg?e=JAQhgV"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Good Doctor Thailand (TV Series 2024) Season 1"
+      }
+    }
+  },
+  "4340": {
+    "lang": "h",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BOTcwMWIwMGMtOTNhZS00Yzk5LWI0ZDYtZTM2NmE5MjdhZWMxXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "name": "Sankalp",
+    "seasons": {
+      "Sankalp Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQD2MJjb6MJBTImREaReKnHFActIQL_lm5q3SOXEw-90vPc?e=TKItxC",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQBTABRy7tzAQZv2W13dst0_ASPpCnUTuhEyonosatI5zA0?e=hG8p4D",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCc3Pp_vnSbQ6WhDuBL75pLAZyHUruzLoSv-mxqyLdeLEQ?e=AYnrSF",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCikMELVi6EQLROJT5hFoXiAWoO01GJvYTBiJY5xZnSALo?e=YSH4WF",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQBEU3zS9Z2hRZaDl6YJRpqpAbcR9C0OEaXzK82qZcZlg4E?e=aI8hGl",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQBlLDnQCap4QouRLTOTvvDdAZ1T7BEngRh9HJok63WzAKE?e=NlzTgT",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQBPtZhv37XrRYBOkKvXqpuNAUDNKJHgz_wm7GitrorjcC4?e=PvUseH",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCwPNBGZIiCT4gdzFNPnpkoAdtMBJH3Dc-vm-Jnbvy2TlY?e=qUVmsC",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQATrwGs68U6TKjX_5Kne9faAYVBNde8kOraU14mCvtfp6I?e=getc4v",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQA6jKOCOPthS5b7ciMolh9SAUqsmomE84Uf6xJbbw3RKGQ?e=C0V2Qd"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Sankalp Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -145021,5 +145200,5 @@
       }
     }
   },
-  "header": 4333
+  "header": 4340
 }
