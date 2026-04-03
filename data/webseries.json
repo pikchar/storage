@@ -33178,9 +33178,23 @@
           "https://1drv.ms/v/c/0883a4fd9fedfe37/EWuNikUn6NVJkHAaEbgtWbQB-hR9l_P2ZvgLV_bQd4jLiQ?e=fY64wL"
         ]
       },
+      "XO Kitty Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDWIVdk78zTSaVxN3SP0_TQAdvr8VDOUkCLpksdYwULE8w?e=0lQOSK",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDbQrVvDgKRRq9TZlqIyohhAbDciZAWvclGH-jfb9gKQCw?e=niGgtW",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAwTwqXV718Rp0RZ4fMXZJqAV_GV8tM8iDkO9QvtfyiVyM?e=l02NxT",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDTPEk8wKeZTZEz68HW0t-oAW2_v_xPvsD8GFeZaXud3Es?e=qPddYa",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDQzVwjc1SxR4u6Hz07PV2AAcKL17tG9bM7HLaSHUKpAio?e=px7HaW",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQC6V5yw30lET4ZpkMcOfCJgAfwiQV5W2KwtqMxpXl1kb4M?e=mttuhP",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQBHLqohUr8cQJJ07ETNMHfmARkUlImbl9eWN3QTCFeBDB4?e=nqtxEa",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQBkvJlx-c1nQ6bCKn7DM6LUAX0G8oKmz-O2cvBYqT4XJp4?e=LeK1bH"
+        ]
+      },
       "seasons_names": {
         "season1": "XO Kitty Season 1",
-        "season2": "XO Kitty Season 2"
+        "season2": "XO Kitty Season 2",
+        "season3": "XO Kitty Season 3"
       }
     }
   },
