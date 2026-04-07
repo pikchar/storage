@@ -146811,7 +146811,7 @@
     "name": "Mr Queen (TV Series 2020–2021)",
     "seasons": {
       "seasons_names": {
-        "season1": "Mr Queen (TV Series 2020–2021) Season 1"
+        "season1": "A"
       }
     }
   },
@@ -147127,8 +147127,42 @@
         "season1": "Ninjago Dragons Rising Season 1",
         "season2": "Ninjago Dragons Rising Season 2",
         "season3": "Ninjago Dragons Rising Season 3",
-        "season4": "Ninjago Dragons Rising Season 4",
-        "season5": "Ninjago Dragons Rising Season 5"
+        "season4": "Ninjago Dragons Rising Season 4"
+      }
+    }
+  },
+  "4398": {
+    "lang": "hr",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZDdhMjRjYTItYmEyMS00MmMwLTk5NTEtZTk4OTY0ZGJlMzE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Mr Queen (TV Series 2020–2021)",
+    "seasons": {
+      "Mr Queen (TV Series 2020–2021) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQCZ1E7zJ2I2TJFg687vzy9OAaQ_pvklBXs_wx688qVTx9M?e=AA5egV",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQBjyDEhAZtqT6qntOQsNBoNAZGlVM8h4E7jnHcGD7Busqg?e=2eleLv",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQDxNZ8Ztn2CQblD1iarVCrKAQzHo5Y8xvYbgj_AftFzRfA?e=dRRDkt",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQAgT4PJX1roTrawVH43D4xhAcjmnGSWGvQsWwT5S7anmTw?e=htKGob",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQCzuZ5JgUJ4TIuDrfaumonGAd9LeJLZc980dtma25YmrI4?e=cpkEQM",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQCCXBq-zjNYTpHntDQm1TKlAb4Wle6n9ZamUCzXHqbKyks?e=RtcxFr",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQByGDukn7vMQ4h_5iS0ynHiASUaAWhwtJSZQBsdosEoalU?e=CJnZpC",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQDcVj8VB0omRKlXlc9BEMKXActFuapWTuP9GnOGyjt4koc?e=fIQnj1",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQCNcNnEzkwQSYXIU1WDGvvEAdUQngUtEWd7XwMu4hEfqNg?e=NjaA3s",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQA6tAxfNykZQqSmC1gO3bgzAexmDK5qX_cwG20W6pSJKnk?e=ch9oan",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQC5ZFQb7M8iRJWDsFDz-fh-AX3pmECvZ9ZjSL_rIoisXlQ?e=f3kZfj",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQDwbyO3YH-qSZstMw0qK091AcGn7FTloqZ5j_vGH-ra1P8?e=ApMHNO",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQCzQC7VpU_ARJYsrsf2AhSjARhEj_G3PwiMQ7aSiWBT538?e=2Q2TSJ",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQBzmDpUonOXR5eymHmKAaVNAcX46Ts0V0Gl8V8qAco2ERc?e=GHMQX9",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQDqLbHEGq9-SrqtWP9wwIEMAVii_maKxM8uePcpxYB_sK8?e=KyLc3p",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQAQQsKmdcc_SLReau2P42I2AbKuUOpjolDZXW8gbQzlsbk?e=czPkUc",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQD75MoNoc8iQrZGAfPl_QnhAbGCRlARqx2glRggfMUcIAo?e=jbU7ZJ",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQAa_Xm25zyXRKkJCW8uvW57ATTdPBoOTqOmPAtkaaL69GM?e=arv8Vm",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQBWSvi2aF_2QY61i-3geI6vAQBUp7Nd2iq60aToi5PeEWw?e=VHLho8",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQA5On5ZzJ-QRZZSd9Ws8NkWAd9JM-2BS4Xo7CikiauqeHU?e=SAclVs"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Mr Queen (TV Series 2020–2021) Season 1"
       }
     }
   },
@@ -147439,5 +147473,5 @@
       }
     }
   },
-  "header": 4397
+  "header": 4398
 }
