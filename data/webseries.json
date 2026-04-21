@@ -147624,6 +147624,21 @@
           "https://1drv.ms/v/c/8d86d7c27a28e56c/IQBivfscXIvFQ7q0dTs6ywLOAV_niNuGyyZzUm-ikSEJRtI?e=5SYFoE"
         ]
       },
+      "Taskmaster Season 13": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQAG3snHycitQKcAOEUy4EPhAcFIhvPUqs3gPZWwPdHbr-g?e=uH1vT4",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQAaEXdcja-8QZ0qv64NA6zGAXD2azbqVv1Pi7Nw9zwcguU?e=NDhSYt",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQDzr9v3r91_SJw_9iQjUiwUAZYsWpxxeX3IAUhVMETXNeA?e=zvhu2m",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQAorxit58usTau5EarIEFdoAdB5uny-1L4Unf9KE7cyC4s?e=9ocP1c",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQDtH_79E0BkSJ40dYmeoDBNAcHDlFpGZkKuoVosn4WkjBE?e=d3AJbc",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQD18WU7JWipQ7-LzmpUaHXlAUcCs-J7XkxbGTNMxeWmYJA?e=2dczsG",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQBr4UOqLxzmR6RPZ6otmWl9Ad2ibnmGPohYKJNJXKVAJjs?e=VZyCYW",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQCuk6lemMT6TK1m_qB-vrqGAUPhV13uBZr1eFikvjhxK5M?e=cjXuld",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQA9z0eLanF3QJS8tUiPO5rTATqA9WN1N9C9NnwPEJRiiC0?e=5EgT02",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQCKQe6opqMWQ6abGzr42kvfAbvNY6B7m65Ir4eAM80K1YQ?e=e83QeS"
+        ]
+      },
       "Taskmaster Season 2": {
         "episodes_url": [
           null,
@@ -147735,6 +147750,12 @@
         "season10": "Taskmaster Season 10",
         "season11": "Taskmaster Season 11",
         "season12": "Taskmaster Season 12",
+        "season13": "Taskmaster Season 13",
+        "season14": "Taskmaster Season 14",
+        "season15": "Taskmaster Season 15",
+        "season16": "Taskmaster Season 16",
+        "season17": "Taskmaster Season 17",
+        "season18": "Taskmaster Season 18",
         "season2": "Taskmaster Season 2",
         "season3": "Taskmaster Season 3",
         "season4": "Taskmaster Season 4",
