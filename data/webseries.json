@@ -22317,7 +22317,8 @@
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCdpMYN3X0eTo9F41IFD_QWAcWQnDLNWUTHF9ygQqZpYxg?e=uh3gM2",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBWCXLlMZwVQryGkpBBmzSZAWYYHx1PlDr5OVbvDg19cf8?e=kkpoUo",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQBpCxHFuG0IQ7K6NwP60y8QAWWOPI0jHzllEslRcCojhlg?e=l2pYZb",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBRahW5ThsvSKXygw_Xr6aRAcElQi9HUUk-B7wgMjlXgVs?e=DgWJQt"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBRahW5ThsvSKXygw_Xr6aRAcElQi9HUUk-B7wgMjlXgVs?e=DgWJQt",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBcZhfmwyx9RI4YU5VGP1GzAW99JI0sYYAESwh_WAQWJpg?e=2g6kB0"
         ]
       },
       "seasons_names": {
@@ -42483,7 +42484,7 @@
     }
   },
   "1856": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BMGI1MDIzNTItMzg1ZS00MmFkLWFlZDEtYmVmZWVkMDZkM2U3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
     "name": "The K2",
     "seasons": {
@@ -103545,8 +103546,19 @@
           "https://1drv.ms/v/c/a49823273d47e9ea/EXeOOTRwL5RMshi5JciOXwgBnrMM_jxqJDJayKVZLAP-jw?e=M8Lb6s"
         ]
       },
+      "Sapne Vs Everyone Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBIlhuaMMQ1SIN5r4fr48mkAUWW-zsfgq8aqaUUzigRQLQ?e=3Z4Sla",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQAxzpfWF8CNTrByu_J4a_LaAY78_JPHNUiN5EfqcpRneUo?e=1h01xl",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBUYfB_PrINRaD5ZlOjoViAATTd6eiAuuGjF1_zE60BxAc?e=NQ4RV0",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQB91eXInO8oT56htibCEG1GAZPBuJuvK0vp2jtYDdA4SC8?e=dxK20Q",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQAc3YLAnHzbRrUak8aasTmvATheQB2UcC-BuD7x-TCcXO0?e=AvUu58"
+        ]
+      },
       "seasons_names": {
-        "season1": "Sapne Vs Everyone Season 1"
+        "season1": "Sapne Vs Everyone Season 1",
+        "season2": "Sapne Vs Everyone Season 2"
       }
     }
   },
@@ -149766,7 +149778,7 @@
   },
   "4465": {
     "lang": "e",
-    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNzFiZDg5MGQtMGY0Ny00N2M3LWIwYjktNDQ0NDAzOTliN2Y0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYzBiNGFhNzAtOWMxNC00OWIzLTljN2UtNWU0NjRlZmJkZmQ4XkEyXkFqcGc@._V1_.jpg",
     "name": "Criminal Record",
     "seasons": {
       "Criminal Record Season 1": {
@@ -150700,6 +150712,121 @@
       }
     }
   },
+  "4488": {
+    "lang": "htulk",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNWQ2MTEwYmQtNjdiOS00ODRjLTk1YzYtOTdlMTk4MWExYzc1XkEyXkFqcGc@._V1_.jpg",
+    "name": "Batchmates",
+    "seasons": {
+      "Batchmates Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQBRgw5Ne5b5RLJ_glHQqcWhAWFUj6N4mYAXgzTV2VSYOKs?e=ISAd9u",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQBFDdG7JNy_Q7Z76mzNt4OpAV2YkLfOTc6k4nYFZ9CMKuY?e=rBJjMv",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQCsLN2plbjFRZMbxQbvYLXHAXwARjBveqDeSwnHRvBYlfA?e=va77jy",
+          "https://1drv.ms/v/c/f2de45938fd56da5/IQCEEkLE7zZuTq3ZJcAF9HTkAYseXTHv0wChLDfa3Dh2DGI?e=HIwp9W"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Batchmates Season 1"
+      }
+    }
+  },
+  "4489": {
+    "lang": "hetur",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZjFlMTMyZTAtY2NiZS00NzdjLWEwZTUtNDJjYjI4ZmU4NTBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Man on Fire",
+    "seasons": {
+      "Man on Fire Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQBVubjEeYFARLgJX6nnfD1tAUf9KygEvFnePjrGPg_qTUo?e=0dmhue",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQCRir4y1cfQQ6OrfENT4cvNAYh7BDrhv1L16l9KN1y7T4s?e=NkWPfh",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAho2OWI8nYTZP9KGwWKJDgAYq29KP3DyLcaT2PJHufUPA?e=Y5YBSK",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQBtzeKFj_x-RrbkCTAYVLXpAWXJl4SlGXWbLIlA8M3ClDc?e=xC0Zd1",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAhi5lz1CQGRLfZyKWVyEiqAbQgLyfZ1YFi-DKMPUOLWYM?e=xr6b1c",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDs2dz9xS2wQITL1VaY_J1rAWFikln68PF5YunjKohYTWA?e=V4N9AX",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAzLzxtiZKSQ4XSPz4N_UEsAdRJB2Kk41449pn8wMnzEwM?e=VdXbty"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Man on Fire Season 1"
+      }
+    }
+  },
+  "4490": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNzc0MDhiZWItMTdjMi00OTJjLWI3ZDktNmEwNmUyYTFiN2NlXkEyXkFqcGc@._V1_.jpg",
+    "name": "My Brother the Minotaur",
+    "seasons": {
+      "My Brother the Minotaur Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQD8wPTVM7G8QaH23iIjH9pGAZ0hxjySKEvZyONGQC6vhbc?e=cqGXvO",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQAUg_SmDNMGR4DvEcNFxhYiAfI4Ybu4araTTwGoL--ZaZw?e=cMPul7",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQAzYYDhC6hqT7MaxjUspAjkAZmcm1GT-w2ZrWO-m0yu4Kc?e=5WEChM",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDwZEC6ko-cTb1_c5sUX3pXAScrM70Bz7umiCIkh3pamKY?e=8ullIu",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQACTGXZW8k-RJV2x2LvEvgBAabHeItlytiR0sgtbMJOY-Y?e=gkU2YL",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQAnc_MB_HIpQrYXicTy2VYDAc7t7DHmYE0HgPsOhDsJqHM?e=jnqp8p",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDAWHNOyKUJQ7A5uYXHCwUeAXsx44HwWnzGYsbcnP5pJF8?e=D7PasD",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQC6xLZ2YvJ5T6BpaaG0DMJEAYUvzw5Tgj9OQmuh8Z0lw8w?e=nu85Ca",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCRgVsC3ydKR6hh-YCVtncjAaFlWX7MmukZzP-veC32qKg?e=iYEh08",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDcg_VwuhcOTqu88dySNAlQATLAztezg2eoNQEZ9m9MvwQ?e=oYKPkY"
+        ]
+      },
+      "seasons_names": {
+        "season1": "My Brother the Minotaur Season 1"
+      }
+    }
+  },
+  "4491": {
+    "lang": "hetu",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYjYwM2NhNTktN2YwYy00NjU0LTk1ZmMtMTRjMmY2OTlmYzNiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Should I Marry a Murderer (TV Series 2026)",
+    "seasons": {
+      "Should I Marry a Murderer (TV Series 2026) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQATHfekVEMxRLLikGzB4deqAe0dxRJ6mWKBjWtr-51h0nc?e=rITPUe",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQDlSlEk6hQ_Q4EOX3jML0CpATFgb8Ekcyz9TtA4he7m5WM?e=4JPe6Y",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQA8zpUb6xsuSr_VV0xJozJ9AUxjyBb7LfoXDtYaTSJx5KY?e=YSXpeM"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Should I Marry a Murderer (TV Series 2026) Season 1"
+      }
+    }
+  },
+  "4492": {
+    "lang": "hr",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BODc4NDA2MTYtMzk1Ni00OTM1LWFhOTItMDA2OWM4NTZkYzVmXkEyXkFqcGc@._V1_.jpg",
+    "name": "The K2 (TV Series 2016)",
+    "seasons": {
+      "The K2 (TV Series 2016) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQBfYSyjOr3-SYEU65uey1T0AVwukU7wOJX6xc6iBA31RDI?e=vFHtPS",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQDpxi9RgxeMSbumuLQ7AJR5AX8NjrIhpuSd6OVJm65wN64?e=DeTgqV",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQBeqZEAkIKORJ72VAhutnykAUSMJaeJFACngMLb3d2Aq4w?e=OSSaME",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQDGC1hT89QUQ709JqHabXCzAczmDdwHKoaBI1q8l6MMlXM?e=mKnrJr",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQADo01gU2gSRZrBLB8sD5pEAYCAn6nVJc_aAJTILouAKmM?e=GwUB03",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQDd6Vxvjg0ySpYSTs2LLBGUAWGblBAd3b9PrMHKq4jUaTM?e=HkUubx",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQAM-DuDIiMmRqS444QeY5SdAWk8I8cTqbhkz0cNMTkgRkM?e=jBAGKn",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQDqJaVdw24kRKQbOZ9suRSsAWrJgN72dM3HZRFr2CL6Kyw?e=FjzHxK",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQBsUbt54QuhSbyT6jbaiF3JAUZLnZN9Dg1Rc-m8j-RZrwc?e=Vj71jB",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCYH3tJkqGhRI9gl9K_ibQrAbyrGh-6LJxiOogeogmWSj4?e=jNRPHu",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQAnfd0q2uQHTbCUI2i7sjDiAa_ccPowxOMxPtafKoYrr6Q?e=fupATB",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQA6L_xBqueiRaoONDybgnTNAeqU9IpsAsg4XgdqZiI4xHM?e=FJbOtd",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCPswvIhbl9T51bzMXRbGPoAQ3u4F5y4F1s5HOVaZzIPho?e=hFVjuB",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQBRVvW9vRJRSbLzYWfW7pFDAZpKVC6mdkiDJdcO11zhYiw?e=uSRT6C",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCoPbNTGyR1RoVXcX9nfz7BAQ-a6n8EqGRDAktFBi6uH6Y?e=wm3egC",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQBB-F8laJuVQYzP1NatLUtBARwlIHyQO0sCEnOkHK-yVB8?e=3ZYPy8"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The K2 (TV Series 2016) Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -151007,5 +151134,5 @@
       }
     }
   },
-  "header": 4487
+  "header": 4492
 }
