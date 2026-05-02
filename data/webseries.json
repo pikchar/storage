@@ -69242,7 +69242,7 @@
     }
   },
   "2465": {
-    "lang": "",
+    "lang": "c",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BOGRjYzM1OTUtZTQ4OS00YWNkLWExMDktMjQ4ZGNmMTRlYTlkXkEyXkFqcGc@._V1_.jpg",
     "name": "Mr Bad",
     "seasons": {
@@ -71814,7 +71814,8 @@
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCU85HBU6KYS59UYdC2ESxpAXJajFC5xXwoOepJWjGI3So?e=nZa5y0",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCmGuNhSRk1R6yLECThmdSlAVFuQCGuy-NhZf6Yi3885Mc?e=uGrztG",
           "https://1drv.ms/v/c/475d6e5002b20fbc/IQCEOwj5HDMMT6jUJ_bjgzm-AbEWwUNdSEdEW8kaa0XsOF4?e=KsQMBB",
-          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBaf_Z9xVYXRqnEJiVpXxvQAXkYvSWqHONVkO0Ul8tRMWQ?e=jKXgfZ"
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBaf_Z9xVYXRqnEJiVpXxvQAXkYvSWqHONVkO0Ul8tRMWQ?e=jKXgfZ",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQA6BlSnzG2mTYXNWXZ2eVW0AelzjXxsdKr8WoQZtcztxfg?e=9L0l9g"
         ]
       },
       "seasons_names": {
@@ -147730,7 +147731,11 @@
           "https://1drv.ms/v/c/2AA02E9D4E144F88/IQDdM6z8PwPATbKipuwjPJ35Aeiwf8kV9k6E1E5zWuE8xzE?e=ofd4FD",
           "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBHYVUIa3OFSL6NgOqlOgV4ASgCvyzphzA7AEkO0Ln7dsY?e=M0MZf2",
           "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBgBG4mJne-Saa1lQmOWj6CAcM15uBrjQ2tsORpoz2ylc0?e=ZVZcGJ",
-          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBCod03D9aMQot8HsYN0jJAAYFYhgtauchxqiSledIYMm4?e=21Aqyk"
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQBCod03D9aMQot8HsYN0jJAAYFYhgtauchxqiSledIYMm4?e=21Aqyk",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAit7x2pIvZR43ry-JJItyaARgtpMbDCkB05dGpUWbFQGE?e=aUepnH",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBdn2XduvSxS6_eb8Gra9C6AQ2fYYcHfMoWhhrQhQwuo-I?e=mkdnPj",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDJs0hJFL_WRrsc8oWS-tG8Adb2SJ6zOoaFEvUGqC8dOK8?e=Bge550",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCwxbIRJxqTRKMtYrtqm7vKAXZf_cop-DGbgZSTiiedP1A?e=MHSTGu"
         ]
       },
       "Dr Stone Season 5": {
@@ -149794,8 +149799,16 @@
           "https://1drv.ms/v/c/f2de45938fd56da5/IQCrq-Vp9Cz8QLvIf-r9gTO6ATl8yAXH7D2VzzeJW-WmZhM?e=Ddzi5X"
         ]
       },
+      "Criminal Record Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAcfWWKE7yySJXPfFdlNexTAaYWpWJoAv2DKhuALiymk5k?e=we3uBk",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQALm66xPJ3sQauClIjbSSoXARxgHiObDijjiyPXhOijTHs?e=ixn2oI"
+        ]
+      },
       "seasons_names": {
-        "season1": "Criminal Record Season 1"
+        "season1": "Criminal Record Season 1",
+        "season2": "Criminal Record Season 2"
       }
     }
   },
@@ -150827,6 +150840,382 @@
       }
     }
   },
+  "4493": {
+    "lang": "hz",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNzgyMjZhZjEtODJkMi00NzlhLWEzNTYtOGQ5YmRlM2EwNWQxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Arafta",
+    "seasons": {
+      "Arafta Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDzbq6j5dDRQYgi1P6fmThKAXvl2rS8SiPcXrIveB8j9zE?e=2ukCfO",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBRvJZtvArPTLeGDG_twSoZATpg2YIRcuMIZJlVc8Zcbbg?e=tlCQr9",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQC1nOUWsziRT6b85tkfhgAEAd3aiS0eXJw3O850PQ7xCIM?e=dzBmYf",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCiu9Tb4czKSpw_LqK9GPOoAZUht94TPJp_HucDPgDzcOE?e=j6jnai",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDHKLcYiP8xQo1ICqdbJ74UAcCXdL1I1UsfOSJFpTqA_8w?e=Ucscs4",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBUcvRBQjmvTruIuEV-IB6PAXYlKohIVoAw7JdlZvwv0kk?e=xflmUj",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAElXGhaXg0Sp0xrASZWd4BAfTP9_Qzgu4RUWZtUshWQpo?e=wsNar9",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBXYZc79R3uTbsJ-zSUU-A4Ac72nifIxJE3INgsvZ6yjCU?e=AV7dTr",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCtf3A6iXKxSrjzW5wKbe-nAXUy2fLFr8f0YQA1xB6Us2I?e=BjC6oi",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAD8OJfQiVCSqL10UxVfdAmAWTXkjq-mMU_wlMuo8TkYe8?e=Wv6hF5",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBqdCle18QKRJmPaCvRht4tAVK6PwcwgTHSfWqlfCQ5YZs?e=J0LNiC",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQA6oPPztW51QJSpr_T1gyggATEcdGf1cAG17TXJMStVfJw?e=nJgj5h",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQB48uLXR3AwSJEd3c-jWWzBAUyf11VMLf--BCZIqx3LYCU?e=zgA4Ba",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQA9q4kV8I-ISpU_xePWlEt0AYnOwSbmlxDJA3N0RG1sK3A?e=04W7hT",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQAWASO9FrU2Sb-Wul7_IJkCAXtRLJI_FIWCn1bUPCnYwLo?e=Uc8Zif"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Arafta Season 1"
+      }
+    }
+  },
+  "4494": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYzE4ZDNkZWQtYTNmNy00MjQwLTk0ODItN2YyYWUwYzEzNzk2XkEyXkFqcGc@._V1_.jpg",
+    "name": "Widows Bay",
+    "seasons": {
+      "Widows Bay Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCOTFzsWGnIRZw0oNtumCzUAZSeSIW4CaF2wWwtk83V-3U?e=b3clb4",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCdmizGYMXrSLeejpYb8XH9ASdqgWc8XCrUfL7J01QPsxc?e=iha6J8"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Widows Bay Season 1"
+      }
+    }
+  },
+  "4495": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMThjOTg3MDgtYzQxYy00ZjI5LWI5NWUtZjgwZWY2ZTQwYTVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Bear Grylls Is Running Wild",
+    "seasons": {
+      "Bear Grylls Is Running Wild Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCQ156wjjAxSpSnfMWTA9xqAVVUh9uskkFemfc2X90Dnv4?e=raEWec"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Bear Grylls Is Running Wild Season 1"
+      }
+    }
+  },
+  "4496": {
+    "lang": "hj",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BM2MzM2U3MWMtNjE3NS00NTExLWJkMDctZTgwYjA2OTE5NDg4XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "name": "Eren the Southpaw",
+    "seasons": {
+      "Eren the Southpaw Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDDOD-V4eQnSqYG51I7C14mAeJutIhHjoQ0hf19n9ZG4w8?e=qjvdSH"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Eren the Southpaw Season 1"
+      }
+    }
+  },
+  "4497": {
+    "lang": "er",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYjc1YzRlMzgtOTRiMC00NWMyLTkyMGItZDE5ODUzNTlhMTExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Gold Land",
+    "seasons": {
+      "Gold Land Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQC59zixFThMSI3dhPOZe32wASQgHA0Y0q_Bu36hQCj6QD0?e=43X1PD",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQC7kySpQMFnTJ6dV44KRpgiAaOBH8hXK3zTHjgHtZyHoaE?e=LLbsVS"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Gold Land Season 1"
+      }
+    }
+  },
+  "4498": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMmM3ZDgwNmItYTc4Mi00MTk4LWEwMWMtNjliZGQ4NTlkZGMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Half Man",
+    "seasons": {
+      "Half Man Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQCW5FKhnyXcTpfAgVZvIfa2AfDZptIUvodyDvE2zU3beRU?e=fXA92R"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Half Man Season 1"
+      }
+    }
+  },
+  "4499": {
+    "lang": "hej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNzI1MGRjZGYtYjU2NC00OTI1LTg2MTctYWU5MDNlOTdhNTEwXkEyXkFqcGc@._V1_.jpg",
+    "name": "Marriagetoxin",
+    "seasons": {
+      "Marriagetoxin Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDjPXP2FRQqQonOJd6o7EaQAU93xiNL32XeKNFeUhkYPlE?e=ljWIoj"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Marriagetoxin Season 1"
+      }
+    }
+  },
+  "4500": {
+    "lang": "hes",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNGIxMjVhYjEtY2NmYy00MjQwLWIxNGEtNzUzNDlkOTRjNTdjXkEyXkFqcGc@._V1_QL75_UY281_CR16,0,190,281_.jpg",
+    "name": "The House of the Spirits",
+    "seasons": {
+      "The House of the Spirits Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDzEkqTD_d8RricmzkMhCEuARv19mRr6pX3Al4BxpdeACc?e=yH57WW",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQD3hCXdNCvKQJxnqbJxZwmLARCsJwwgycqAyXZz8_vl6gY?e=Pr3DxN",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQDyPcxpMTJrQoKXPD1AqHQsAdZXai3ymr84ueTWHnhWgek?e=piJ2ag"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The House of the Spirits Season 1"
+      }
+    }
+  },
+  "4501": {
+    "lang": "j",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMWY5ODRiODgtYjMxOS00MDAzLTgzYzQtZGNjYzFiOTE3YTYxXkEyXkFqcGc@._V1_.jpg",
+    "name": "Yowayowa Teacher",
+    "seasons": {
+      "Yowayowa Teacher Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBNSAdvU4fBRJencTl3WJqlAac0iHBhR3YRffmZlwatFaw?e=4USy30",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQC-vGB-WiMXTKbD7T3Ihi22AVS_Rt2OhlXdccw1uC9Rg4U?e=yKyptz",
+          "https://1drv.ms/v/c/475d6e5002b20fbc/IQBgxdGeR29nTK-vn7cNdJ41AXtIQFZDnjzkb2ydzbhevgE?e=7bRA3a"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Yowayowa Teacher Season 1"
+      }
+    }
+  },
+  "4502": {
+    "lang": "hej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMzNiODA5NjYtYWExZS00OTc4LTg3N2ItYWYwYTUyYmM5MWViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Fullmetal Alchemist Brotherhood (TV Series 2009–2010)",
+    "seasons": {
+      "Fullmetal Alchemist Brotherhood (TV Series 2009–2010) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDAiYf7wsdVTrnHLLUzeaJGAb7re0vhxbVny_rozSp0ZyY?e=esvIMb",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQBLeAwypkHWQ7ab68vwJGbjAb2vUGXhGikme_YV9zbl4eE?e=em3mCu",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQD2_3vdp6DPRLGTYtKI7zykAVWekTaM6COpS0XIeXWXXNc?e=L5CyWB",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDZRxppq1pjTJx8b83BKcqkARA3x2VH4oI3BlmyiAII36A?e=JZRdIK",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDoUQQosfAlQontKDZATm1uAVCCQAkDt93VNsusnHRibrA?e=q807kl",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQD27vPLlHA_Q6C2_ei-uUIFAX9FEdrx-KTrICnw64Nmtfg?e=SmjX2J",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQCaGSRFC3qxTaBt6ajZ4ublAYSwse770_NxALp0leohBY8?e=RfIMbe",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAMfRWmqWzVR4Q6S2w5whFYAXyyhL10fHFYX0bRgmjS7BI?e=So8DVX",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDDBV3UtgvuR6K45TcRkg9nAQqU-wNAwLhm9_6xocLWfSs?e=jxDeHU",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQBmUtCK9jW6RoaouNjLZ_zXAXsGAMrM3pZbYp7xlZkMeck?e=m9HCUd",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQByC4mAT9vaSqnG96CajjW5AepNR59MBg0OZolekB4H3-E?e=hlOnBz",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAgNc-sKNCERoMZzPg2fWcvAe0U4UOmLzv9ksbcsNtSN14?e=AqPb2W",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDHzXn13AigT5pJR7EkMooUAQPyjqluXM4i6Aq13B4NCPo?e=hNKfeH",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAQRSRTfxcORJas9Anid7jZAfATrHEzQNgsY242qGId6aM?e=FDt6ty",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAhEHHamQ_cRKsF16e0aS_KATg02aa2RQiyWl_35Hmq_GY?e=NHzRv0",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQBGkUm4kAtNR5hCToTFDP3lAfjMOSswP4og2FGVYpNk5ek?e=6UZ6W3",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQBEq2AGmLD0SJD4xIzHYWznAbFSJeSzAGWY9gAduW_4wWE?e=3wLB3r",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQCZQdzik2gFTKQrfiZ-CQCKAYw1o7UMq3mNcVK8gRwFz2Q?e=hoaLir",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDS67vQHWnWSKGttk7EkYMyAS-mIr3e76Sbw1PS-4QX3_Q?e=Snm0B7",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDSZMGJFhouTKXKZJThlXFAAcYwt7lvHUfVNcLv9N7dedM?e=6Ykby6",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQCSPJ2FcSCxToeFxm0AaezLAYibfnF_O49-K5z1_akTRkc?e=ffAq3V"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Fullmetal Alchemist Brotherhood (TV Series 2009–2010) Season 1"
+      }
+    }
+  },
+  "4503": {
+    "lang": "ej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNWVlNWM4MWEtYTNjYS00MmYzLTkzYmItYmI1YjkwM2U5NjAyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Loner Life in Another World (TV Series 2024)",
+    "seasons": {
+      "Loner Life in Another World (TV Series 2024) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCoH8C1_OzWQoqLLYa75vEQActCFXE2I4W42LjV6nLFTes?e=RGWofc",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQD0ByaOHRk8RoXkG6eASGxjAZmSyS64zdz0wMpBGNDOt64?e=feYGPv",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCM5hCWZBAgRLkkwQfjEFKWAS6m9uGbNItSnAxlFhV9sRo?e=cyaklZ",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQC-UUVF4uGhRpOrkzURxrZBATpJghV9wOTEAWq-xz-aIp8?e=ADiUcG",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCa80lGUz7rTLapBvNW27CgAfxWgZrd8n-uh6Yp6cz7hcs?e=LjYYSQ",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQBuNq2L6ypyR7bns1Z8i1PRARl4UjlNJ9I9IdEqYSzZiIE?e=AzjrKa",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDw4freZ294RZ88HC_9kjAmAeB8wKBO_j47wUoY8QDHoMw?e=5JwGDI",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQBTft-pi5OMSr5ilkhPgLhxAX0CwphFyGA1-viMJ1l-zCU?e=hphQdf",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDxA1pOzZ5YQoP4E1QevNf_AabSFQIAFTGntuijMBbgno4?e=5lXrcu",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDNgqTqfExHSYSdsB9KSXPLATrbLTc_W4xxmHVAvJC8G1I?e=8XN4dv",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQBF23oORUdESq8KLgjSMLtIAYM8csV5OAeRaRdiq4pnW48?e=UgUQrW",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQAGArPV4N22RJDBdxasVbb-ARtYoUWPkEJ5MBShCr-yIXQ?e=nTdH6P"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Loner Life in Another World (TV Series 2024) Season 1"
+      }
+    }
+  },
+  "4504": {
+    "lang": "hr",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BODVlYjY0YjUtZmVlYS00Y2RiLWIyZmUtODRjNjI3ZmQzMzlkXkEyXkFqcGc@._V1_.jpg",
+    "name": "S Line",
+    "seasons": {
+      "S Line Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQDSLdrLQdwSSohIgw--bOzcAcyr7tbTcJFPp0roUibo0GQ?e=rOJ7SU",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQCNmH9ZBJPlQLM1pccuthv3AV8s6NpUTTURSuy8bO9-CS4?e=ZikUHJ",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQDPccYLqU6MSYb4KciGvIMsAS7731Lpd_u-ZtjcL5RHGss?e=8Zmzdr",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQAB6NA3S1DoSYYQ3tnt2t7cAQw2Fqi20leaOr3OoFwAahY?e=MYk1mU",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQClMEOofv2nTax8rzlgwUKoAcG65SZbggXR9lB11kZbSc0?e=bHtrXo",
+          "https://1drv.ms/v/c/2AA02E9D4E144F88/IQDi4L_SN293QI6n8ge9vh5AAVcJFzlTnKolp_S_jHOFLuk?e=lH4OxW"
+        ]
+      },
+      "seasons_names": {
+        "season1": "S Line Season 1"
+      }
+    }
+  },
+  "4505": {
+    "lang": "hej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZjNiODU3ZTktYTA3Zi00ZGFkLWE0ODEtZjFhNGEyZWE5MTU4XkEyXkFqcGc@._V1_.jpg",
+    "name": "Straight to Hell",
+    "seasons": {
+      "Straight to Hell Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQAkhrsZPn3sTJ-U5_rD48WOASdRV08R7Yh0H2MT0AZFhqQ?e=a1yV4g",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQCj7i8ree5IT6Ocg3bXVp7NAZca9n2WSkUHqsGSOO3AhXE?e=Np8Tbq",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQDs_d8KWKYoRrY53uoBsX-EAXzD1k9gGOfmseEz-unKaQQ?e=1MgTZc",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQAm1OxG4HSKQrOzuDqrDQWcAVLS-_Gn_VR6Ylk6ejrcwVw?e=89RwNO",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQCrjkaWL89uSa748eUyTUmzAcNHmSVYt7MMQzVb1fJJI-U?e=jdC8SD",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQBQI6_6cNB4RpbQpxcv-3S9ATmE_AILklIlpjjWLoQI6t8?e=mX0gfQ",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQCHKM-t80bRQI6b1Orv6xlXAQi_CZ4cmDbXaAQIrL_t-vM?e=GJ3iLE",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQA8tanY30NbQphTuYP6fz2UAfGho74ITmP2zSvmAzSUuC0?e=ROSY6P",
+          "https://1drv.ms/v/c/8d86d7c27a28e56c/IQBDyNzbdadtQ4iwToLgAuPqAV323N3NgX6kiOook2jqr-4?e=UkFPuw"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Straight to Hell Season 1"
+      }
+    }
+  },
+  "4506": {
+    "lang": "hj",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMzFhOWUyYTktZmFlOS00OTRmLTk0YTYtMmFlNDNiNDRiYjk2XkEyXkFqcGc@._V1_.jpg",
+    "name": "Welcome to Demon School Iruma kun",
+    "seasons": {
+      "Welcome to Demon School Iruma kun Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQA6D7rUh8PDT6gAGAZ1RjzHAToq0Nj_pZ8DPzeqwh0c6OY?e=0Bjnox",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQD_CAhdH_-bQ4YpecZQS_GkAe7ro5qmvE41fxqqjXRzrWE?e=kh3bwt",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQB_BI86m1xYTKpEhNVd-0WpAZtwWsy9WS-rRATR0Hxmcco?e=mygl9u",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQA4_H_H9Xo0SZO3UdWtJX-SASHLcKa6i06qxOTJVzRH7lU?e=ktjnCd",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQB6qXXImmOkSYCf4OkklNlaAfZPzqW4MKmC5YgolJnkaa4?e=tqvRfy",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCesgquMdkLTbhTHea3d3_VAT_sLutUnvQcBGGLGhp6TYY?e=fRoC7T",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQDOZTGKEgU8TbNMgzfog6IhATre525kq1OFQ-iOJSrKDF4?e=Vg0Lwm",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQC3OixoPRsDTYjSQ0Emp5X8Ab8vRtnGyFyr38B24B1xcR8?e=onGI0x",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQB3bTqRG6mGSLNli3Mx0wRaAaCDBKk7KbjzV6N_dL2G6VQ?e=Wfbvdt",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCUYSl66T_eTaCx4nHmPgWMAe1epoiT0w68esh2kMvW3cw?e=8ZCCdQ",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCYOs_7yL5nRY31RAjZzdLOAXzmbgBQWcv9s3wH9v9EGAU?e=qxmkAq",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQC71YIfU24nSIe3N5lUJjSJAflJaw1Rh6PvNV11VQYYlh8?e=leRO55",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQB-KRc1QrzmTJ6eeUUIQeMDAWjw1rW9YL3Gh1sgdU6K6b0?e=nlgzSL",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCI1rjw1aE7QZ8vWiDNa4BhAQw35x2LtVBf6xs9bjW_8Mw?e=0bpmRL",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQDrJcb_9C3RTIqpJIxTwMzuAdGBDCSxQIstbpH6ieRF5qU?e=ubhuWq",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCCqzPkZetRRZZF_bKxllrzAaPf8-dtLofC84CwIeVb7Ds?e=9vOfPc",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQCcPkcd-I7RR4yFUsmWIR96AaIR9Dn6SRhLGnegytxaPs0?e=trNXrX",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQB82kV4OCxYS4UZ-AGiG6gxAZxieq0ArGin6TGr4GY9-9E?e=6gA5GV",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQDAjeEvCKSLRoxrzgPx4a--Aet7TMkdVoNVtsyJVumqwfY?e=YSJCKr",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQDsed-fGhpjRrlHEF9mBh6bAVAH-CXbcSxXtAt1gNIf3fQ?e=k74HCK",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQACDo6jmO2wSIa3dx-rpFjtAeKcsBsQKtRnD8l2DQSsQJE?e=0ZQMts",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQAzplR0J3GgR5o9pz6u1HV4AU-w5ufSRmNx-7vNTW_6FKo?e=rN3FVi",
+          "https://1drv.ms/v/c/4FE5540584533F2C/IQBd7dc3xKZxR5vXiiauKJGlAWgeh4UBhKVZ73aPT0ZhvTQ?e=nH2ita"
+        ]
+      },
+      "Welcome to Demon School Iruma kun Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQCs8WmevNg0T6INum6vZv5vAYPRYzH263fwabLAbuXU7ZE?e=lTL011",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQBYRuXA_OR4RJfnlE4ge7kwAXQTeEwvVP7Esh2F2YOqogM?e=DO9Rlz",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDuQoqVWn1STa6049KKoNV0AS60KrbHXxmphXo2dKy2ov4?e=SnABeW",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDNhwLRWB4iQrO_DLbhBxOLAQXB74fc19krwzgGW7kpiCM?e=sGY81e",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAsnJpeljNfSppivrh5U9SLAV-ZZ2533KMUMUMml7gUDq4?e=cCpXcX",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQChe8qJqpm6TqzAqBJhDCbUAXoIS5_lNJL79ElFT5yIi_Q?e=f8YL5S",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAyFxDLtRCySoIS6Bcw21orAeaJ99ANsLVyMdXDPxgOzwk?e=V56hyy",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDK3nFCP6PtQL8j2WRA2QChAXEO97shNjs3lRpe84HIAzg?e=bGRAxV",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDcbPibWZAqRqNLPQ-awRBbAVmy_2rAelE_Q7B7kh5BLv0?e=Uqk29G",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQCPYQmxxahISZVNYGAjoeCoAUTRMBsy55_16fQ9XrrAemQ?e=SUEqRk",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQCrfKVjD7yQQKoOS_rRbL_zAWOm3VTMX90GD1aFAd_v2HY?e=AE2gnZ",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQB1t9BcRObcSKGICp7asinjAYZ7jYvvU61tdU8sHeCNeB8?e=yWhcva",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQCgWJaSaM9iSZrIK87auzsSAWwM1RygYQVspf_3BlS9dIg?e=KB1Ia3",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQC9Q6Qp2hUWRb7Oyius6YuIAUXPx--BoqERE1HsvIe8OZk?e=Za4wY1",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQBKbjEt_X7pTK58u_LtyqHrAeUchq_TDw31nkPmIEYzgXo?e=0eSIpe",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAKphFv5eeyQ6lnilUnGsK3AVB7VGnfu5MRjouBBxOLdkQ?e=fogtZ1",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDZWY0m4_8PSp8v6EHZU58eAQaFTtcYu30WGztn1amoxqc?e=rUsse0",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQAp3Ot-SWTTQb7GcXoS_yuEAbw_CqmBGAYgmH6QkOERpY4?e=PegYNx",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQCNjYgRVCEgRb_mqj6B2BQhATWsTsvtnyxXlnSqRK7Eh7I?e=gKhKmy",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQD5F6Db8WnlQLuVdleRtK3pAZk2-pa4Ng09SYSo7659c_w?e=gCNek4",
+          "https://1drv.ms/v/c/fe435a20fcafad85/IQDB4tOsq1EFTYLak6B2Ma0EAT-NJ5oIZ5MkbRSofKzjmDk?e=UTVIyk"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Welcome to Demon School Iruma kun Season 1",
+        "season2": "Welcome to Demon School Iruma kun Season 2"
+      }
+    }
+  },
+  "4507": {
+    "lang": "hc",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BOGRjYzM1OTUtZTQ4OS00YWNkLWExMDktMjQ4ZGNmMTRlYTlkXkEyXkFqcGc@._V1_.jpg",
+    "name": "Mr Bad (TV Series 2022)",
+    "seasons": {
+      "Mr Bad (TV Series 2022) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQAKOzNZpK0VT5HXOQ6jMDh6AZAsUwXRykp6i_s-BiTZsy0?e=1A8yHg",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQAhzAjh0iIkQYz2s4z-V595AXFjy1u6MBFds4fE5EmGbt4?e=BhnoUs",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDVF34v03ekRo8vHbTZ_eZWAQiKIt13_7_WKN7J2IgV9WE?e=2P1lga",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCS9lO97F97QaTDjqOYkJ_SAWVt5a_bd8szBV8smRfatpU?e=CUIqtb",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCzXkOtSN6VQ6kBkx9KP7ikAfiNH0s-YtIsTH2t1kiHu9w?e=f4BrJ2",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCMERLFwuufRIhDtHo4JkrJAdoC13ZdfUkl3E2U5ZMdvN4?e=mFSmGX",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQBEpDYG6HrkRo1DVMl_50_YAYPfdG_Uy7elC_W_xFcAzcc?e=PCx6NI",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQBWOLBWP8UYQKpw2_8ySG9iAf9pXK99i3w91MXiqxVSnaA?e=axnPgl",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQBHc15bHmmSSI0p3_QtrSUMAcqWvXwWb9dkD0kg3ectRQU?e=SLwMH0",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQAX-CujYRneQ5NZIFlv1h_xAT_P8guMJL7QCRtfnTJcg0A?e=CHvLSm",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCQwBR5326-S6kgkfiu7gXDAZM_HPhnBhESU-m6njANJ8c?e=ntkrFF",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQB2U53X1cLtQbDk5MKkfiejAb1A6vbr0qpTJMV8UzSuFYE?e=ypENpI",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQAPszbbg9d9S4scdeBDFZvwAUEarRDewTWImsrD89-a3Do?e=BC4Rqy",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQApcbTchsdbQKwbElXklJdGAa1k4a0_gEZ5IO6-JOYDxyk?e=0HnrLB",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCNq-0ok8mkSrNUFaxkO5JyAYSrSEf9g8YGNroa5Pl7j-o?e=UEJ4zr",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDhsVuzz0t3RLf_CTZzU9IcAeTlV-VlHLdqBnuGSHz4VGw?e=oIudDF",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCDVUlsF0hSRacv6YW99B8gAZ7ICphmW2UWv4nn_zcCZTE?e=PLgsxa",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQB5xf7iV5COR6UysQT18I0FAa9gnLfcEF6uwtVCANvTZCo?e=dnY1pJ",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDWDHAIQCRlSqRktRJZULwvAcytyAsZz7XR3nsS5-9oW8c?e=sEU2pn",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDl_X7nwJdgSJ0PkFe5aEtnAawoH_d2pCWch4yoiZtJvbU?e=jJkN0S",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQDfSyyDPlzTTLTiZfbjygLlAQJzicNFw6V3b7Hk6FeHSak?e=2MLx3A",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQBh0A2CLX5uRqLemRwMXHAjAUl5BwyNTg1fZUWHHNzQ5Is?e=TQWvHP",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQANWGEiGTlvQK1MIVvQKjYSAUHkH7ta38Ewkt6eozAUvyg?e=bxcGuW",
+          "https://1drv.ms/v/c/CB20E7FC6C2640B5/IQCOEv7CCzwYQoUWdLabM2w0Ad0pI8fKL7lAEzq48_MHr68?e=NRGfNt"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Mr Bad (TV Series 2022) Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -151134,5 +151523,5 @@
       }
     }
   },
-  "header": 4492
+  "header": 4507
 }
