@@ -3502,7 +3502,7 @@
   "4461": "Agents of the Four Seasons Dance of Spring (2026)",
   "4462": "Snowball Earth",
   "4463": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
-  "4464": "The Beginning After the End Season 2",
+  "4464": "The Beginning After the End",
   "4465": "Criminal Record",
   "4466": "Flunked",
   "4467": "Hulk Hogan Real American (TV Series 2026)",
@@ -3546,6 +3546,12 @@
   "4505": "Straight to Hell",
   "4506": "Welcome to Demon School Iruma kun",
   "4507": "Mr Bad (TV Series 2022)",
+  "4508": "The Warrior Princess and the Barbaric King The Barbarians Bride",
+  "4509": "Athidhi",
+  "4510": "Mansion 24",
+  "4511": "Citadel Season 2 (2026)",
+  "4512": "Glory",
+  "4513": "The Chestnut Man",
   "12122": "Designated Survivor",
   "122123": "Arrow",
   "a0001": "The Avengers (2012)",
@@ -15447,6 +15453,9 @@
   "z18103": "Aadu 3 (2026)",
   "z18104": "Apex (2026)",
   "z18105": "The Secret Agent (2025)",
+  "z18106": "They Will Kill You (2026)",
+  "z18107": "Swapped (2026)",
+  "z18108": "Raja Shivaji (2026) (Pre-DVD)",
   "z1811": "Kaberi Antardhan (2023)",
   "z1812": "Karma (2023)",
   "z1813": "Vickida No Varghodo (2022)",
@@ -23626,5 +23635,5 @@
   "z9997": "Meet the Fockers (2004) ",
   "z9998": "Mirrors (2008) ",
   "z9999": "Mojin The Lost Legend (2015) ",
-  "zlast": "18105"
+  "zlast": "18108"
 }
