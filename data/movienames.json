@@ -3993,6 +3993,9 @@
   "4952": "Waiting Hai",
   "4953": "The Early Spring (TV Series 2026)",
   "4954": "1122 For a Happy Marriage (TV Series 2024)",
+  "4955": "American Hostage",
+  "4956": "Paris Has Fallen",
+  "4957": "Brothers",
   "12122": "Designated Survivor",
   "122123": "Arrow",
   "a0001": "The Avengers (2012)",
@@ -17327,7 +17330,13 @@
   "z19406": "Irumudi (2026)",
   "z19407": "Jana Nayagan (2026)",
   "z19408": "Modha Rathiri (2026)",
+  "z19409": "Asambhauuu (2026) (Pre-DVD)",
   "z1941": "Ant-Man and the Wasp Quantumania (2023)",
+  "z19410": "Four Rivers Six Ranges (2025) (Pre-DVD)",
+  "z19411": "Jayanti 2 (2026) (Pre-DVD)",
+  "z19412": "Baby Do Die Do (2026)",
+  "z19413": "Karmakhya (2026)",
+  "z19414": "Swathi Muthyam (2022)",
   "z1942": "Air (2023)",
   "z1948": "Dada (2023)",
   "z1949": "Ghar Banduk Biryani (2023)",
@@ -25376,5 +25385,5 @@
   "z9997": "Meet the Fockers (2004) ",
   "z9998": "Mirrors (2008) ",
   "z9999": "Mojin The Lost Legend (2015) ",
-  "zlast": "19408"
+  "zlast": "19414"
 }

@@ -34552,7 +34552,8 @@
           "https://1drv.ms/v/c/da4a27a70484e8a5/IQCrfdgwjxCLQYfDN_z32QwMAYbDs9xaldmZ6sOpYsG084o?e=UpiP1G",
           "https://1drv.ms/v/c/da4a27a70484e8a5/IQBw95xCbjmOQ5AFkZjsnURZAR9hNcSPnF1qUIv4pCGKB2E?e=Tr8M3O",
           "https://1drv.ms/v/c/da4a27a70484e8a5/IQAqTDa03wB1SaeuhquT6BBwAVufMbU0ux_QikOLmXh0cZE?e=LiENMe",
-          "https://1drv.ms/v/c/da4a27a70484e8a5/IQDPxlBpuEMiRZAZ4F4Ias6AAU0NdCCrqVZ_Ks0QYzIH9IU?e=Ek4tB5"
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQDPxlBpuEMiRZAZ4F4Ias6AAU0NdCCrqVZ_Ks0QYzIH9IU?e=Ek4tB5",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQBQKT-0E33qSrycXkyKKMFRAe8zbGCAwpHl91DyJkfw8hE?e=pXA3M1"
         ]
       },
       "seasons_names": {
@@ -47769,7 +47770,7 @@
     }
   },
   "1992": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BMTJlYzg0NGEtNzBkNi00MTE0LWJmOWYtYmM0MzdkMDI0ZDUwXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_.jpg",
     "name": "Island",
     "seasons": {
@@ -48443,7 +48444,8 @@
           "https://1drv.ms/v/c/da4a27a70484e8a5/IQA3LSbJv9p4RbGdG9GZoPeBAYtGe6GVkoqyJwUigj61s4Y?e=0hmc2o",
           "https://1drv.ms/v/c/da4a27a70484e8a5/IQBb26cCmg0cT7LAx-C6ZTPXAYWtgC57dA-tvzWE6R3LlTA?e=HkAZqC",
           "https://1drv.ms/v/c/da4a27a70484e8a5/IQA2oCrlvrx2Qp60b6Dk1FsmAVBxP9kLEqkiMYO5EmfzR_o?e=25IIVc",
-          "https://1drv.ms/v/c/da4a27a70484e8a5/IQAhMKzRrp8fT69n4bScks10AdyqZwVGzXZgFOTyb7H9IBg?e=gQR8tE"
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQAhMKzRrp8fT69n4bScks10AdyqZwVGzXZgFOTyb7H9IBg?e=gQR8tE",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQANNQ8MKG3qSqU_k8AQFnEvASQ45swsS41WL3QRFFyc8nA?e=8kT7EG"
         ]
       },
       "seasons_names": {
@@ -67527,7 +67529,7 @@
     }
   },
   "2421": {
-    "lang": "",
+    "lang": "c",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZjJiZmIxNWYtMWJjMy00NzUwLTg3NzEtMDIyZWQ1MmIyN2MyXkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
     "name": "As Beautiful as You",
     "seasons": {
@@ -101407,7 +101409,7 @@
     }
   },
   "3146": {
-    "lang": "",
+    "lang": "r",
     "mainPoster": "https://upload.wikimedia.org/wikipedia/en/e/e2/The_Scandal_of_Chunhwa_poster.png",
     "name": "Chunhwa Love Story - The Scandal of Chunhwa",
     "seasons": {
@@ -117385,8 +117387,15 @@
           "https://1drv.ms/v/c/c0d06e510338ace0/EXwaBFYs5HdJrEwntyZNEqIBTNamMJ0v0K5U9aQ5C20ULA?e=MpSBEt"
         ]
       },
+      "Outlander Blood of My Blood Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQBgl7xO2jRVQ4gf8Wv8g8j5AY0qjkTc37VYHhjSzX69cEk?e=i9OMfF"
+        ]
+      },
       "seasons_names": {
-        "season1": "Outlander Blood of My Blood Season 1"
+        "season1": "Outlander Blood of My Blood Season 1",
+        "season2": "Outlander Blood of My Blood Season 2"
       }
     }
   },
@@ -167094,8 +167103,15 @@
           "https://1drv.ms/v/c/46b025d437c34cbc/IQC_py2o4MeAS5YXPJo80KjKAfoZPzGfamfyxkiPDSQt95k?e=B9TWQp"
         ]
       },
+      "MobLand Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQCENZg0DEWYS4frnt_xdVe3ASc3xwEmTyAsKN_bYlxZUbA?e=FHW8ls"
+        ]
+      },
       "seasons_names": {
-        "season1": "MobLand Season 1"
+        "season1": "MobLand Season 1",
+        "season2": "MobLand Season 2"
       }
     }
   },
@@ -168174,6 +168190,57 @@
       }
     }
   },
+  "4955": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZjg0NWVlOTMtNWJjYy00ZjllLWJlMDAtNGQxYWI5NDA5ZjU2XkEyXkFqcGc@._V1_.jpg",
+    "name": "American Hostage",
+    "seasons": {
+      "American Hostage Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQA-IE9fP6gHSrPTH7O5sV_WAS6MOzs4LNXxLPOpXilKRpM?e=lNCmgX",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQDvEWcGvnWnQ6bQsUuR6v2xAcFb6O4dnIDKYV6co3JvhRo?e=c6cF7Z"
+        ]
+      },
+      "seasons_names": {
+        "season1": "American Hostage Season 1"
+      }
+    }
+  },
+  "4956": {
+    "lang": "he",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMWY4OTNhZGYtMDViNi00OGM5LTkwN2UtNzFlNTlmMDA3ODE0XkEyXkFqcGc@._V1_.jpg",
+    "name": "Paris Has Fallen",
+    "seasons": {
+      "Paris Has Fallen Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQATFNdslfMsSZDzmn7l9E75AaC4EFNNWj16Fv5tLd4hZjg?e=icZAi6",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQChjQPxSG7EQK_nTdRLQ9a6AQYfQcX1O1ov0pTlViwmhUs?e=vDk0f4"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Paris Has Fallen Season 1"
+      }
+    }
+  },
+  "4957": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMjYxMDc4M2UtMWI2OC00MzAwLTgzZWQtMzFmNDUxMmE2MWViXkEyXkFqcGc@._V1_.jpg",
+    "name": "Brothers",
+    "seasons": {
+      "Brothers Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQBOix_ByWiWTLdRTYXMbVbiAal4XmmDGmHBpi1ctGMOMTQ?e=mB6i3l",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQCET9W1OA3iS5GiIS_cec9GARIDj4c5BDvDxvEgm5_LOnY?e=2MOQf9"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Brothers Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -168481,5 +168548,5 @@
       }
     }
   },
-  "header": 4954
+  "header": 4957
 }
