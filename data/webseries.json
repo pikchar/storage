@@ -72247,7 +72247,8 @@
       "The Great Indian Kapil Show Season 5": {
         "episodes_url": [
           null,
-          "https://1drv.ms/v/c/da4a27a70484e8a5/IQBLtpo7V8EWQKOTF0iRjksNAdwuuj_0GSOmYlRAiwxEBzE?e=1yABnc"
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQBLtpo7V8EWQKOTF0iRjksNAdwuuj_0GSOmYlRAiwxEBzE?e=1yABnc",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQB5FhDlqKR8R7_LQb2B1nHUAWKSrXGBeHhlv6I01_H2Shk?e=ZlJlMT"
         ]
       },
       "seasons_names": {
@@ -169114,6 +169115,107 @@
       }
     }
   },
+  "4981": {
+    "lang": "he",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTI2NDllMjgtOWEyYi00Y2YxLThhYjQtNTQ0NTgwNDE1YmYzXkEyXkFqcGc@._V1_.jpg",
+    "name": "The Punisher (TV Series 2017–2019)",
+    "seasons": {
+      "The Punisher (TV Series 2017–2019) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQB8iuOrO6CsQq6JRoQT2Q-nAfIAJl6jlo6CqJdosi75peM?e=deXIXk",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQDI9ojSuPYDS7FgToHSR0oZAXK273WBxF_pCjK4fQGaXZs?e=biZVlZ",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQDedo1FT4TXQKzkQFGzfhiwAZQ_dADN1UFKUH1KQ7yOlXU?e=lAAzuS",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQBSMZRjNKELQrEMjT3cwXfoAaCQ-P5mJPsK_duC5MGiHBs?e=HBfVsS",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQAB9TXt1sVzT4vrEnNSKbDwAfttGH2autQ4ZtL2bAfLk9I?e=LNjSm0",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQCONr-NzXQMRoNi6Rg7ChzeASeIVmGvp5H6vyrgekoH62o?e=JPsoPI",
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQAHJegIwq2TQYrHIypeFDZlAXw6prcCS_0569CHjCBwJSg?e=V3owLB"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Punisher (TV Series 2017–2019) Season 1"
+      }
+    }
+  },
+  "4982": {
+    "lang": "hes",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYWU1OTc5MGYtNmY3OS00NjdkLWJkZmUtZDc4YTg0MmM1MjZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Prefiero la Muerte - I Would Rather Die",
+    "seasons": {
+      "Prefiero la Muerte - I Would Rather Die Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQC0cdqADtLDRr2kPM1vTXTSAZMjk6pn1YA1PaxSQa8YgGs?e=3YbvAw",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCTNSLQsIYzRKYVGbRmeb90AbwJls7WeHC1RMkXohLTjRk?e=8WVwG2",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBtq9mFmXAbR4Kglx35Hb0iAamqJx7J4FRsgBXQfLJfK0I?e=nJ5zge",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDVMroAYKbSQo5bcZu4lfvdAVEnYDj__LapBuTQ2Sr8Z_E?e=iMPXub",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCUa8CbZf-jSY_8KKH76IuwAQdS1hqBewNDrYhG0Spo1ng?e=ketvyx",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCIOT01X5j7SoK7qU6ubJTwAR51z-qRePuha1md8yoW0IM?e=xyQd34",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDciriCXSZvSKe1SxAbXn7xAd2mt-nAnu3R8av9nSbgg-E?e=EJgmLf",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDl-u8R9WCLTq2owPx0w6UTARlGGvYQXCq53tYkzF1jObg?e=8WbfkT"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Prefiero la Muerte - I Would Rather Die Season 1"
+      }
+    }
+  },
+  "4983": {
+    "lang": "hes",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYjFjMGVmYjYtNDYwOC00ZThhLTk0NTQtMzZlMTI4MmRmNGQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Red Queen (TV Series 2024–2027)",
+    "seasons": {
+      "Red Queen (TV Series 2024–2027) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCBGJELvfvBSI9jo4TIc6XzAb8CGoYFIc2AYbxzySVm4fI?e=9afb24",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCJ-xXb8VG1S7Iz8_IdsFCsAbuhB_jqCGdmhzt1GaKYS2c?e=DKYjm4",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDtEj8iE4GoTaOxnsFiOTd_AUL1te2vc3MeoyEqJ-uK1lU?e=SwwhML",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQAtHVbngG_JTaB0anHyXKpcARqd7o7e5S0f_uMl_IztMrQ?e=SkXDDz",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCQcDOw-fHRTJkNARREyGUvAeLFV3akkbmYHf3o5axTSEw?e=WdfFaC",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDrZs9cIBXpRKh8fE-rC62lARxNmUWr2zysLfC37lTPQS8?e=cFhdko",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQAG4I8_k8UERb_a9XVgLuXrAa3CjZuAY0NjzfknnNYW_Ck?e=dEsky7"
+        ]
+      },
+      "Red Queen (TV Series 2024–2027) Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/835cd3d34f826215/IQDpWtfFd3ECQLlxyaYbBXVSAV7Yn8YdBzKuqbQXOw1HDIc?e=3qg7DB",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQBuYsnTh1MVRbmecfuObLpuAQMdd_2mxXDuY-Nb4unE0Bw?e=AV46TQ",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQAIgDpgMQj7TYmhzFcv-GpLAeFozvRwX128G8iiMNOIRxc?e=PIGLei",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQCs7GsqVrYgT7uPGJE0KihkAaOnYzi_n_Cb7yPw5LYzFmE?e=fZSxlQ",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQBu3r2KNfqBQb3dGuR3sePKASWL5gBSwAHlEM8r5PdeRaA?e=4et20o",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQByemNHJK0nTLxQY2Dk6YC3AXZmbgJ7gd8YsHYatVQp1vs?e=H9INLt"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Red Queen (TV Series 2024–2027) Season 1",
+        "season2": "Red Queen (TV Series 2024–2027) Season 2"
+      }
+    }
+  },
+  "4984": {
+    "lang": "hetus",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BYjFjMGVmYjYtNDYwOC00ZThhLTk0NTQtMzZlMTI4MmRmNGQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Red Queen (TV Series 2024–2027)",
+    "seasons": {
+      "Red Queen (TV Series 2024–2027) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCBGJELvfvBSI9jo4TIc6XzAb8CGoYFIc2AYbxzySVm4fI?e=hdtEAt",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCJ-xXb8VG1S7Iz8_IdsFCsAbuhB_jqCGdmhzt1GaKYS2c?e=U5ZmaQ",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDtEj8iE4GoTaOxnsFiOTd_AUL1te2vc3MeoyEqJ-uK1lU?e=S84gKZ",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQAtHVbngG_JTaB0anHyXKpcARqd7o7e5S0f_uMl_IztMrQ?e=f6qNtS",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCQcDOw-fHRTJkNARREyGUvAeLFV3akkbmYHf3o5axTSEw?e=FOd6Qy",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDrZs9cIBXpRKh8fE-rC62lARxNmUWr2zysLfC37lTPQS8?e=heDpEC",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQAG4I8_k8UERb_a9XVgLuXrAa3CjZuAY0NjzfknnNYW_Ck?e=tbk5Ln"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Red Queen (TV Series 2024–2027) Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -169421,5 +169523,5 @@
       }
     }
   },
-  "header": 4980
+  "header": 4984
 }
