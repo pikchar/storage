@@ -72265,7 +72265,8 @@
           null,
           "https://1drv.ms/v/c/da4a27a70484e8a5/IQBLtpo7V8EWQKOTF0iRjksNAdwuuj_0GSOmYlRAiwxEBzE?e=1yABnc",
           "https://1drv.ms/v/c/da4a27a70484e8a5/IQB5FhDlqKR8R7_LQb2B1nHUAWKSrXGBeHhlv6I01_H2Shk?e=ZlJlMT",
-          "https://1drv.ms/v/c/da4a27a70484e8a5/IQCf_BERjyMbS4Imo_XRrvpPAadwREOCVi3A8PyeZ_e8eeY?e=fy6ptG"
+          "https://1drv.ms/v/c/da4a27a70484e8a5/IQCf_BERjyMbS4Imo_XRrvpPAadwREOCVi3A8PyeZ_e8eeY?e=fy6ptG",
+          "https://1drv.ms/v/c/b393ed2eb431a902/IQBzPugDfCpuQY66PcZZUWRCAVRUvi17dP_w5STJOKwPiR0?e=jWscw9"
         ]
       },
       "seasons_names": {
@@ -121633,8 +121634,22 @@
           "https://1drv.ms/v/c/41ade5ea98ce7d3c/EbzJwss3799OpG-cCPcI3UoBNVNpPhs2LMmFm0IZAwNklw?e=eOEsg6"
         ]
       },
+      "Haunted Hotel Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBxYPVwpKHhQqXO2A0jSoNkAbm-izPKTdPd2OQWX-RjU6Y?e=qdksTG",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQAXGkDkNoUhQZWl2fd9_-4KAcaTJlb34wGlPayoBStbLU0?e=Mj5coR",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDG_yKpy5RsSZqHKQ5MChtMAUdc2hZNCHDJE9BvQ0ccJu8?e=Un15De",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBZUf0OTUvcRKlGjUsBQy3yAZlSxYIv_tPQohdyTIr5aoA?e=EvKbqh",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQAAxuJCigr_Tb-E7yvTX7aBAfFJRmZre1qejex-LARQLXM?e=9lsKKC",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQAcQ3Y06YFASatotbuncDpfAQeJjg0XNeqbcrtGlUU8Ap4?e=TWEiPW",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQANLCb9GXTeR6JKUZ-IgPTeAWeQAZoPdom5xUy0fbUfWRg?e=OKKG84",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQASotHVcAN-SbsahhzdpBwXAbvqJav9Mm2LV1thcqH1xyA?e=d05Dys"
+        ]
+      },
       "seasons_names": {
-        "season1": "Haunted Hotel Season 1"
+        "season1": "Haunted Hotel Season 1",
+        "season2": "Haunted Hotel Season 2"
       }
     }
   },
@@ -170070,6 +170085,385 @@
       }
     }
   },
+  "5015": {
+    "lang": "ei",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMjAwNjc4NTEtZmI3Yy00Yzc1LWI0NTAtODgxZTdiMzNkNWIyXkEyXkFqcGc@._V1_.jpg",
+    "name": "Minerva Academy",
+    "seasons": {
+      "Minerva Academy Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDrw4ZkddWHQIWVINmO7FfpAUzb0b6Co4lzdlLHP-Ietkw?e=Kr1fZR",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCX-BMPyP18RIAlx-vg-pTZAWEo0bL8LSFK04YqOOiUArY?e=iPoHAW",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQAyiCTikCW8RrFnB-_fRe1-AWfKS_MmiDQO4L8D8MWGHqA?e=0U66Yo",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDBV4zhe5TcTLZ0wdRfg5pdAURQFFDeN7y4yV3jRAHayD0?e=ixz9jd",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCGBSFY5rFfTqa33fTpH2ZuARfz3eIH8M0bYHvnJcryjAA?e=SoWgMx",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCLr2mMBu1CTbd5H5Jy_welAVtRvHQb2iX1eI6JBdtrXXk?e=mCabe4",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDQVrEgCauyT4DgEo4Wh1J5ATp6yhjibLqThsLDBJqkLO4?e=SxLIpO",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQB5S2xufFUzTIQNywsnUp3SAZA7iwgQUgge5WgU8EQFF60?e=T9dnPa"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Minerva Academy Season 1"
+      }
+    }
+  },
+  "5016": {
+    "lang": "hc",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMGMxMTA4NTktYzZjOC00YTMzLTkwYjktMWViYmRiMGJhNmJlXkEyXkFqcGc@._V1_QL75_UX500_CR0,216,500,281_.jpg",
+    "name": "My Unicorn Girl (TV Series 2020)",
+    "seasons": {
+      "My Unicorn Girl (TV Series 2020) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBtpkZmi2G1TqbF9RECC2mZAWTPRbFHZZbyo_jbJu6dpwc?e=agUkhx",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBUBir40GK5QIRuvciaOlaVAe1mP65a7X9ZhDSw0nY54ds?e=8u7Wx1",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCfOSJNmdQ9S5E4R-2jbn9AAZuGsZyH-1ampDez6UTG_cw?e=lEIMCV",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQB60Uoz5Ap1SZBqAAl3Q7F6AZBSmLGDehwafvy0brAcwNA?e=0HPorh",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBTgDhiGfWoTbxN-mGp0W2iAUO2FNUD2VPTy2QgcLC-fII?e=B8heBr",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBZ94IlKDGzQJcQL7T2AEtLAX6lEzbwY_8GADWq_2aLqlQ?e=u2ZOhG",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDKVfaIYv7MSLX6enb9x7-qAc8uHT-vfo48a_aJnGNojlY?e=Gw7Cth",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCEm3HKuLXySY69hGKnkwVIAZS55w3h3fEWWSQVoPHXVyI?e=CMv23T",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDRQtSxoukWQ5JtYzCtVqSaAcFM-oCm_gnuPZclk2FkKTE?e=8jHZpU",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDX6KzdgLQKRYnEuGL6e4dlAbZVUMUjqK275ypqNpz6IEY?e=LFZkMO",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCQZwodgWdHRZNsUvhBGdgpAaVuUMBnfpCmRZdIrUdg-ng?e=y14fYf",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBpWMZsgq74RroQI_uCn1vSAcXvAvua6BXny2pnExQ3SK8?e=vuZUFW",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCS8IcJ1sqQRKszlV6c4O2mATRM3wzQ2GEgtOzMzwKJLgk?e=RwkdDE",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBzcAizotxgSLAaB8w2xXi_Ae4r45aNt3t6W01IdgHnI7U?e=JmdQuj",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQApbHnGxbdwTLpFN1UsHMAZAbUTpXOfAymxlAZotkJ54qE?e=D6Kx4d",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQB4z0OLZ9ISTp6YrZHGFuSVARbgPxxO27zUhLiMPUa3-lI?e=DWElnh",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDotY4AnnOpR5p5Y57yRDPAAdSmVDhoTJinJYArqF2kjCM?e=5erFUF",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQAXAc0W34-iRqvfUtND8etPAYp5ifzaINPkDCsLlylXzCs?e=v6wLjD",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCiN2qvIbDZT5PrfuOUWSOEAUHijaIz8uzlhJXeFGDD2zo?e=COE0qo",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQClycirv9h7SKsukZOg9UL1AZwXOq4E33ZRa9H0Qv4tY4M?e=83LnJw",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDWzeHK_funQow9G2Fra_mcAZumJGVJi6cXzw-WeFFSSVw?e=DrINuT",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQALA8G5fHiATpv5ZHPPT9N7AfkpbfPOeWsWR72McERfRO4?e=Z3INmK",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDE1r9srotyS54xgkZzpKNFAe3ydPekFlLFzofwI11Kssg?e=N0Cvsu",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCOiPVSKJ_-T5liJjX0FE51ATghUCJwppK30nuDJXeE4ZM?e=V6camg"
+        ]
+      },
+      "seasons_names": {
+        "season1": "My Unicorn Girl (TV Series 2020) Season 1"
+      }
+    }
+  },
+  "5017": {
+    "lang": "es",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BODhiYTQzYWUtNzhjYi00MWM4LWIzMjUtYzRkOGNiZmRiNmRlXkEyXkFqcGc@._V1_.jpg",
+    "name": "My Sad Dead (TV Mini Series 2026)",
+    "seasons": {
+      "My Sad Dead (TV Mini Series 2026) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDv31DR86BFS6AQ7wVrLRW_Ab97aCdrsZcanYVL5TPgu5A?e=egHCGl",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQD35EH1fTi7QJEiNJd16PULASS4MNMFKQN9JJzG71pGvqM?e=I3w935",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDIev0587pqQJ9fVTsnSDiSAWoReoby6KY_alDUWYxix8I?e=38KYIR",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDEiFi7F0PwT4c_gHgghiLoAYL67mGeevqTdUdNfHaRDLA?e=Yhv2L8"
+        ]
+      },
+      "seasons_names": {
+        "season1": "My Sad Dead (TV Mini Series 2026) Season 1"
+      }
+    }
+  },
+  "5018": {
+    "lang": "hej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMzQyYTEwMDYtZjkxNS00YjliLTlmZTMtY2YyYzJkYmE0NTI0XkEyXkFqcGc@._V1_.jpg",
+    "name": "The Drops of God",
+    "seasons": {
+      "The Drops of God Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBlPdB6mqmfRJENYVTGjKL9AX_zdf_zDDMK_Gkl4BTqAgo?e=5yblQu",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQAni8wznfiOTY9sz8BEdrt3AVBvTET147vEq_cu475h5Wc?e=5DOauf",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCYL5e3EFDeRa8OiwGrdEtlASL4SbdHP3PHejo4WSEi4Pg?e=w1m64d",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBZCkFrW1VPR6qhyBhBx0EkAX2Yr9PeSh1bRZQvJCYDALY?e=b6jyeV",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQAPjAT0qH9sR6pRsK8oG3iOASWFkfbafgrQb4xHzvxNgSE?e=eeRiQY",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCDs2Cm_-87SaSLkx9ejQrpAVNpCZU3iCNXTWDDMzuUBXQ?e=PbaaEo",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDtZaOqOaB2QI7BYBBeqNm2AaMHvaDlYSltu1Aoy8yAa2c?e=XYTdOy",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDfAVLWWQHBSoDmBClVcyoWAbdxhyrJY1mL75pImoPw45o?e=kquciN",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQD-7Q9h0P0lToRedRZ5PgkJAVsEoNg16hXoEYZCMiNsIIk?e=pSJhdb",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDq9Bp0fHkrRaDUu8DG2LrRAWNoXZjcouh3fP3zIj92O3g?e=INA4g9",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQA-o5ok6D7qS71DO06jMs3mASQDjbfqf1VCuwSj_lSl4B4?e=a9P4oI",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDk0YRkCPdMSZzUGeIia96eAXH8ljNpwAxaLRN67Hu8kMI?e=b1gfxB"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Drops of God Season 1"
+      }
+    }
+  },
+  "5019": {
+    "lang": "hej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BNThiMDM2MTktNGMwYi00NTY3LWEyMzQtNDg1NDBlYWIwYTU3XkEyXkFqcGc@._V1_.jpg",
+    "name": "Rent a Girlfriend (TV Series 2020–2026)",
+    "seasons": {
+      "Rent a Girlfriend (TV Series 2020–2026) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDJtttBJHfGSoCrx0Ld0-nHAfwAIdSiwtj1LpFlt-ermLo?e=QsibMR",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBZbkNzpDhOT7TRNlfgKB6vAU5Pvj5tksjcnNzIHiUgwRY?e=xfW0H2",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDBhwHNEIWPS5opehFAGsw6AXLgwFd5gxAN0afv2vBc-5c?e=CNAIKj",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQAevkBfNXU9R6QO2qx3YmKuAemPJStGXTxDnxMLHh5cAMk?e=l1gqXY",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCPUseAY3hmQ58gvakg8OzvATQ2HbbVw6qj8SM0OxOhZfc?e=m6zj6f",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQA8sWfuHpRVTan5HDIfFAirAYMCz_AJ_Uu7z2ZtKckALOo?e=XnfD3S",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCJ2QWocTINTpBIP79dHy6qAbCssilRNX78pGCPdKbe50Q?e=y0ejhe",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDPDMOtw6XBTYzPyXq5fHYIAfFH4-D63tDUHDn7Rz4o6Pc?e=aEy1Wo",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQAfLVs5KBX1Qb4sWOkS8PKkAdJ-ubMQhZ9XdnM6d5swH2Q?e=uiVwcs",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBjGpEyvbhGTYYuFh6_3xAoAecNsZ7Y4zqLe1lAlHmf7E4?e=FFJ5qr",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCSExg2mV4WRJTXwqDcJRQHAYvMW5Vrh98jQsXOwxg6FVs?e=7YQthr",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCrd3Jxih8lRoyJ4Sl6GpHrAZRTU4ZOYiSEnW3WCiY4X2Y?e=VUKmsR"
+        ]
+      },
+      "Rent a Girlfriend (TV Series 2020–2026) Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQC6RKmSgVt7TI0tigurZY2_AQW8LnkpXz9YsmtNWjDzACQ?e=ncPaRf",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQA5SGdOns9FSYBhasrgSv63ARDJBaLgW9sqtZlG70EUsEk?e=4sxd7h",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQAFAepCs9qwTIsCWH_L7Fb8ATEzOsFYk6q62zbKfSzLjcw?e=3zNQ8v",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQBfjoejEXKpRYVeRJPvki0iAXVcPc8QsXXqV3ZnCAPW3bM?e=wHstK2",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQAErpmxOdMBRZTx6ahjWZz5AQta1-FiBP2LFst8sNgmwrk?e=D3xKoe",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQA23E2V_omgRrPfnjdtYW1BAcBuqyCkGrK3bLXqWfzEI0s?e=BWDsEE",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCXIhz6iB4MSq6z5Evs9gbrAeKI2igTvTHiR24MH0uuRUg?e=uG1P2Q",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQB9VEzpZkSvRZLkbUphQgjbAVjUsE0oh6tMfzWfj7nSkKE?e=mazjjo",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCTtNvIJXjdQZ1Z_HyNklyjAWM6UIBpvSKioGUVYsF3obc?e=Q9B7tH",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQD3cxBYrOGFSovawrSVsCKrATQYZYz46hnvGid1Nm_e38A?e=1GjU2w",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQBJdUhatcXuQ4rrON3JJLeeAZVMbh0DUlNATg8dOLqGaUk?e=NnybvN",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDRjIKd6e8bS7rGXoC2XqEUATCmKxgXeZnk7-Al2Gzrg0c?e=yI4jND"
+        ]
+      },
+      "Rent a Girlfriend (TV Series 2020–2026) Season 3": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/835cd3d34f826215/IQA0EobOwbtET4U2hquVmnlgAbY9O3lWCazqn_ZM7fxa2zw?e=Xrta6W",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQCXbBhCxWhsR5em8McajwlFAd8R-rFm46_4FO-oMhvkiS0?e=0ez415",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQDSNL9zvtgFSLID7xc_CwRkAdl4w2HCecLZ1JiI0vgYENo?e=IvGghj",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQBXuqSE868bTJp-uHEkl7DRAWqLxCyucVZmuQqdHJ19Ix8?e=OWc26Y",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQBiHpwDf7vARKdY04ontXWnAThmHYjaCTXQKedtUrsjT_E?e=ivqnwe",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQAIIDcUA1MATJngdFic1D9WAdrNeMNaKj8matizl3DHbYI?e=xErE7a",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQA8EcRCUD8ZQ4P8IdSSEprQARZ2eKKhfMysSvM9bSFO-po?e=VOqTZM",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQDXitxuZbq6T5I8HKOiCMj_AckF83yGw62x5sHqAGJY0rA?e=bHcLwX",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQBjAHv1bTurRaNJvOHy9YEJASF8ZrxwMzaC-RDj9OiRjdM?e=W84n4o",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQAkrngcoWjAQb2AYR00eouVAXEgk4HcIpZxsm2k9ZpivcI?e=YctbuB",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQB45abNpSjfRK0D40KoQqCgAVBDdjwS_m8TA4kDvOn8pkk?e=PQUR6h",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQDKi3UgqAa-Qqc13khKi3n8AfM-c5YhXVWXPZm2Ld5dv5U?e=0gWxSg"
+        ]
+      },
+      "Rent a Girlfriend (TV Series 2020–2026) Season 4": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQC2LAPy3asTS5yuq6BnVXBEAS1KLLY6GCOZZoi91auMD6w?e=zzNaib",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQA9mvPsb2cdR5WL2Hf8Zh3cARcvskQFfy5aNB0hvG7e9No?e=nOQAOx",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQBYhfiJ4ki9Qq4pwpGdYj-dAbHkEiNhcgX9QfZLU-W1Ve8?e=oqm6FF",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQA4eTnk5TtjSIJvewmFmIlMAXK-hFiwuiY_d3S0NbKdzWo?e=9URHCn",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQBRJgFAuAEWQpYXDijZ4LkfAQSkLqFFssr3g0sD7yjULF4?e=JNIW4g",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQBZf0gOrEA3RaZ6-8IeqPcXAd8eoGmnVGlcr8GYWCnUn-c?e=HkzbIR",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQCxFFjy7sDjR4ahViargnjlAYcDoD3wYZcPXMUHDRhG5Gg?e=AouZNP",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQA6PoFIStQNQauWPhwzOt-QAWg3nvAycQDKxLUVfu_rnZ0?e=62cYdT",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQCqYRcVqhxdQ5ScQo-LqUaCAboj6BLP3VdqskTfVBurkgc?e=Km0gMx",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQDAwbYqR9WKT7AOz_ySY9JFAUa2U0LnH6exKIXa4cHVkSM?e=Xk498f",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQBTDT5cGwf4ToT77jzm22KRAeUbVA3AENpslXVh8HO9w10?e=Ivr0ji",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQAK2CVLD85ZSbS8HRKV6nTJAZ9I72JhEuW402MqoPYlH7I?e=5mdGC7"
+        ]
+      },
+      "Rent a Girlfriend (TV Series 2020–2026) Season 5": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQD_mWYRrjzmRaWwwEzpYutWAXRo_gDuVnO37QC_PLZmmGw?e=0XZzVS",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQBnyIvqqb6zSZB2JViEs9mgAfDSv_ZoaYm9gE4jhqqjgAo?e=wDbzym",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQDJfp_Pmsl_T7MxNKXAh4ypAWDQQuPu-QS8SLYigNE53kY?e=q9pBhq",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQCEbPY6XHTsR41Uhxs6n8dkAZxf_b5aw1gDglnLR7gNXLs?e=wYuG7i",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQAcLedQjUG-R5w_75FmjVFOAUqkWYivjXg6WVNCKRF9oPY?e=KeRlbH",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQAZP-WuwA8QRrIjHRg3gTsNAfVnPj_HSDK0YbkTkEjNBfs?e=vP8qBL",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQDVCij2v9RJR5n2mym5CjjaAa3jVzezKFHdeQUw19xDK28?e=Ok2eNB",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQAPAozGzn8iSK6wnrfI-GlyAV2n2sG4drjp1EWoIM0nvh4?e=buVzd2",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQCLz7buuYgtRbgLlLCMGHebAYJEWKB7YE6gG9EfekxYz2s?e=VXO8bh",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQCwZ_-05rPPSZYVz_8GCtgNAd96lLgT6vVo-3WzykQimok?e=ygFy1h",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQB7Am8h4ekbTpAVdp4Q6DgCATcL5tAyKgW-9swpMMXtaII?e=TT0plh",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQChr3RYlOcyTqxrNJL9d-DxAcqIm0Yzb87VE3NJafvleuQ?e=mZAwSU"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Rent a Girlfriend (TV Series 2020–2026) Season 1",
+        "season2": "Rent a Girlfriend (TV Series 2020–2026) Season 2",
+        "season3": "Rent a Girlfriend (TV Series 2020–2026) Season 3",
+        "season4": "Rent a Girlfriend (TV Series 2020–2026) Season 4",
+        "season5": "Rent a Girlfriend (TV Series 2020–2026) Season 5"
+      }
+    }
+  },
+  "5020": {
+    "lang": "e",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BOWM2YmQ0NDQtMDE2OS00MDAyLWI4MTAtYzZjMmRjMWJlMWZhXkEyXkFqcGc@._V1_.jpg",
+    "name": "The Essex Serpent (TV Mini Series 2022)",
+    "seasons": {
+      "The Essex Serpent (TV Mini Series 2022) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQA6dzduB-tATa00jzeKbO9rAeXMNeKyJDxXPfh0b-BS8Q8?e=m9IYch",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQAwdFDX4SdnSIs8WDZcuNFvAWbShiGtx4RwV8zo99WBx_w?e=Q6QGen",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQCA4mkX-F0lQYmggzQRAnrZAQr8uBMsIGjIrORIEnS6m_Y?e=r4FUaK",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDB2E6zzhWdSb4i3nE6q3KqAQr7nkjuzgTGVmdh25CIlBs?e=SaCpRq",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDEip5AV_MJQaQHQfsa_Me2ATwYgijyb8GRskPB2X1RanM?e=6GekNn",
+          "https://1drv.ms/v/c/f651fc0438fe2ae3/IQBinok07ZnWSIXZyubGs2lDARuzzpnyrm7z_DhC5T_XfRU?e=wwDjM5"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Essex Serpent (TV Mini Series 2022) Season 1"
+      }
+    }
+  },
+  "5021": {
+    "lang": "er",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BM2JhYTk5ODMtYTdkNi00ZjQ2LThkNGQtNzYyMmExNTcyN2NlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "The Murky Stream (TV Series 2025)",
+    "seasons": {
+      "The Murky Stream (TV Series 2025) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCGrXhTb-62S7fc3FMWo4m3Aali-rhqoL2SlB9b0qy37ZU?e=hY7KQm",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCH39Pq_A3kSJJ22Sr7yD0UAVroHyFuLnXWRWpqwLqve6k?e=gC77FQ",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQAqtgzXRB-pQb76Er27hGYHAWQF3pdnXRlbM-0jjaJA4a8?e=tDRHfG",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDdPnXG2e1hQIZ-u0N020mpAZGUcxr-8c1QsZbRWFLly5U?e=zo6BSQ",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQBeVP04zM_SSaSmxA0iZMoQAdBosbiC9MgfvcWT20zAqKw?e=nRV1ac",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQBKdHaGTlqST4z4s0cp_JR3AUXSAseiVrIGCS_gvHvqggU?e=BVTgQs",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQBKSRT5a-FiTqoIPO5ME8znAXVbeEqgMaHRBM8c6YpDXVQ?e=P4MQLf",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQBfKESg5HEXSL5PjSfOK09FAS2flY1zsInjW9u2ThOO6tg?e=acaxDy",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQB2_c6OREEJR4QOzeAUyJqOAT6Z7jTRZ0UN4cyrzx9Hdy0?e=RBwINX"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Murky Stream (TV Series 2025) Season 1"
+      }
+    }
+  },
+  "5022": {
+    "lang": "er",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BMzRiNmE2ZTYtYWVjYy00NTAyLThkYzEtYjg4ZjI1Y2JlZDc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Extracurricular (TV Series 2020)",
+    "seasons": {
+      "Extracurricular (TV Series 2020) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCW5ON35z_MRZwf0PPUsDJTAYLseQd4Tcr8zf8ypX3ET9k?e=lQmGWt",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQCzZYheDrG-TLUR-RS7QnvgATmd2630Vwh8QFtBm7h4Dzk?e=CYK1sM",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQBpk1iH19kdRb0h0VCqQmaWAYRDL-JDFRcjv3PkOr0FwjA?e=1fkntt",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQBViiTJclfMQLu1V8mJFEVvAXYUgvUiceIfjqzYN-CB8NE?e=VNUdZs",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQBIT44hh2BUQoUGZdVTnmRzAfo31iZRkjXzAcWj5fL__nQ?e=jHdhrP",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQAxijx-9S2bQa4iNLpt0czWAZdXzjw16gl47CsKz7d9Z_U?e=4Y5nOW",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQBMiEEY-LirQKcQMSyd-dcQAZEom3PlbkgDqwWQTOejVTQ?e=jbP2B7",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQDK4Ube_sIHRqLmumq6Sc_kAS1ZpPzEdVlB_acd1huvEjY?e=qzwNcK",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQC_U_nx7NrOQ4k4M3RQWoBtAUkzZbGblc4w2pFzao4T-80?e=NZNA0y",
+          "https://1drv.ms/v/c/97f08caf0d2bd820/IQAn3iA2AwZiQqQ3Sns13k0_AWjRzC5fhcvg6klhh0d8174?e=CtaCFa"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Extracurricular (TV Series 2020) Season 1"
+      }
+    }
+  },
+  "5023": {
+    "lang": "hr",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BM2MzMjYxMTctMTY1OC00MzA5LTk2MDctMGYwMThjY2U5YThlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Chip In (TV Series 2020)",
+    "seasons": {
+      "Chip In (TV Series 2020) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/835cd3d34f826215/IQDuSyM3Me_fT75JLm0Lg-HqAUz5cfagF-BPKiZgMteoLLI?e=1j2edF",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQB3BuZS6zzUT5Gxaxeugn7PAdn7wH4u8GF1MISLgdvHLfg?e=7lBJQy",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQBjHsM8tK8aQIfLMRr7r3iGAV8j86brM9HjkxTKk5Wz0LY?e=9uCnK8",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQCFPqpmwXF8ToRqjY0ZpZtYAXDcTyXZqo-JMdvjmhbYiIc?e=QdSJPa",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQDlQ2ZiCL_mQK9zfFCRxJrCAcIeNDa81UV0_YRVSH40p1M?e=citPDR",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQDIWsGgj1MLSJuX51HLltU5AVVvanqRFEou3nKjzviBkKs?e=LSAlDl",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQAt74JHCmhOT4moKQBXkU7MAUV6FI9GM8LdzGV1zJPIsRU?e=TyXHYF",
+          "https://1drv.ms/v/c/835cd3d34f826215/IQCcOCGF4QErRKe9Opx5uu6JAWsEnQ2J3sfwYl0Rp-qbWA0?e=3jb1fh"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Chip In (TV Series 2020) Season 1"
+      }
+    }
+  },
+  "5024": {
+    "lang": "hej",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZmZkZjNhMWMtM2U0Mi00MjdlLTk3NmMtMTMwZjgwOTJmODMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "name": "Black Clover (TV Series 2017–2026)",
+    "seasons": {
+      "Black Clover (TV Series 2017–2026) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQCviX7BSjn6RaKvyqRgOHp5AQ0pZuYBg5nkfKz-rGIxDS0?e=tk0Vj1",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQAoj7UP6lJIRKoE8uTXrw1iAVp-oGU81SNYRNWfgsjoyls?e=yQnCJT",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQAuS5Mw3GReTZecHn1-0RbNAU5QFDu6UIOXqtTJNdIDv_g?e=DS3hw1",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQBh52OW8FR8TZrGSS96OfdVAefh8q1pRlDqhwjvDsJ2rz0?e=dQRInV",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQAdbShRwp8YS6IFIpH_3OJcAbHcbBsTDwRfZboWc2ptYR0?e=WUvpqF",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQAyolzWIaNGR7VWNrnR8wL4AT54rJf3IAvC92Nanv1m6A8?e=xQgHsw",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQDFSBMzy3RcTJ62MEo47YRUASJDOo7sozWGvNetQjUu2Po?e=2QGhvW",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQBqObEFhwAlTIPcTNU3C-abAUlIQlDz4S8F57kGRW9PfWA?e=oHfbrk",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQCMakyPt0nwSK9iaqIZvddRAci3LvPyyYtimRWRWRXY7pA?e=KkJzO8",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQDgViXg2Zj9RLH1ifj5f9iqAfBNZ5Bs1z1MOmk2RNWDD9w?e=hjKHgi"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Black Clover (TV Series 2017–2026) Season 1"
+      }
+    }
+  },
+  "5025": {
+    "lang": "htues",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZDI1YTE5ZDEtNDBlNS00MWRlLWJjY2UtYjhiMjhkMDlhMjk5XkEyXkFqcGc@._V1_.jpg",
+    "name": "The Final Problem (TV Mini Series 2026)",
+    "seasons": {
+      "The Final Problem (TV Mini Series 2026) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQC44PsNBLKOS6oQ7ktD-pQuAd7JE8e45iGxX_1cvwT68lQ?e=9P39FC",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQD9qajc_BpPSIvMOjPtZkn2AaFV8FzVPGB6kHlk-K150T4?e=mpmaOW",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQCt_O2bZ5_WQL509RtRQ7ytAb9d5GHrOugQ7DtLpGGinBs?e=wJpP0b",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQBZ5TmsrpXDQ4xdcr7yVC2DAaBzoCUTZtcE0MIHShz7kxM?e=ZiHaLZ"
+        ]
+      },
+      "seasons_names": {
+        "season1": "The Final Problem (TV Mini Series 2026) Season 1"
+      }
+    }
+  },
+  "5026": {
+    "lang": "htur",
+    "mainPoster": "https://m.media-amazon.com/images/M/MV5BZDBiNDE1NzUtYmU0OS00YmUxLTljODUtOTczNDE3ZGQ0MmYzXkEyXkFqcGc@._V1_.jpg",
+    "name": "Reply 1988 (TV Series 2015–2016)",
+    "seasons": {
+      "Reply 1988 (TV Series 2015–2016) Season 1": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQATH-AHEFdaRbpxd3OIslNqAWH3jJ_wFQG4qXBmwjFywAI?e=45qT4F",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQDvhtZMPoP2QLwjLTnmKWmkAW7KBPCilE13IrnnVlDPZm0?e=m0xy1s",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQCRJ9SyFLSpT5hZPyILDC1mAYiSiq3Eju2X6eZAnYvcc5Q?e=Ejfhuu",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQCYpsqBQxqFRYRM1t1GT5m1AV5qt07WRkgLgkGNKoh7ZdI?e=pPDaO6",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQDzZlVlJRtlQ7Fx61051qz3AcW2r_t14Y0TABraB8O2CLY?e=wznFdO",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQDyxLKqeIUNSYphXfimHSH-Af-YKKtRWdzlB8MLp9klb18?e=BdCMSV",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQD-tH9wzZ6TQ66taSGZMk95AbA8Gc252L-0cZg5hXO0aYg?e=jneIvn",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQAlb4ENzEVyQ4eYZ3E8HF1FAQ93sQ90hTBvSI_Yikcc6S4?e=kwA5gd",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQCUddJIBd2CRrHHDazjC_FaAXZKxC3yzDJ__zm-nNvrSjw?e=1kXB3b",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQDX6BmEEhNxRrJNpjtinBxCAc6bVfWN-pyiB7Cp0clAhMY?e=SHydBK",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQATEE1U38LKQKrpgwuQPxRoAZcIZuqWfMvbIt3dGbAQyrI?e=1u1uJF",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQD6OJ5y7QBvQpoUib5VEQFDAYszNgHBwy_0XJcZOs4f_GU?e=cjAkKj",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQCnMU1R453ZTrAdpgnHPz9sAQ5TEwaW0NrX0BV2RSsabNk?e=4hr8lN",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQB5qn7siMJwSI5-Oj6DUBbjAfGMrYq_-dr6QOJG2Q8mK_8?e=JcdJbd",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQAkt8vRtaMvSoUhmZZEAEi3AVxy470UOD8DVW7zXuOYJD0?e=nJp5oS",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQASsPJ27lW6Rp-rODcJ6I9NAf9dpfQMf2jIvcXhhNQn-LU?e=38kDtH",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQD64VMqPEafQIHVLsaCQEKKAW7-UrZUi09n4r1VO5ouxYk?e=AyaSdd",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQD-tc5jJOB8SZyuTChM20O6AddbqwazbW-lzzI_1R51afc?e=AjhdRZ",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQBAaB8qTvo4S64wvv8nSVuAAcrxnH2p8p3B0gqvv7eB3pQ?e=w0CH8A",
+          "https://1drv.ms/v/c/46b025d437c34cbc/IQD9Sa2-_n1iT6cebUE6ZGaCAYmvfXKQZDgYqnrCR6sQSZM?e=gkgUPF"
+        ]
+      },
+      "seasons_names": {
+        "season1": "Reply 1988 (TV Series 2015–2016) Season 1"
+      }
+    }
+  },
   "12122": {
     "lang": "e",
     "mainPoster": "https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_.jpg",
@@ -170377,5 +170771,5 @@
       }
     }
   },
-  "header": 5014
+  "header": 5026
 }
