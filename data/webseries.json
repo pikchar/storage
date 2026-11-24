@@ -172304,8 +172304,22 @@
           "https://1drv.ms/v/c/f651fc0438fe2ae3/IQDhnJu0UYgnRJeVxXAjB43DAWmerQM9bdZXDC1i90JNqbE?e=Y6Kp9d"
         ]
       },
+      "Dhindora Season 2": {
+        "episodes_url": [
+          null,
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQCsz2_gLK2ITpTWhIXRZdOkAVTT2KiWAPn_zMDwPL3OX4g?e=ZXxllJ",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQDQXOLhz0JRSozEOz6hrW6uAZrX55xWdMLFOFkrsFQfN28?e=hhJbxd",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQCiS-egVvuuTamLboYUy2RNAfMksR-3rbcpZeSnzeR5sNM?e=u5Amco",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQCosHqBesgRQbpwQGzEcC44AdtlJx5gpIsz3NuimvatSCw?e=PmwmKI",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQDY8paYBIyTRo6fPotwBfYsAVJSNA_UQYNiSlLtZ6HGFzM?e=IIAWQw",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQA5OrZ2BEIJTJgRk50ILt8KAdRQ4o-JBoNJpsoUCCVb6Ng?e=CWSPeG",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQCaS41eOEAZSa97roDEWn_EAUyNSbxAKyFcwh8c8Dsl97E?e=uf1SqT",
+          "https://1drv.ms/v/c/360b2a2bce53e2af/IQCZkvdjvpNXRK0MfJlqXErYAZOtdIxusKe_ZSTJmyWAQzY?e=fdRp2P"
+        ]
+      },
       "seasons_names": {
-        "season1": "Dhindora Season 1"
+        "season1": "Dhindora Season 1",
+        "season2": "Dhindora Season 2"
       }
     }
   },
